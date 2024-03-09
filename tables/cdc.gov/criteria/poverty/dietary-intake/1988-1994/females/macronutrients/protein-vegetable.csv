@@ -1,0 +1,7 @@
+Age,"Total : Sample size","Total : Mean","Total : Standard error","Total : Median","Poverty income ratio ≤ 1.300 : Sample size","Poverty income ratio ≤ 1.300 : Mean","Poverty income ratio ≤ 1.300 : Standard error","Poverty income ratio ≤ 1.300 : Median","Poverty income ratio > 1.300 : Sample size","Poverty income ratio > 1.300 : Mean","Poverty income ratio > 1.300 : Standard error","Poverty income ratio > 1.300 : Median"
+"All ages",15182,20,0.2,18,5767,20,0.4,17,8001,20,0.2,18
+"Under 6 years",3461,14,0.2,13,1581,15,0.5,13,1580,14,0.3,14
+"6–11 years",1553,20,0.6,18,733,22,1.1,19,693,19,0.5,18
+"12–19 years",1659,21,0.6,19,711,22,1.1,20,796,20,0.6,18
+"20–59 years",5921,21,0.3,19,1939,21,0.6,18,3484,21,0.3,19
+"60 years and over",2588,20,0.3,18,803,18,0.6,16,1448,20,0.3,19

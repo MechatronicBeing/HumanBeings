@@ -1,0 +1,11 @@
+Age,"Urban areas more than 1000000 persons : Mean","Urban areas more than 1000000 persons : standard error","Urban areas more than 1000000 persons : standard deviation","Urban areas less than 1000000 persons : Mean","Urban areas less than 1000000 persons : standard error","Urban areas less than 1000000 persons : standard deviation","Urban not in urbanized area : Mean","Urban not in urbanized area : standard error","Urban not in urbanized area : standard deviation","Rural area : Mean","Rural area : standard error","Rural area : standard deviation"
+"7-74 years",78.1,0.43,13.5,79.8,0.7,13.7,78.8,0.54,12.8,79.8,0.5,13.9
+"7-11 years",63.6,0.75,9.4,64.4,1.22,9,64.6,1.45,10.2,67.2,0.75,9.5
+"12-17 years",69.8,0.7,9.7,71.6,0.87,9.6,71.4,1.22,9.6,70.3,0.61,10.7
+"18-24 years",76.8,1.08,9.6,75.6,0.99,10.6,76.1,0.92,9.5,76.6,0.88,10.2
+"25-34 years",79.9,1.05,10.8,81.3,0.63,9.8,79.2,1.3,9.6,82.6,0.74,10.1
+"35-44 years",83.6,1.13,11.9,88.1,0.97,11.2,83.4,1.22,9.2,83.9,0.97,11.7
+"45-54 years",86.5,0.75,12.4,89.2,1.45,12.3,85.4,1.25,10.3,89.6,1.37,15.1
+"55-64 years",85.2,1.16,12.1,86.5,1.86,13.5,89,1.78,11.8,87.6,1.13,11.7
+"65-74 years",86,1.07,12.3,84.5,1.46,13.9,85.4,1,13.6,85.6,0.59,13.2
+"Age-adjusted value",78.3,,,79.7,,,78.6,,,79.8,,

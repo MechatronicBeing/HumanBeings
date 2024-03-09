@@ -1,0 +1,15 @@
+This report contains national estimates of blood pressure levels of the U.S. civilian noninstitutionalized population 6-74 years of age based on findings from the Health and Nutrition Examination Survey of 1971-1974.
+For this survey a national probability sample of 28,043 persons age l-74 years was selected to represent the 194.0 million persons in the target population of that age. Of this sample, 20,749 persons (74.0 percent) were examined. The
+national estimates of blood pressure levels of the population in this report are based on findings for the 24,513 persons in the sample 6-74 years of age. Of this group 17,854 persons (72.8 percent or 74.4 percent if age-adjusted) were examined.
+Only one blood pressure measurement was taken on each examinee with the use of a sphygmomanometer. Standard procedures were followed by the examining physician responsible for these measurements.
+
+The findings are as follows:
+- Among boys and girls age 6-17 years mean systolic and diastolic blood pressure increases substantially with age. Before age 15 the mean pressure levels for boys and girls are similar; in ages 15-17 years the mean blood pressure levels for boys consistently exceed those for girls, the differences increasing with age. 
+- Mean systolic and diastolic pressures continue to increase with age into the adult age range, but at a slower rate than among children and youths. 
+- Among adults systolic pressure continues to increase with age, and although the mean values for men exceed those for women in ages 18-54 years, from 55 years on the mean levels for women are higher. 
+- Diastolic pressure (mean values) of men increases with age and significantly exceeds mean diastolic pressure of women in ages 18-54 years, then decreases slowly from 55 years on; among women mean diastolic pressure levels off at 65-74 years but does not decrease significantly. 
+- Mean systolic and diastolic blood pressures decrease significantly with increase in family income and with education, the two socioeconomic factors considered here. 
+- Both systolic and diastolic mean blood pressures decrease with increasing population density in the areas of residence. 
+- An estimated 23.4 million persons in the United States 12-74 years of age including 23.2 million or 18.1 per 100 persons 18-74 years have definite hypertension -that is either systolic blood pressure of at least 160 mm.Hg OR diastolic blood pressure of at least 95 mm.Hg. The prevalence rate of definite hypertension, as defined here, increases rapidly with age from 0.8 per 100 at 12-17 years to 40.7 per 100 at 65-74 years. In ages 18-54 years definite hypertension is more prevalent among men than women, while at 65-74 years the condition is more prevalent among women. 
+- About one-fourth of the adults with definite hypertension have diastolic blood pressure of at least 105 mm.Hg. 
+- More than half the adults with definite hypertension have never been told by their doctors that they have this condition or high blood pressure.

@@ -1,0 +1,15 @@
+Diseases,Number,"Percent of total deaths","Rate (per 100000)"
+"All diseases",56668,100,6985.6
+Infectious,24308,42.9,2996.5
+"Respiratory system",13295,23.5,1638.9
+"Nervous system",6085,10.7,750.1
+"Digestive system",2942,5.2,362.7
+"Accidents and injuries",2273,4,280.2
+"Consumption (Tuberculosis)",1175,2.1,144.8
+"Genitourinary system",430,0.8,53
+"Circulatory system",394,0.7,48.6
+"Bones and joints",203,0.4,25
+Skin,91,0.2,11.2
+Cancer,45,0.1,5.5
+"Absorbent system",18,0,2.2
+"Other causes",5409,9.5,666.8

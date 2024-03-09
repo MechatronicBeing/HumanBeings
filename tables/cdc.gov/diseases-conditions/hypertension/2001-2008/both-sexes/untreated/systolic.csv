@@ -1,0 +1,5 @@
+Age,"Sample size",Mean,"Standard error",5th,25th,50th,75th,95th
+"18 years and over, age-adjusted",2225,146,0.3,127,141,146,156,179
+"18–39 years",306,140,0.6,123,134,141,145,154
+"40–59 years",710,147,0.6,125,140,144,152,174
+"60 years and over",1209,157,0.5,140,145,152,164,189

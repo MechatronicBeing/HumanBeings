@@ -1,0 +1,14 @@
+"Cause of death",Number,"Percent of total deaths","Rate (per 100000)"
+"All causes",5207,100,250.7
+"Sudden infant death syndrome",1404,27,67.6
+"Congenital malformations, deformations and chromosomal abnormalities",802,15.4,38.6
+"Accidents (unintentional injuries)",451,8.7,21.7
+"Diseases of the circulatory system",212,4.1,10.2
+"Assault (homicide)",187,3.6,9
+"Influenza and pneumonia",148,2.8,7.1
+Septicemia,139,2.7,6.7
+"Chronic respiratory disease originating in the perinatal period",134,2.6,6.5
+"Gastritis, duodenitis, and noninfective enteritis and colitis",115,2.2,5.5
+"Malignant neoplasms",48,0.9,2.3
+"Respiratory distress of newborn",48,0.9,2.3
+"All other causes",1519,29.2,73.1

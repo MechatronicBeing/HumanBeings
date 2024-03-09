@@ -1,0 +1,12 @@
+Age,"Education less than 5 years : Mean","Education less than 5 years : standard error","Education less than 5 years : standard deviation","Education 5-8 years : Mean","Education 5-8 years : standard error","Education 5-8 years : standard deviation","Education 9-12 years : Mean","Education 9-12 years : standard error","Education 9-12 years : standard deviation","Education 13 years or more : Mean","Education 13 years or more : standard error","Education 13 years or more : standard deviation"
+"7-17 years (education : head of the household)",67.6,1.54,10.6,67.6,0.7,10.4,67.8,0.49,9.9,66.8,0.52,10.5
+"7-11 years (education : head of the household)",65.4,1.73,8.5,64.7,0.98,9.8,65.2,0.62,9.6,63.4,0.9,10.4
+"12-17 years (education : head of the household)",69.6,1.97,11.8,69.4,0.8,10.4,69.9,0.47,9.7,69.6,0.56,9.7
+"18-74 years",88.6,1.24,14.8,85.4,0.5,13.5,80.8,0.33,12.7,79.4,0.37,12.1
+"18-24 years",75.8,2.22,7.5,73.4,1.49,10.5,74,0.45,10.7,73.6,0.58,9.9
+"25-34 years",85.9,3.56,11.7,79.1,0.93,9.6,78.5,0.33,11.3,76.2,0.51,10.1
+"35-44 years",84.4,1.76,13,85.2,0.93,12.2,81.7,0.51,12,82.3,0.72,12.6
+"45-54 years",91,2.67,17.4,86.2,0.97,14,85.2,0.69,13.7,85.4,1.1,11.9
+"55-64 years",90.5,2.42,14.2,88.8,0.79,13.2,85.6,0.54,11.8,84.9,1.08,11.8
+"65-74 years",89.1,1.09,14.1,86,0.7,13.5,85.4,0.6,12.4,83.9,0.84,12
+"Age-adjusted value (18-74 years)",85.7,,,82.6,,,81.2,,,80.5,,

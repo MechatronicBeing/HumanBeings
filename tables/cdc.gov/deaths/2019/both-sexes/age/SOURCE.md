@@ -1,0 +1,6 @@
+Tables : Deaths, percentage of total deaths, and death rates for the 10 leading causes of death in selected age groups, United States, 2019
+Source : https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-09-508.pdf
+Title : "Deaths: Leading Causes for 2019"
+Pages : 18-21, 93, 98, 104
+Author(s) : U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES ; Centers for Disease Control and Prevention ; National Center for Health Statistics ; National Vital Statistics System
+License : "All material appearing in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."

@@ -1,0 +1,9 @@
+Age,"Rate per 100 persons","Standard error of rate","Population in thousands"
+"12-17 years",0.1,0.07,27
+"18-74 years",4.8,0.34,6172
+"18-24 years",0.5,0.18,119
+"25-34 years",1.5,0.32,403
+"35-44 years",5,0.72,1130
+"45-54 years",8.7,1.05,2048
+"55-64 years",8,0.93,1505
+"65-74 years",7.6,0.64,968

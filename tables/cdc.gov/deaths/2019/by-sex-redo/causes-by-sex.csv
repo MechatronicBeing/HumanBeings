@@ -1,0 +1,70 @@
+"Cause of death ","Both sexes",Male,Female
+"All causes",869.7,911.7,829
+"Enterocolitis due to Clostridium difficile",1.4,1.2,1.6
+Septicemia,11.7,11.7,11.7
+"Viral hepatitis",1.3,1.7,0.9
+"Human immunodeficiency virus (HIV) disease",1.5,2.3,0.8
+"Malignant neoplasms",182.7,195.4,170.3
+"Malignant neoplasms of lip, oral cavity and pharynx",3.2,4.6,1.9
+"Malignant neoplasm of esophagus",4.9,7.9,1.9
+"Malignant neoplasm of stomach",3.4,4.1,2.7
+"Malignant neoplasms of colon, rectum and anus",16.1,17.4,14.9
+"Malignant neoplasms of liver and intrahepatic bile ducts",8.5,11.6,5.6
+"Malignant neoplasm of pancreas",14,14.7,13.3
+"Malignant neoplasms of trachea, bronchus and lung",42.6,46.3,38.9
+"Malignant melanoma of skin",2.5,3.3,1.7
+"Malignant neoplasm of breast",13,0.3,25.4
+"Malignant neoplasm of cervix uteri",1.3,…,2.5
+"Malignant neoplasm of ovary",4.1,…,8.1
+"Malignant neoplasm of prostate",9.6,19.6,…
+"Malignant neoplasms of kidney and renal pelvis",4.3,5.7,2.9
+"Malignant neoplasm of bladder",5.1,7.5,2.8
+"Malignant neoplasms of meninges, brain and other parts of central nervous system",5.3,6.1,4.5
+"Non-Hodgkin lymphoma",6.2,7.1,5.3
+"Multiple myeloma and immunoproliferative neoplasms",3.9,4.5,3.4
+Leukemia,7.1,8.4,5.8
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",4.7,5.2,4.3
+Anemias,1.6,1.5,1.7
+"Diabetes mellitus",26.7,30.6,22.9
+"Nutritional deficiencies",3.5,2.7,4.3
+Obesity,2.6,2.7,2.4
+"Parkinson disease",10.8,13.4,8.2
+"Alzheimer disease",37,23.5,50.1
+"Major cardiovascular diseases",265,279.2,251.2
+"Diseases of heart",200.8,221.3,180.9
+"Essential hypertension and hypertensive renal disease",11.1,10.3,12
+"Cerebrovascular diseases",45.7,39.8,51.4
+Atherosclerosis,1.3,1.3,1.4
+"Aortic aneurysm and dissection",3,3.6,2.5
+"Influenza and pneumonia",15.2,15.2,15.1
+"Chronic lower respiratory diseases",47.8,45.6,50
+"Pneumonitis due to solids and liquids",5.8,6.7,5
+"Chronic liver disease and cirrhosis",13.5,17.4,9.8
+"Alcoholic liver disease",7.3,10.3,4.5
+"Cholelithiasis and other disorders of gallbladder",1.2,1.2,1.2
+"Nephritis, nephrotic syndrome and nephrosis",15.7,16.5,14.9
+"Pregnancy, childbirth and the puerperium",0.3,…,0.7
+"Certain conditions originating in the perinatal period",3.2,3.6,2.7
+"Congenital malformations, deformations and chromosomal abnormalities",3,3.1,2.8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",9.9,9.7,10
+"Accidents (unintentional injuries)",52.7,69.7,36.2
+"Motor vehicle accidents",11.9,17.2,6.8
+Falls,12,12.4,11.6
+"Accidental discharge of firearms",0.1,0.3,0
+"Accidental drowning and submersion",1.1,1.7,0.5
+"Accidental hanging, strangulation, and suffocation",2.2,2.6,1.8
+"Accidental exposure to smoke, fire and flames",0.8,1,0.6
+"Accidental poisoning and exposure to noxious substances",20,28.6,11.8
+"Intentional self-harm (suicide)",14.5,23,6.2
+"Intentional self-harm (suicide) by poisoning",1.9,1.9,1.8
+"Intentional self-harm (suicide) by hanging, strangulation and suffocation",4.1,6.6,1.8
+"Intentional self-harm (suicide) by discharge of firearms",7.3,12.8,1.9
+"Assault (homicide)",5.8,9.4,2.3
+"Assault (homicide) by discharge of firearms",4.4,7.5,1.4
+"Legal intervention",0.2,0.4,0
+"Complications of medical and surgical care",1.6,1.8,1.5
+"Dementia-related causes5",82.8,56,108.9
+"Drug-induced deaths5",22.7,31.2,14.5
+"Drug overdose deaths5",21.5,29.6,13.7
+"Alcohol-induced deaths5",11.9,17.3,6.7
+"Injury by firearms5",12.1,21.1,3.4

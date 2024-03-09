@@ -1,0 +1,16 @@
+Diseases,Number,"Percent of total deaths","Rate (per 100000)"
+"All diseases",82867,100,4378.4
+"Consumption (Tuberculosis)",11921,14.4,629.9
+"Respiratory system",11264,13.6,595.1
+"Nervous system",9635,11.6,509.1
+"Circulatory system",9124,11,482.1
+Infectious,8412,10.2,444.5
+"Genitourinary system",6843,8.3,361.6
+Cancer,6310,7.6,333.4
+"Digestive system",5834,7,308.2
+"Accidents and injuries",5655,6.8,298.8
+"Bones and joints",215,0.3,11.4
+Skin,195,0.2,10.3
+"Affections connected with pregnancy",138,0.2,7.3
+"Absorbent system",104,0.1,5.5
+"Other causes",7217,8.7,381.3
