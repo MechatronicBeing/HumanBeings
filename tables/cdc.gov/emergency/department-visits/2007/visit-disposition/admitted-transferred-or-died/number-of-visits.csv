@@ -1,0 +1,13 @@
+"Admitted, transferred, or died","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"Admitted to hospital",14641,1033
+"Stepdown or telemetry unit",2895,308
+"Critical care unit2",1689,154
+"Operating room",649,71
+"Mental health or detoxification unit",581,80
+"Cardiac catheterization lab",-,-
+"Other bed or unit",7184,579
+"Unknown or blank",1551,244
+"Admitted to observation unit",2453,354
+"Transferred to different hospital",2147,222
+"Died in emergency department",139,29

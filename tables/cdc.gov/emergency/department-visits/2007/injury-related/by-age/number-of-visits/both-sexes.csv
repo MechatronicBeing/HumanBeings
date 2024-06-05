@@ -1,0 +1,12 @@
+Age,"Number of visits in thousands","Standard error in thousands"
+"All injury-related visits",39395,2089
+"Under 15 years",7303,516
+"Under 1 year",405,62
+"1–4 years",2429,198
+"5–14 years",4469,324
+"15–24 years",7112,466
+"25–44 years",11633,691
+"45–64 years",8119,457
+"65 years and over",5227,328
+"65–74 years",1963,148
+"75 years and over",3265,213

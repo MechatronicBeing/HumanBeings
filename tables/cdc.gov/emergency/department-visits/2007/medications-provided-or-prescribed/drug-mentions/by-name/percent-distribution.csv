@@ -1,0 +1,23 @@
+"Drug name","Percent distribution","Standard error of percent"
+"All drug mentions",100,-
+Ibuprofen,6.8,0.3
+Acetaminophen-hydrocodone,6.1,0.3
+Acetaminophen,4.9,0.2
+Promethazine,3.5,0.2
+Ketorolac,3.4,0.2
+Morphine,3.2,0.2
+Ondansetron,2.8,0.2
+Hydromorphone,2.4,0.2
+"Sodium chloride",2.3,0.3
+Acetaminophen-oxycodone,2.1,0.2
+Albuterol,2,0.1
+Azithromycin,1.7,0.1
+Amoxicillin,1.6,0.1
+Aspirin,1.6,0.1
+Ceftriaxone,1.6,0.1
+Cephalexin,1.5,0.1
+Sulfamethoxazole-trimethoprim,1.4,0.1
+Diphenhydramine,1.4,0.1
+Lorazepam,1.3,0.1
+Levofloxacin,1.2,0.1
+"All other",47,0.6

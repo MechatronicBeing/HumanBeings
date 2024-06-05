@@ -1,0 +1,4 @@
+"Triage category","Mean length of stay in days","Standard error in days"
+"All admissions",5.3,0.1
+"Immediate or emergent5",5.8,0.3
+Other,5.1,0.1

@@ -1,0 +1,12 @@
+"Providers seen","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"Registered nurse or licensed practical nurse",105923,6002
+"Any physician",104718,5495
+"Emergency department attending physician",101554,5335
+"Emergency department resident or intern",9290,1141
+"Other on-call attending physician, fellow, or resident",5500,861
+"Physician assistant",10717,1546
+"Nurse practitioner",4724,696
+"Emergency medical technician",10053,1138
+Other,28600,2814
+Blank,1848,248

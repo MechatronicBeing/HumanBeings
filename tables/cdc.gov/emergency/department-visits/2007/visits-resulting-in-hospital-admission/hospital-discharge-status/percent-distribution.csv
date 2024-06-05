@@ -1,0 +1,9 @@
+"Hospital discharge status","Percent distribution","Standard error of percent"
+"All admissions",100,-
+Alive,83.6,2.2
+"Home or residence",76.9,2.4
+"Transferred to another hospital",7.4,0.8
+Other,5.1,0.6
+"Unknown or blank",10.6,2.8
+Died,2.3,0.3
+"Unknown or blank",14.1,2.2

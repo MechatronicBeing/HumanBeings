@@ -1,0 +1,6 @@
+"Left or referred out from triage","Percent of visits","Standard error of percent"
+"Left before medical screening exam",1.7,0.1
+"Left against medical advice",1.2,0.1
+"Left after medical screening exam",1.1,0.2
+Other,0.5,0.1
+Blank,1.2,0.3

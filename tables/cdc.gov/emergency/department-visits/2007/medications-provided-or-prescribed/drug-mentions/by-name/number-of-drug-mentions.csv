@@ -1,0 +1,23 @@
+"Drug name","Number of drug mentions in thousands","Standard error in thousands"
+"All drug mentions",213387,12070
+Ibuprofen,14607,992
+Acetaminophen-hydrocodone,13114,1032
+Acetaminophen,10430,717
+Promethazine,7446,564
+Ketorolac,7335,529
+Morphine,6747,523
+Ondansetron,6064,615
+Hydromorphone,5074,502
+"Sodium chloride",4940,721
+Acetaminophen-oxycodone,4557,424
+Albuterol,4190,261
+Azithromycin,3591,259
+Amoxicillin,3509,332
+Aspirin,3449,292
+Ceftriaxone,3369,302
+Cephalexin,3276,285
+Sulfamethoxazole-trimethoprim,3008,265
+Diphenhydramine,2992,208
+Lorazepam,2795,213
+Levofloxacin,2666,250
+"All other",100228,5444
