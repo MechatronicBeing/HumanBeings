@@ -1,0 +1,5 @@
+Age,"Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"All visits, age under 15 years",22308,1864
+"All visits, age 15–64 years",76959,4249
+"All visits, age 65 years and over",17535,1014

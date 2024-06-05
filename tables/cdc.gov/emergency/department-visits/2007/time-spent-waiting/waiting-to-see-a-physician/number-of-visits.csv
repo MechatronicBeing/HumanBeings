@@ -1,0 +1,11 @@
+"Time spent waiting to see a physician","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"Fewer than 15 minutes",20803,1537
+"15–59 minutes",41657,2216
+"1 hour, but fewer than 2 hours",16683,1080
+"2 hours, but fewer than 3 hours",5846,487
+"3 hours, but fewer than 4 hours",2272,247
+"4 hours, but fewer than 6 hours",1584,187
+"6 hours or more",906,132
+"Not seen by a physician",10236,1136
+Blank,16815,2433

@@ -1,0 +1,7 @@
+"Patient residence","Number of visits in thousands","Standard error in thousands"
+"Private residence",106436,5937
+"Nursing home",2323,175
+"Other institution",1077,126
+"Other residence",604,85
+Homeless,542,72
+"Unknown or blank",5820,613

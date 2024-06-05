@@ -1,0 +1,6 @@
+"Pulse oximetry1","Percent distribution","Standard error of percent"
+"All visits",100,-
+"95–100% ",67.4,1.9
+90–94%,4.6,0.3
+"less than 90%",2.4,0.5
+"Unknown or blank",25.7,1.9
