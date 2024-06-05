@@ -1,0 +1,12 @@
+"Expected sources of payment","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"Private insurance",45580,2864
+"Medicaid or SCHIP2",29379,1780
+Medicare,20133,1180
+"Medicare and Medicaid3",3478,276
+"No insurance4",17926,1317
+Self-pay,17037,1285
+"No charge or charity",1155,271
+"Workers' compensation",1823,182
+Other,2764,311
+"Unknown or blank",10484,2109

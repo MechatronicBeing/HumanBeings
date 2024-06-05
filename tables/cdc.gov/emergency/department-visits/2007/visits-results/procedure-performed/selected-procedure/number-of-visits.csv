@@ -1,8 +1,5 @@
-"Selected procedures","Number of visits in thousands","Standard error in thousands"
+"Procedure performed","Number of visits in thousands","Standard error in thousands"
 "All visits",116802,6293
-"One or more procedure listed",53090,3219
-None,57911,3475
-Blank,5801,702
 "Intravenous fluids",31045,2021
 "Splint or wrap",6681,466
 "Laceration repair",5125,319
