@@ -1,0 +1,58 @@
+"Table 21. Number and percentage of emergency department visits with corresponding standard errors, by visit disposition: United",,
+"States, 2007",,
+,,
+,"Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+,,
+,,
+"Admitted, transferred, or died","Number of visits in thousands","Standard error in thousands"
+"Admitted to hospital",14641,1033
+"Stepdown or telemetry unit",2895,308
+"Critical care unit2",1689,154
+"Operating room",649,71
+"Mental health or detoxification unit",581,80
+"Cardiac catheterization lab",-,-
+"Other bed or unit",7184,579
+"Unknown or blank",1551,244
+"Admitted to observation unit",2453,354
+"Transferred to different hospital",2147,222
+"Died in emergency department",139,29
+,,
+"Outpatient follow-up","Number of visits in thousands","Standard error in thousands"
+"Return or refer to physician or clinic for follow-up",72108,4050
+"Return to emergency department as needed or by appointment",41332,3079
+"Refer to social services",925,107
+"No follow-up planned",6311,1033
+,,
+"Left or referred out from triage","Number of visits in thousands","Standard error in thousands"
+"Left before medical screening exam",1928,183
+"Left against medical advice",1381,143
+"Left after medical screening exam",1289,200
+Other,639,113
+Blank,1396,300
+,,
+"Admitted, transferred, or died","Percent of visits","Standard error of percent"
+"Admitted to hospital",12.5,0.6
+"Stepdown or telemetry unit",2.5,0.2
+"Critical care unit2",1.4,0.1
+"Operating room",0.6,0.1
+"Mental health or detoxification unit",0.5,0.1
+"Cardiac catheterization lab",-,-
+"Other bed or unit",6.2,0.4
+"Unknown or blank",1.3,0.2
+"Admitted to observation unit",2.1,0.3
+"Transferred to different hospital",1.8,0.2
+"Died in emergency department",0.1,0
+,,
+"Outpatient follow-up","Percent of visits","Standard error of percent"
+"Return or refer to physician or clinic for follow-up",61.7,1.3
+"Return to emergency department as needed or by appointment",35.4,1.8
+"Refer to social services",0.8,0.1
+"No follow-up planned",5.4,0.7
+,,
+"Left or referred out from triage","Percent of visits","Standard error of percent"
+"Left before medical screening exam",1.7,0.1
+"Left against medical advice",1.2,0.1
+"Left after medical screening exam",1.1,0.2
+Other,0.5,0.1
+Blank,1.2,0.3

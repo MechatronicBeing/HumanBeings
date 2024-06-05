@@ -1,0 +1,147 @@
+"Table 19. Number and percent distribution of drug mentions at emergency department visits, with corresponding standard errors, by generic equivalents with therapeutic",,
+"categories, according to whether the drug was given in the emergency department or prescribed at discharge: United States, 2007",,
+,,
+"Drug name","Number of drug mentions in thousands","Standard error in thousands"
+"All drug mentions",213387,12070
+Ibuprofen,14607,992
+Acetaminophen-hydrocodone,13114,1032
+Acetaminophen,10430,717
+Promethazine,7446,564
+Ketorolac,7335,529
+Morphine,6747,523
+Ondansetron,6064,615
+Hydromorphone,5074,502
+"Sodium chloride",4940,721
+Acetaminophen-oxycodone,4557,424
+Albuterol,4190,261
+Azithromycin,3591,259
+Amoxicillin,3509,332
+Aspirin,3449,292
+Ceftriaxone,3369,302
+Cephalexin,3276,285
+Sulfamethoxazole-trimethoprim,3008,265
+Diphenhydramine,2992,208
+Lorazepam,2795,213
+Levofloxacin,2666,250
+"All other",100228,5444
+,,
+"Drug name","Percent distribution","Standard error of percent"
+"All drug mentions",100,-
+Ibuprofen,6.8,0.3
+Acetaminophen-hydrocodone,6.1,0.3
+Acetaminophen,4.9,0.2
+Promethazine,3.5,0.2
+Ketorolac,3.4,0.2
+Morphine,3.2,0.2
+Ondansetron,2.8,0.2
+Hydromorphone,2.4,0.2
+"Sodium chloride",2.3,0.3
+Acetaminophen-oxycodone,2.1,0.2
+Albuterol,2,0.1
+Azithromycin,1.7,0.1
+Amoxicillin,1.6,0.1
+Aspirin,1.6,0.1
+Ceftriaxone,1.6,0.1
+Cephalexin,1.5,0.1
+Sulfamethoxazole-trimethoprim,1.4,0.1
+Diphenhydramine,1.4,0.1
+Lorazepam,1.3,0.1
+Levofloxacin,1.2,0.1
+"All other",47,0.6
+,,
+" Given in emergency department",,
+"Drug name","Percent of mentions","Standard error of percent"
+"All drug mentions",62.3,1.1
+Ibuprofen,3,0.1
+Acetaminophen-hydrocodone,2.1,0.1
+Acetaminophen,2.8,0.1
+Promethazine,2.8,0.2
+Ketorolac,3.3,0.2
+Morphine,3.1,0.2
+Ondansetron,2.7,0.2
+Hydromorphone,2.3,0.2
+"Sodium chloride",2.2,0.3
+Acetaminophen-oxycodone,1,0.1
+Albuterol,1.2,0.1
+Azithromycin,0.7,0
+Amoxicillin,0.4,0
+Aspirin,1.4,0.1
+Ceftriaxone,1.5,0.1
+Cephalexin,0.4,0
+Sulfamethoxazole-trimethoprim,0.4,0
+Diphenhydramine,1.1,0.1
+Lorazepam,1.1,0.1
+Levofloxacin,0.9,0.1
+"All other",28,0.6
+,,
+"Prescribed at discharge",,
+"Drug name","Percent of mentions","Standard error of percent"
+"All drug mentions",44.2,1.1
+Ibuprofen,4.6,0.2
+Acetaminophen-hydrocodone,4.9,0.2
+Acetaminophen,2.4,0.2
+Promethazine,1.1,0.1
+Ketorolac,0.2,0
+Morphine,*0.1,0
+Ondansetron,0.3,0
+Hydromorphone,0.1,0
+"Sodium chloride",0,0
+Acetaminophen-oxycodone,1.6,0.1
+Albuterol,1,0.1
+Azithromycin,1.2,0.1
+Amoxicillin,1.5,0.1
+Aspirin,0.2,0
+Ceftriaxone,0.1,0
+Cephalexin,1.3,0.1
+Sulfamethoxazole-trimethoprim,1.2,0.1
+Diphenhydramine,0.5,0
+Lorazepam,0.2,0
+Levofloxacin,0.5,0.1
+"All other",21.3,0.7
+,,
+Unknown,,
+"Drug name","Percent of mentions","Standard error of percent"
+"All drug mentions",2.7,0.4
+Ibuprofen,0.2,0
+Acetaminophen-hydrocodone,0.1,0
+Acetaminophen,0.2,0
+Promethazine,0.1,0
+Ketorolac,0.1,0
+Morphine,0.1,0
+Ondansetron,0,0
+Hydromorphone,0.1,0
+"Sodium chloride",0.1,0
+Acetaminophen-oxycodone,*0.0,0
+Albuterol,*0.1,0
+Azithromycin,*0.0,0
+Amoxicillin,*0.0,0
+Aspirin,0.1,0
+Ceftriaxone,*0.0,0
+Cephalexin,0,0
+Sulfamethoxazole-trimethoprim,*0.0,0
+Diphenhydramine,0,0
+Lorazepam,*0.0,0
+Levofloxacin,*0.0,0
+"All other",1.4,0.3
+,,
+"Drug name","Therapeutic drug category",
+Ibuprofen,Analgesics,
+Acetaminophen-hydrocodone,Analgesics,
+Acetaminophen,Analgesics,
+Promethazine,"Antiemetic/antivertigo agents or antihistamines",
+Ketorolac,Analgesics,
+Morphine,Analgesics,
+Ondansetron,"Antiemetic/antivertigo agents",
+Hydromorphone,Analgesics,
+"Sodium chloride","Minerals and electrolytes or miscellaneous respiratory agents",
+Acetaminophen-oxycodone,Analgesics,
+Albuterol,Bronchodilators,
+Azithromycin,"Macrolide derivatives",
+Amoxicillin,Penicillins,
+Aspirin,"Analgesics or antiplatelet agents",
+Ceftriaxone,Cephalosporins,
+Cephalexin,Cephalosporins,
+Sulfamethoxazole-trimethoprim,"Miscellaneous antibiotics or sulfonamides",
+Diphenhydramine,"Antiemetic/antivertigo agents or antihistamines; anti-Parkinson agents; or anxiolytics, sedatives, and hypnotics",
+Lorazepam,"Anticonvulsants; antiemetic/antivertigo agents; or anxiolytics, sedatives, and hypnotics",
+Levofloxacin,Quinolones,

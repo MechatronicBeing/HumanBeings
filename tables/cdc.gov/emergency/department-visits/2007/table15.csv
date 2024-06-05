@@ -1,0 +1,92 @@
+"Table 15. Number and percentage of emergency department visits with corresponding standard errors, by diagnostic services ordered or",,
+"provided: United States, 2007",,
+,,
+,"Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"One or more diagnostic or screening service listed2",77561,4295
+None,36071,2263
+Blank,3169,508
+,,
+,,
+"Blood tests","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"Complete blood count",41341,2442
+"Blood urea nitrogen or creatinine",25801,1968
+Glucose,22836,1734
+Electrolytes,22752,1913
+"Cardiac enzymes",14177,1203
+"Liver function tests",9226,895
+"Prothrombin time or international normalized ratio INR",6121,576
+"Blood culture",4202,349
+"Toxicology screen",3181,321
+"Arterial blood gases",2795,374
+"Blood alcohol concentration",1910,203
+"Other blood test",21061,1433
+"Any blood test listed",46476,2700
+,,
+Imaging,"Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+X-ray,39460,2272
+"Computed tomography scan",16186,1052
+Head,7839,553
+"Other than head",7815,600
+Ultrasound,3537,308
+"Magnetic resonance imaging scan",763,92
+Head,308,48
+"Other than head",357,52
+"Other imaging",1181,139
+"Any imaging",51862,2984
+,,
+"Examinations and tests","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+Urinalysis,26267,1494
+Electrocardiogram,19435,1157
+"Cardiac monitor",9387,820
+"Pregnancy test",5577,463
+"Rapid flu or influenza test",1485,382
+"Wound culture",969,127
+"Other test or service",13034,1256
+,,
+,,
+,,
+,"Percent of visits","Standard error of percent"
+"One or more diagnostic or screening service listed2",66.4,0.9
+None,30.9,0.9
+Blank,2.7,0.4
+,,
+,,
+"Blood tests","Percent of visits","Standard error of percent"
+"Complete blood count",35.4,0.9
+"Blood urea nitrogen or creatinine",22.1,1.1
+Glucose,19.6,1
+Electrolytes,19.5,1.2
+"Cardiac enzymes",12.1,0.7
+"Liver function tests",7.9,0.6
+"Prothrombin time or international normalized ratio INR",5.2,0.4
+"Blood culture",3.6,0.2
+"Toxicology screen",2.7,0.2
+"Arterial blood gases",2.4,0.3
+"Blood alcohol concentration",1.6,0.2
+"Other blood test",18,0.8
+"Any blood test listed",39.8,0.9
+,,
+Imaging,"Percent of visits","Standard error of percent"
+X-ray,33.8,0.8
+"Computed tomography scan",13.9,0.5
+Head,6.7,0.3
+"Other than head",6.7,0.4
+Ultrasound,3,0.2
+"Magnetic resonance imaging scan",0.7,0.1
+Head,0.3,0
+"Other than head",0.3,0
+"Other imaging",1,0.1
+"Any imaging",44.4,0.9
+,,
+"Examinations and tests","Percent of visits","Standard error of percent"
+Urinalysis,22.5,0.6
+Electrocardiogram,16.6,0.5
+"Cardiac monitor",8,0.5
+"Pregnancy test",4.8,0.3
+"Rapid flu or influenza test",1.3,0.3
+"Wound culture",0.8,0.1
+"Other test or service",11.2,1

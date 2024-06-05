@@ -1,0 +1,32 @@
+"Table 17. Number and percent distribution of emergency department visits with corresponding standard errors, by medications provided",,
+"or prescribed: United States, 2007",,
+,,
+"Number of medications provided or prescribed","Number of visits in thousands","Standard error in thousands"
+"1 or more",89108,4832
+"Number of medications provided or prescribed","Percent distribution","Standard error of percent"
+"1 or more",76.3,0.7
+,,
+,,
+"Number of medications provided or prescribed","Number of visits in thousands","Standard error in thousands"
+"All visits",116802,6293
+"No mention of medication",27694,1742
+1,30658,1752
+2,25695,1410
+3,15775,975
+4,8340,547
+5,4440,348
+6,2052,190
+7,1043,116
+8,1106,186
+,,
+,,
+"Number of medications provided or prescribed","Percent distribution","Standard error of percent"
+"No mention of medication",23.7,0.7
+1,26.2,0.5
+2,22,0.4
+3,13.5,0.3
+4,7.1,0.2
+5,3.8,0.2
+6,1.8,0.1
+7,0.9,0.1
+8,0.9,0.2
