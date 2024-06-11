@@ -1,0 +1,348 @@
+"Table 5. Ambulatory care visits by setting type, according to characteristics of patient’s ZIP Code of residence: United States, 2007",,
+,,
+,,
+,,
+,,
+,,
+"Urban-rural classification","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Large central metro",305695,28614
+"Large fringe metro",254086,17840
+"Medium metro",284802,34738
+"Small metro",99767,15065
+Nonmetropolitan,196784,20981
+Micropolitan,111627,18147
+"Noncore (nonmetro)",85158,9990
+,,
+"Median household income","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Quartile 1 ($0 to $32,793)",273597,19945
+"Quartile 2 ($32,794 to $40,626)",260852,15437
+"Quartile 3 ($40,627 to $52,387)",267658,16544
+"Quartile 4 ($52,388 and over)",311314,19317
+,,
+"Percentage with bachelor’s degree or higher","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Quartile 1 (0–1283)",276791,16854
+"Quartile 2 (1284–1966)",268486,18082
+"Quartile 3 (1967–3168)",275661,14862
+"Quartile 4 (3169 and over)",292200,17662
+,,
+"Percentage of poverty","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Less than 5 percent",250565,15654
+"5.00–9.99 percent",330123,17574
+"10.00–19.99 percent",359314,19956
+"20 percent of more",173347,13382
+,,
+"Percentage of poverty (method 2)","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Less than 20 percent",940001,36699
+"20.00–29.99 percent",127133,10888
+"30.00–39.99 percent",34118,4369
+"40 percent or more",12096,2568
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+"Urban-rural classification","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Large central metro",25.5,2.2
+"Large fringe metro",21.2,1.4
+"Medium metro",23.7,2.7
+"Small metro",8.3,1.2
+Nonmetropolitan,16.4,1.7
+Micropolitan,9.3,1.4
+"Noncore (nonmetro)",7.1,0.9
+,,
+"Median household income","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Quartile 1 ($0 to $32,793)",22.8,1.5
+"Quartile 2 ($32,794 to $40,626)",21.7,1.1
+"Quartile 3 ($40,627 to $52,387)",22.3,1.1
+"Quartile 4 ($52,388 and over)",25.9,1.4
+,,
+"Percentage with bachelor’s degree or higher","Percent distribution","Standard error of percent"
+"All visits",100,
+"Quartile 1 (0–1283)",23.1,1.3
+"Quartile 2 (1284–1966)",22.4,1.1
+"Quartile 3 (1967–3168)",23,1.1
+"Quartile 4 (3169 and over)",24.3,1.2
+,,
+"Percentage of poverty","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Less than 5 percent",20.9,1.1
+"5.00–9.99 percent",27.5,1.1
+"10.00–19.99 percent",29.9,1.2
+"20 percent of more",14.4,1.1
+,,
+"Percentage of poverty (method 2)","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Less than 20 percent",78.3,1.3
+"20.00–29.99 percent",10.6,0.8
+"30.00–39.99 percent",2.8,0.4
+"40 percent or more",1,0.2
+,,
+"Setting type ----------------------------",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",48.1,1.4
+"Surgical specialty offices",16.4,1
+"Medical specialty offices",18.4,1
+"Hospital outpatient departments",7.4,0.8
+"Hospital emergency departments",9.7,0.5
+,,
+,,
+"Urban-rural classification",,
+"Urban-rural classification",,
+"Urban-rural classification",,
+,,
+,,
+"Large central metro",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",52.1,3
+"Surgical specialty offices",14.4,1.6
+"Medical specialty offices",15.7,1.6
+"Hospital outpatient departments",7.3,1.1
+"Hospital emergency departments",10.5,1.2
+,,
+"Large fringe metro",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",49.6,2.8
+"Surgical specialty offices",16.9,1.9
+"Medical specialty offices",19.4,2
+"Hospital outpatient departments",5.9,1.1
+"Hospital emergency departments",8.1,1
+,,
+"Medium metro",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",42.4,2.9
+"Surgical specialty offices",18,2.2
+"Medical specialty offices",21.1,2.4
+"Hospital outpatient departments",8,1.7
+"Hospital emergency departments",10.4,1.3
+,,
+"Small metro",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",50.7,4.9
+"Surgical specialty offices",16.9,2.5
+"Medical specialty offices",16.3,2.2
+"Hospital outpatient departments",6.8,2
+"Hospital emergency departments",9.2,2.4
+,,
+Nonmetropolitan,,
+,,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",45.5,3.2
+"Surgical specialty offices",16.1,2
+"Medical specialty offices",19.1,2.1
+"Hospital outpatient departments",9.5,2.5
+"Hospital emergency departments",9.8,1.4
+,,
+Micropolitan,,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,-
+"Primary care offices",47.1,3.9
+"Surgical specialty offices",17.7,2.3
+"Medical specialty offices",20.7,2.7
+"Hospital outpatient departments",5.9,1.4
+"Hospital emergency departments",8.6,1.7
+,,
+"Noncore (nonmetro)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",43.5,4.6
+"Surgical specialty offices",14,2.4
+"Medical specialty offices",16.9,3.2
+"Hospital outpatient departments",*14.2,5
+"Hospital emergency departments",11.4,1.6
+,,
+,,
+"Median household income",,
+,,
+,,
+"Quartile 1 ($0 to $32,793)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",45.1,2.7
+"Surgical specialty offices",14,1.3
+"Medical specialty offices",16.5,1.7
+"Hospital outpatient departments",11,1.9
+"Hospital emergency departments",13.4,1.4
+,,
+"Quartile 2 ($32,794 to $40,626)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",48.1,2
+"Surgical specialty offices",15.5,1.3
+"Medical specialty offices",17.7,1.5
+"Hospital outpatient departments",8.5,1.1
+"Hospital emergency departments",10.1,0.8
+,,
+"Quartile 3 ($40,627 to $52,387)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",44.3,1.8
+"Surgical specialty offices",19.7,1.8
+"Medical specialty offices",20.7,1.4
+"Hospital outpatient departments",6.3,0.8
+"Hospital emergency departments",9,0.7
+,,
+"Quartile 4 ($52,388 and over)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",53,2.2
+"Surgical specialty offices",16.3,1.4
+"Medical specialty offices",18.8,1.4
+"Hospital outpatient departments",4.9,0.8
+"Hospital emergency departments",7,0.7
+,,
+"Percentage with bachelor’s degree or higher",,
+,,
+"Quartile 1 (0–1283)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",47.6,2.3
+"Surgical specialty offices",13.7,1.3
+"Medical specialty offices",15.9,1.7
+"Hospital outpatient departments",9.8,1.3
+"Hospital emergency departments",13,1.1
+,,
+"Quartile 2 (1284–1966)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",44.5,2.3
+"Surgical specialty offices",18.4,1.5
+"Medical specialty offices",18.3,1.3
+"Hospital outpatient departments",8.2,1.2
+"Hospital emergency departments",10.5,0.9
+,,
+"Quartile 3 (1967–3168)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",49.4,2
+"Surgical specialty offices",17.6,1.5
+"Medical specialty offices",17.6,1.2
+"Hospital outpatient departments",7,0.9
+"Hospital emergency departments",8.4,0.6
+,,
+,,
+"Quartile 4 (3169 and over)",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",49.7,2.3
+"Surgical specialty offices",15.9,1.3
+"Medical specialty offices",21.7,1.6
+"Hospital outpatient departments",5.5,0.9
+"Hospital emergency departments",7.2,0.7
+,,
+"Median household income",,
+,,
+"Less than 5 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",53.7,2.4
+"Surgical specialty offices",16.7,1.5
+"Medical specialty offices",18.7,1.6
+"Hospital outpatient departments",4.4,0.8
+"Hospital emergency departments",6.6,0.7
+,,
+"5.00–9.99 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",47,1.8
+"Surgical specialty offices",18.3,1.5
+"Medical specialty offices",20,1.3
+"Hospital outpatient departments",6,0.7
+"Hospital emergency departments",8.8,0.6
+,,
+"10.00–19.99 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",46.4,2
+"Surgical specialty offices",16,1.4
+"Medical specialty offices",17.9,1.3
+"Hospital outpatient departments",9.1,1.3
+"Hospital emergency departments",10.6,0.8
+,,
+"20 percent of more",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",43.9,3.1
+"Surgical specialty offices",13.2,1.3
+"Medical specialty offices",16.4,1.9
+"Hospital outpatient departments",12.1,1.8
+"Hospital emergency departments",14.5,1.4
+,,
+,,
+,,
+"Median household income",,
+,,
+,,
+"Less than 20 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",48.6,1.4
+"Surgical specialty offices",17,1.1
+"Medical specialty offices",18.8,1
+"Hospital outpatient departments",6.7,0.8
+"Hospital emergency departments",8.9,0.5
+,,
+"20.00–29.99 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",46.5,2.9
+"Surgical specialty offices",13.3,1.5
+"Medical specialty offices",16.3,1.7
+"Hospital outpatient departments",10.5,1.6
+"Hospital emergency departments",13.5,1.4
+,,
+"30.00–39.99 percent",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",33.5,5.4
+"Surgical specialty offices",14.1,2.3
+"Medical specialty offices",18.2,5.3
+"Hospital outpatient departments",17.3,3.9
+"Hospital emergency departments",16.9,2.4
+,,
+"40 percent or more",,
+,,
+"Setting type","Percent distribution","Standard error of percent"
+"Combined settings",100,
+"Primary care offices",45.9,9
+"Surgical specialty offices",10,2.1
+"Medical specialty offices",*12.3,4.6
+"Hospital outpatient departments",14,3.6
+"Hospital emergency departments",17.8,4.4

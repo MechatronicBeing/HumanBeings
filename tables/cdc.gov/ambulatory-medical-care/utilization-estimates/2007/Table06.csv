@@ -1,0 +1,82 @@
+"Table 6. The 35 leading primary diagnosis groups at ambulatory care visits, with percent distribution by setting type: United States, 2007",,
+,,
+"Combined settings",,
+,,
+"Primary diagnosis group ","Number of visits in thousands","Standard error in thousands"
+"All visits",1200017,42950
+"Essential hypertension",46284,3508
+"Routine infant or child health check",43317,3680
+"Acute upper respiratory infections, excluding pharyngitis ",40207,2744
+"Arthropathies and related disorders",36218,4016
+"Spinal disorders",31675,3161
+"Malignant neoplasms",28150,2936
+"Diabetes mellitus",27683,2671
+"Rheumatism, excluding back",22490,1960
+"Specific procedures and aftercare",21845,2360
+"General medical examination",20914,2419
+"Normal pregnancy",19747,2438
+"Follow up examination",19653,3078
+"Otitis media and eustachian tube disorders",17972,1446
+Asthma,17034,2383
+"Heart disease, excluding ischemic ",16687,1740
+"Gynecological examination",14679,2491
+"Ischemic heart disease",13928,1487
+"Allergic rhinitis",13393,2562
+"Psychoses, excluding major depressive disorder",12996,1278
+"Chronic sinusitis",12482,1149
+Glaucoma,12222,2364
+"Benign neoplasms",11856,1142
+"Abdominal pain",11772,901
+"Acute pharyngitis",11570,970
+"Disorders of lipoid metabolism",11404,1294
+"Sprains and strains, excluding ankle and back",11075,1366
+"Potential health hazards related to personal and family history",10980,969
+"Chronic and unspecified bronchitis",10835,1065
+"Contact dermatitis and other eczema",10360,1252
+Cataract,9957,1535
+"Depressive disorder, not elsewhere classified",9356,1013
+"Chest pain",9338,801
+"Contusion with intact skin surface",9087,692
+"Complications of pregnancy, childbirth, and the puerperium",8994,1355
+"Urinary tract infection, site not specified",8642,862
+"All other diagnoses",565217,19717
+,,
+,,
+"Primary diagnosis group ","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Essential hypertension",3.9,0.3
+"Routine infant or child health check",3.6,0.3
+"Acute upper respiratory infections, excluding pharyngitis ",3.4,0.2
+"Arthropathies and related disorders",3,0.3
+"Spinal disorders",2.6,0.2
+"Malignant neoplasms",2.3,0.2
+"Diabetes mellitus",2.3,0.2
+"Rheumatism, excluding back",1.9,0.1
+"Specific procedures and aftercare",1.8,0.2
+"General medical examination",1.7,0.2
+"Normal pregnancy",1.6,0.2
+"Follow up examination",1.6,0.2
+"Otitis media and eustachian tube disorders",1.5,0.1
+Asthma,1.4,0.2
+"Heart disease, excluding ischemic ",1.4,0.1
+"Gynecological examination",1.2,0.2
+"Ischemic heart disease",1.2,0.1
+"Allergic rhinitis",1.1,0.2
+"Psychoses, excluding major depressive disorder",1.1,0.1
+"Chronic sinusitis",1,0.1
+Glaucoma,1,0.2
+"Benign neoplasms",1,0.1
+"Abdominal pain",1,0.1
+"Acute pharyngitis",1,0.1
+"Disorders of lipoid metabolism",1,0.1
+"Sprains and strains, excluding ankle and back",0.9,0.1
+"Potential health hazards related to personal and family history",0.9,0.1
+"Chronic and unspecified bronchitis",0.9,0.1
+"Contact dermatitis and other eczema",0.9,0.1
+Cataract,0.8,0.1
+"Depressive disorder, not elsewhere classified",0.8,0.1
+"Chest pain",0.8,0.1
+"Contusion with intact skin surface",0.8,0.1
+"Complications of pregnancy, childbirth, and the puerperium",0.7,0.1
+"Urinary tract infection, site not specified",0.7,0.1
+"All other diagnoses",47.1,0.6

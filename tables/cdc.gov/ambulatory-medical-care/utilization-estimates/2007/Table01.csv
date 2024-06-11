@@ -1,0 +1,610 @@
+"Table 1. Ambulatory care visits by setting type, according to selected patient and provider characteristics: United States, 2007",
+,
+"Setting type","Number of visits in thousands"
+"Combined settings",1200017
+"Primary care offices",576650
+"Surgical specialty offices",196598
+"Medical specialty offices",221073
+"Hospital outpatient departments",88894
+"Hospital emergency departments",116802
+,
+"Combined settings",
+,
+"Patient age","Number of visits in thousands"
+"All ages",1200017
+"Under 15 years",205765
+"Under 1 year",38072
+"1–4 years",69220
+"5–14 years",98473
+"15–24 years",111171
+"25–44 years",259318
+"45–64 years",334088
+"65 years and over",289675
+"65–74 years",142528
+"75 years and over",147147
+,
+"Primary care offices",
+,
+"Patient age","Number of visits in thousands"
+"All ages",576650
+"Under 15 years",141716
+"Under 1 year",29014
+"1–4 years",50346
+"5–14 years",62356
+"15–24 years",55852
+"25–44 years",131076
+"45–64 years",139637
+"65 years and over",108369
+"65–74 years",54431
+"75 years and over",53938
+,
+"Surgical specialty offices",
+,
+"Patient age","Number of visits in thousands"
+"All ages",196598
+"Under 15 years",13274
+"Under 1 year",1367
+"1–4 years",3682
+"5–14 years",8225
+"15–24 years",11269
+"25–44 years",28591
+"45–64 years",68647
+"65 years and over",74816
+"65–74 years",36449
+"75 years and over",38367
+,
+"Medical specialty offices",
+,
+"Patient age","Number of visits in thousands"
+"All ages",221073
+"Under 15 years",12491
+"Under 1 year",*
+"1–4 years",2162
+"5–14 years",9591
+"15–24 years",14453
+"25–44 years",43494
+"45–64 years",75606
+"65 years and over",75029
+"65–74 years",36925
+"75 years and over",38104
+,
+"Hospital outpatient departments",
+,
+"Patient age","Number of visits in thousands"
+"Hospital outpatient departments",88894
+"Under 15 years",15976
+"Under 1 year",3187
+"1–4 years",4689
+"5–14 years",8099
+"15–24 years",10613
+"25–44 years",22672
+"45–64 years",25707
+"65 years and over",13926
+"65–74 years",7815
+"75 years and over",6111
+,
+"Hospital emergency departments",
+,
+"Patient age","Number of visits in thousands"
+"Hospital emergency departments",116802
+"Under 15 years",22308
+"Under 1 year",3766
+"1–4 years",8340
+"5–14 years",10202
+"15–24 years",18983
+"25–44 years",33485
+"45–64 years",24491
+"65 years and over",17535
+"65–74 years",6908
+"75 years and over",10627
+,
+"Combined settings",
+,
+"Patient sex","Number of visits in thousands"
+Female,699206
+Male,500811
+,
+"Primary care offices",
+,
+"Patient sex","Number of visits in thousands"
+Female,354044
+Male,222606
+,
+"Surgical specialty offices",
+,
+"Patient sex","Number of visits in thousands"
+Female,104025
+Male,92573
+,
+"Medical specialty offices",
+,
+"Patient sex","Number of visits in thousands"
+Female,122472
+Male,98601
+,
+"Hospital outpatient departments",
+,
+"Patient sex","Number of visits in thousands"
+Female,55494
+Male,33400
+,
+"Hospital emergency departments",
+,
+"Patient sex","Number of visits in thousands"
+Female,63170
+Male,53632
+,
+"Combined settings",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",721961
+Medicare,274927
+"Medicare and Medicaid",23613
+"Medicaid or SCHIP",181232
+"No insurance",74896
+Self-pay,68159
+"No charge or charity",7529
+"Worker’s compensation",15208
+Other,34891
+"Unknown or blank",54298
+,
+"Primary care offices",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",375919
+Medicare,101118
+"Medicare and Medicaid",8349
+"Medicaid or SCHIP",88685
+"No insurance",28230
+Self-pay,26306
+"No charge or charity","*2,299"
+"Worker’s compensation",1920
+Other,14657
+"Unknown or blank",24571
+,
+"Surgical specialty offices",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",128787
+Medicare,68491
+"Medicare and Medicaid",3506
+"Medicaid or SCHIP",13940
+"No insurance",7423
+Self-pay,6844
+"No charge or charity",*
+"Worker’s compensation",4796
+Other,6237
+"Unknown or blank","*6,925"
+,
+"Medical specialty offices",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",136222
+Medicare,69512
+"Medicare and Medicaid",5586
+"Medicaid or SCHIP",19759
+"No insurance",13013
+Self-pay,12410
+"No charge or charity",*651
+"Worker’s compensation","*5,759"
+Other,6665
+"Unknown or blank","*8,412"
+,
+"Hospital outpatient departments",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",35453
+Medicare,15673
+"Medicare and Medicaid",2694
+"Medicaid or SCHIP",29469
+"No insurance",8303
+Self-pay,5563
+"No charge or charity","*2,844"
+"Worker’s compensation",910
+Other,4568
+"Unknown or blank",3905
+,
+"Hospital emergency departments",
+,
+"Expected source(s) of payment1","Number of visits in thousands"
+"Private insurance",45580
+Medicare,20133
+"Medicare and Medicaid",3478
+"Medicaid or SCHIP",29379
+"No insurance",17926
+Self-pay,17037
+"No charge or charity",1155
+"Worker’s compensation",1823
+Other,2764
+"Unknown or blank",10484
+,
+"Combined settings",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,221676
+Midwest,259276
+South,491407
+West,227658
+,
+"Primary care offices",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,89505
+Midwest,118571
+South,250089
+West,118485
+,
+"Surgical specialty offices",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,42607
+Midwest,44788
+South,70103
+West,39100
+,
+"Medical specialty offices",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,46291
+Midwest,43187
+South,94826
+West,36768
+,
+"Hospital outpatient departments",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,22789
+Midwest,27668
+South,27676
+West,10761
+,
+"Hospital emergency departments",
+,
+"Geographic region of provider","Number of visits in thousands"
+Northeast,20484
+Midwest,25062
+South,48713
+West,22543
+,
+"Combined settings",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,1027481
+"Not MSA",172536
+,
+"Primary care offices",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,482327
+"Not MSA",94323
+,
+"Surgical specialty offices",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,174172
+"Not MSA",22426
+,
+"Medical specialty offices",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,198724
+"Not MSA",22349
+,
+"Hospital outpatient departments",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,73183
+"Not MSA",15711
+,
+"Hospital emergency departments",
+,
+"MSA status of provider","Number of visits in thousands"
+MSA,99074
+"Not MSA",17728
+,
+"Percent distribution",
+"Patient age",
+,
+"All visits",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",48.1
+"Surgical specialty offices",16.4
+"Medical specialty offices",18.4
+"Hospital outpatient departments",7.4
+"Hospital emergency departments",9.7
+,
+"Under 15 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",68.9
+"Surgical specialty offices",6.5
+"Medical specialty offices",6.1
+"Hospital outpatient departments",7.8
+"Hospital emergency departments",10.8
+,
+"Under 1 year",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",76.2
+"Surgical specialty offices",3.6
+"Medical specialty offices",*
+"Hospital outpatient departments",8.4
+"Hospital emergency departments",9.9
+,
+"1–4 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",72.7
+"Surgical specialty offices",5.3
+"Medical specialty offices",3.1
+"Hospital outpatient departments",6.8
+"Hospital emergency departments",12
+,
+"5–14 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",63.3
+"Surgical specialty offices",8.4
+"Medical specialty offices",9.7
+"Hospital outpatient departments",8.2
+"Hospital emergency departments",10.4
+,
+"15–24 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",50.2
+"Surgical specialty offices",10.1
+"Medical specialty offices",13
+"Hospital outpatient departments",9.5
+"Hospital emergency departments",17.1
+,
+"25–44 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",50.5
+"Surgical specialty offices",11
+"Medical specialty offices",16.8
+"Hospital outpatient departments",8.7
+"Hospital emergency departments",12.9
+,
+"45–64 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",41.8
+"Surgical specialty offices",20.5
+"Medical specialty offices",22.6
+"Hospital outpatient departments",7.7
+"Hospital emergency departments",7.3
+,
+"65 years and over",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",37.4
+"Surgical specialty offices",25.8
+"Medical specialty offices",25.9
+"Hospital outpatient departments",4.8
+"Hospital emergency departments",6.1
+,
+"65–74 years",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",38.2
+"Surgical specialty offices",25.6
+"Medical specialty offices",25.9
+"Hospital outpatient departments",5.5
+"Hospital emergency departments",4.8
+,
+"75 years and over",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",36.7
+"Surgical specialty offices",26.1
+"Medical specialty offices",25.9
+"Hospital outpatient departments",4.2
+"Hospital emergency departments",7.2
+,
+"Patient sex",
+,
+Female,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",50.6
+"Surgical specialty offices",14.9
+"Medical specialty offices",17.5
+"Hospital outpatient departments",7.9
+"Hospital emergency departments",9
+,
+Male,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",44.4
+"Surgical specialty offices",18.5
+"Medical specialty offices",19.7
+"Hospital outpatient departments",6.7
+"Hospital emergency departments",10.7
+,
+,
+"Expected source(s) of payment",
+,
+"Private insurance",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",52.1
+"Surgical specialty offices",17.8
+"Medical specialty offices",18.9
+"Hospital outpatient departments",4.9
+"Hospital emergency departments",6.3
+,
+Medicare,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",36.8
+"Surgical specialty offices",24.9
+"Medical specialty offices",25.3
+"Hospital outpatient departments",5.7
+"Hospital emergency departments",7.3
+,
+"Medicare and Medicaid",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",35.4
+"Surgical specialty offices",14.8
+"Medical specialty offices",23.7
+"Hospital outpatient departments",11.4
+"Hospital emergency departments",14.7
+,
+"Medicaid or SCHIP",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",48.9
+"Surgical specialty offices",7.7
+"Medical specialty offices",10.9
+"Hospital outpatient departments",16.3
+"Hospital emergency departments",16.2
+,
+"No insurance",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",37.7
+"Surgical specialty offices",9.9
+"Medical specialty offices",17.4
+"Hospital outpatient departments",11.1
+"Hospital emergency departments",23.9
+,
+Self-pay,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",38.6
+"Surgical specialty offices",10
+"Medical specialty offices",18.2
+"Hospital outpatient departments",8.2
+"Hospital emergency departments",25
+,
+"No charge or charity",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",*30.5
+"Surgical specialty offices",*
+"Medical specialty offices",*8.7
+"Hospital outpatient departments",*37.8
+"Hospital emergency departments",15.3
+,
+"Worker’s compensation",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",12.6
+"Surgical specialty offices",31.5
+"Medical specialty offices",37.9
+"Hospital outpatient departments",6
+"Hospital emergency departments",12
+,
+Other,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",42
+"Surgical specialty offices",17.9
+"Medical specialty offices",19.1
+"Hospital outpatient departments",13.1
+"Hospital emergency departments",7.9
+,
+"Unknown or blank",
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",45.3
+"Surgical specialty offices",*12.8
+"Medical specialty offices",15.5
+"Hospital outpatient departments",7.2
+"Hospital emergency departments",19.3
+,
+,
+"Geographic region of provider",
+,
+Northeast,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",40.4
+"Surgical specialty offices",19.2
+"Medical specialty offices",20.9
+"Hospital outpatient departments",10.3
+"Hospital emergency departments",9.2
+,
+Midwest,
+,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",45.7
+"Surgical specialty offices",17.3
+"Medical specialty offices",16.7
+"Hospital outpatient departments",10.7
+"Hospital emergency departments",9.7
+,
+South,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",50.9
+"Surgical specialty offices",14.3
+"Medical specialty offices",19.3
+"Hospital outpatient departments",5.6
+"Hospital emergency departments",9.9
+,
+West,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",52
+"Surgical specialty offices",17.2
+"Medical specialty offices",16.2
+"Hospital outpatient departments",4.7
+"Hospital emergency departments",9.9
+,
+,
+,
+"MSA status of provider",
+,
+MSA,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",46.9
+"Surgical specialty offices",17
+"Medical specialty offices",19.3
+"Hospital outpatient departments",7.1
+"Hospital emergency departments",9.6
+,
+"Not MSA",
+,
+,
+"Setting type","Percent distribution"
+"Combined settings",100
+"Primary care offices",54.7
+"Surgical specialty offices",13
+"Medical specialty offices",13
+"Hospital outpatient departments",9.1
+"Hospital emergency departments",10.3

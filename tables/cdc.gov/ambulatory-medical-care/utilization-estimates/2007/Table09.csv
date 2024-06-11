@@ -1,0 +1,65 @@
+"Table 9. Drug visits, and drug mentions at ambulatory care visits, by setting type: United States, 2007",,
+,,
+"Drug visits",,
+,,
+"Ambulatory care setting","Number in thousands","Standard error in thousands"
+"All ambulatory care settings",881858,33266
+"Primary care offices",445864,24202
+"Medical specialty offices",173642,11348
+"Surgical specialty offices",108212,8847
+"Hospital outpatient departments",65033,7729
+"Hospital emergency departments",89108,4975
+,,
+"Drug visits",,
+,,
+"Ambulatory care setting","Percent distribution","Standard error of percent"
+"All ambulatory care settings",100,-
+"Primary care offices",50.6,1.6
+"Medical specialty offices",19.7,1.1
+"Surgical specialty offices",12.3,0.9
+"Hospital outpatient departments",7.4,0.9
+"Hospital emergency departments",10.1,0.6
+,,
+,,
+"Drug mentions",,
+,,
+,,
+"Ambulatory care setting","Number in thousands","Standard error in thousands"
+"All ambulatory care settings",2688748,122222
+"Primary care offices",1301050,80510
+"Medical specialty offices",627819,56028
+"Surgical specialty offices",321620,32369
+"Hospital outpatient departments",224872,30291
+"Hospital emergency departments",213387,12348
+,,
+"Drug mentions",,
+,,
+,,
+"Ambulatory care setting","Percent distribution","Standard error of percent"
+"All ambulatory care settings",100,-
+"Primary care offices",48.4,1.9
+"Medical specialty offices",23.3,1.7
+"Surgical specialty offices",12,1
+"Hospital outpatient departments",8.4,1.1
+"Hospital emergency departments",7.9,0.5
+,,
+"Percent drug visits",,
+,,
+,,
+"Ambulatory care setting",Percent,"Standard error of percent"
+"All ambulatory care settings",73.5,0.8
+"Primary care offices",77.3,1
+"Medical specialty offices",78.5,1.9
+"Surgical specialty offices",55,2.1
+"Hospital outpatient departments",73.2,1.9
+"Hospital emergency departments",76.3,0.7
+,,
+"Drug mention rates",,
+,,
+"Ambulatory care setting","Number of drug mentions per 100 visits","Standard error of rate"
+"All ambulatory care settings",224.1,5.9
+"Primary care offices",225.6,7.9
+"Medical specialty offices",284,14.8
+"Surgical specialty offices",163.6,11.4
+"Hospital outpatient departments",253,13
+"Hospital emergency departments",182.7,3.9
