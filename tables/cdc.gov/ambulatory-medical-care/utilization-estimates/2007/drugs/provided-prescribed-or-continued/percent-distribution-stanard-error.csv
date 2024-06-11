@@ -1,0 +1,253 @@
+"Therapeutic drug category","Primary care",Surgical,Medical,"Hospital outpatient",Emergency
+"All occurrences",1.9,1,1.7,1.1,0.5
+Anti-infectives,2,0.8,1.2,1,1
+Amebicides,4.9,-,-,2.3,2.3
+Antifungals,3.8,-,3.5,1.7,0.7
+"Azole antifungals",4,-,3.7,1.8,0.8
+"Miscellaneous antifungals",-,-,-,-,-
+"Antimalarial agents",4.9,1.4,4.7,1.9,1
+"Antimalarial quinolines",8.7,-,10.1,3.2,-
+"Miscellaneous antimalarials",5.3,-,3.9,1.9,1.6
+"Antituberculosis agents",-,-,-,6.1,-
+"Nicotinic acid derivatives",-,-,-,-,-
+"Rifamycin derivatives",-,-,-,-,-
+"Antiviral agents",6.3,-,7.4,5.6,1.1
+"Protease inhibitors",-,-,-,14.3,-
+NRTIs,-,-,-,12.6,-
+NNRTIs,-,-,-,21.2,-
+"Adamantane antivirals",-,-,-,-,-
+"Purine nucleosides",4.8,-,3.3,2.1,1.2
+"Neuraminidase inhibitors",-,-,-,-,9.7
+"Antiviral combinations",-,-,-,18.7,-
+Cephalosporins,3,1.6,1.4,1.1,2
+"First generation cephalosporins",3.7,1.7,1.9,1.5,2.5
+"Second generation cephalosporins",9,7.3,-,2,1.3
+"Third generation cephalosporins",3.8,1.7,-,1.4,2.7
+"Fourth generation cephalosporins",-,-,-,-,-
+Leprostatics,-,-,-,-,-
+"Macrolide derivatives",2.5,1.1,1.5,1.2,1.3
+Macrolides,2.6,1.1,1.6,1.2,1.3
+"Miscellaneous antibiotics",3.2,1.1,2.4,1.2,1.9
+Penicillins,2.4,0.7,0.7,1.2,1.4
+"Penicillinase resistant penicillins",-,-,-,-,-
+Aminopenicillins,2.5,0.5,-,1.3,1.5
+"Beta-lactamase inhibitors",3.5,1.9,-,1.2,1.6
+"Natural penicillins",6.5,-,-,2.5,5
+Quinolones,2.9,2.7,1.5,0.7,1.3
+Sulfonamides,4,1.2,2.5,1.5,2.3
+Tetracyclines,4.5,-,3.8,1.6,1
+"Urinary anti-infectives",4.9,3.3,-,2.2,2.2
+Aminoglycosides,-,-,-,5.9,3.8
+"Lincomycin derivatives",5.6,5.7,5.3,1.7,3.4
+Antineoplastics,3.6,2.1,4.3,3.5,0.1
+"Alkylating agents",-,-,11,10.2,-
+Antibiotics/antineoplastics,-,-,-,13.4,-
+Antimetabolites,6.2,-,7.5,3.9,-
+Hormones/antineoplastics,4.1,2.8,3.5,2.3,-
+"Miscellaneous antineoplastics",-,-,5.3,2.5,-
+"Mitotic inhibitors",-,-,11.7,8.2,-
+"Antineoplastic monoclonal antibodies",-,-,9.9,7.5,-
+"Tyrosine kinase inhibitors",-,-,11.8,-,-
+Biologicals,-,-,7.1,4,-
+"Colony stimulating factors",-,-,13.2,12.6,-
+"Recombinant human erythropoietins",-,-,6.9,4.1,-
+"Cardiovascular agents",2.8,1.5,2.6,1.5,0.2
+"Angiotensin converting enzyme inhibitors",2.8,1.4,2.4,1.8,0.1
+"Antiadrenergic agents, peripherally acting",4.3,3,3.5,1.3,0.2
+"Antiadrenergic agents, centrally acting",4.4,-,3.1,2.3,1.7
+"Antianginal agents",4.3,-,4.3,1.5,2.9
+"Antiarrhythmic agents",3.8,5.1,4.8,5,1.6
+"Beta-adrenergic blocking agents",3.1,1.9,3.1,1.7,0.2
+"Cardioselective beta blockers",3.3,1.9,2.9,1.8,0.3
+"Non-cardioselective beta blockers",3.7,3.1,4.9,1.5,0.3
+"Calcium channel blocking agents",3.3,1.7,3.1,1.8,0.2
+Diuretics,3.4,1.5,2.9,2,0.3
+"Loop diuretics",3.5,1.5,3.5,1.8,0.5
+"Potassium-sparing diuretics",4.6,-,4.4,1.9,-
+"Thiazide diuretics",3.9,2.3,2.7,2.7,0.2
+"Carbonic anhydrase inhibitors",-,-,-,-,-
+"Inotropic agents",5,2.5,5.2,1.8,0.5
+"Miscellaneous cardiovascular agents",-,-,-,-,-
+Vasodilators,4.1,1.8,4.2,1.5,2.5
+Vasopressors,-,14.7,-,4.9,3.8
+"Antihypertensive combinations",4.5,1.8,3.7,1.2,0.1
+"Angiotensin II inhibitors",3.9,2.6,3,1.1,0.1
+"Agents for pulmonary hypertension",6.1,3.9,-,2.6,-
+"Aldosterone receptor antagonists",5.4,-,5.6,2.4,-
+"Central nervous system agents",2,1,1.7,1.2,1.1
+Analgesics,2.1,1.1,1.8,1.1,1.3
+"Miscellaneous analgesics",2.7,1.6,2,1.2,2.2
+"Narcotic analgesics",3.5,1.1,3,2.5,3
+"Nonsteroidal anti-inflammatory agents",2.4,1.4,1.6,1.1,1.6
+Salicylates,3.3,2,3.1,1.9,0.6
+"Analgesic combinations",5.5,4,4.1,0.9,1.3
+"Narcotic analgesic combinations",3,1.5,2.2,1.2,2
+"Antimigraine agents",5.4,-,4.3,1.4,0.6
+"Cox-2 inhibitors",4.7,3.2,4.2,1,-
+Anticonvulsants,2.8,1.2,2.6,1.2,0.6
+"Hydantoin anticonvulsants",5.8,-,4,1.4,2.3
+"Barbiturate anticonvulsants",-,-,7.1,3.5,-
+"Benzodiazepine anticonvulsants",3.4,1.1,3.1,1.2,1
+"Miscellaneous anticonvulsants",-,-,-,-,9.5
+"Dibenzazepine anticonvulsants",6.1,-,5,2.8,1.1
+"Fatty acid derivative anticonvulsants",6.2,-,5,2.9,1
+"Gamma-aminobutyric acid analogs",3.9,2.9,3.1,1.8,0.2
+"Triazine anticonvulsants",-,-,5.5,2.4,-
+"Pyrrolidine anticonvulsants",-,-,7.5,3.1,-
+"Carbonic anhydrase inhibitor anticonvulsants",5.1,-,5.1,1.6,-
+"Antiemetic/antivertigo agents",2.7,0.5,2,1.7,2
+"5HT3 receptor antagonists",-,-,3.5,4.6,4.5
+"Phenothiazine antiemetics",3.9,-,2.9,2,3.4
+"Anticholinergic antiemetics",3.7,1.5,2.8,1.5,1.9
+"Miscellaneous antiemetics",4.2,0.9,2.9,1.4,1.9
+"Anti-Parkinson agents",3.2,2,3,1.5,1.3
+"Anticholinergic anti-Parkinson agents",3.9,-,3.6,2,2.1
+"Dopaminergic anti-Parkinson agents",5.7,3.8,5.3,1.2,-
+"Anxiolytics, sedatives, and hypnotics",2.8,0.8,2.6,1.2,0.6
+Barbiturates,-,-,-,4.6,-
+Benzodiazepines,3.5,1,3.1,1.5,0.7
+"Miscellaneous anxiolytics, sedatives and hypnotics",2.8,1.1,2.7,1.2,0.8
+"CNS stimulants",5.7,1.7,6.1,1.5,0.1
+"General anesthetics",-,-,-,21.4,6.3
+"Muscle relaxants",3.1,2.5,2.9,1.2,1.4
+"Neuromuscular blocking agents",-,-,-,-,14.4
+"Skeletal muscle relaxants",3.1,2.5,2.9,1.2,1.4
+"Miscellaneous central nervous system agents",-,-,8.7,2.5,-
+"Adrenal cortical steroids",2.9,1.8,3.4,1.1,1
+Glucocorticoids,2.8,1.8,3.1,1.1,1
+"Miscellaneous hormones",5.7,-,5,2.3,0.5
+"Sex hormones",2.7,1.6,1.7,1.2,0.1
+Contraceptives,2.6,1.2,1.5,1.5,0.2
+"Androgens and anabolic steroids",-,-,-,2,-
+Estrogens,4.4,3.2,2.1,1.5,-
+Gonadotropins,-,-,-,-,-
+Progestins,4,-,2.8,2.3,-
+"Sex hormone combinations",5.3,-,-,1.9,-
+"Miscellaneous sex hormones",-,-,-,2.1,-
+"5-alpha-reductase inhibitors",5.7,4.6,5.5,1.4,-
+"Thyroid drugs",3.3,2.2,2.8,1.2,0.1
+Bisphosphonates,4.2,2.6,4,1.6,-
+"Incretin mimetics",-,-,-,2.2,-
+"Miscellaneous agents",2.8,1.8,2.7,1.5,0.5
+Antidotes,-,-,-,3.2,7.1
+"Chelating agents",-,-,-,-,-
+"Local injectable anesthetics",4.1,5.3,5.7,5.6,2
+"Miscellaneous uncategorized agents",4.4,2.6,3,1.3,0.6
+"Genitourinary tract agents",3.3,2.9,2.1,1.1,0.5
+"Impotence agents",4.1,2.9,2.7,1.5,-
+"Urinary antispasmodics",4.6,4.4,3.2,1.1,-
+"Urinary pH modifiers",-,-,-,-,6.3
+"Miscellaneous genitourinary tract agents",-,-,-,3.2,4.2
+Antirheumatics,7.3,1.7,9.2,3.2,-
+Antipsoriatics,9.4,-,10.4,2.3,-
+"Smoking cessation agents",3.5,1.6,3.2,1.3,0.2
+"Nutritional products",2.6,1.5,2.1,1.7,0.7
+"Iron products",4.2,-,2.8,2.7,0.4
+"Minerals and electrolytes",3,1.7,2.8,1.6,1.7
+"Oral nutritional supplements",-,-,-,7.8,-
+Vitamins,3.5,2,2.7,2,0.3
+"Vitamin and mineral combinations",3.8,2.7,2.6,2.3,0.2
+"Respiratory agents",3,0.9,3.5,1.1,0.9
+Antihistamines,3.4,1,4.4,1.1,1.4
+Antitussives,5.7,2.8,5.7,1.8,1.2
+Bronchodilators,3.6,0.9,4.3,1.5,0.8
+Methylxanthines,-,-,-,-,-
+"Adrenergic bronchodilators",3.8,0.7,4.3,1.6,0.9
+"Bronchodilator combinations",4.5,1.2,4.9,1.6,0.6
+"Anticholinergic bronchodilators",4.9,-,6.9,1.8,2.1
+Decongestants,9.8,11.3,-,1.7,1.2
+Expectorants,5.5,-,-,1.6,1.1
+"Miscellaneous respiratory agents",4.3,2.8,-,2.5,4.7
+"Respiratory inhalant products",4.7,1.8,4.2,2,0.4
+"Inhaled corticosteroids",4.8,1.8,4.3,2.1,0.3
+"Antiasthmatic combinations",7.6,-,-,1.7,1.5
+"Upper respiratory combinations",2.7,1.7,1.4,1.2,0.7
+"Leukotriene modifiers",5.2,2.2,6.1,1.4,0.1
+"Lung surfactants",-,-,-,21.9,-
+"Topical agents",2.4,3.3,2.9,1.1,0.3
+"Anorectal preparations",-,-,-,-,-
+"Antiseptics and germicides",-,8.4,-,3.7,4.1
+"Dermatological agents",2.8,1.1,3.1,1.6,0.5
+"Topical anti-infectives",-,-,8,2.1,2.5
+"Topical steroids",3.3,1.6,3.3,2.2,0.7
+"Topical anesthetics",-,-,-,15.6,5.2
+"Miscellaneous topical agents",3.7,4.6,5.7,1.4,0.3
+"Topical steroids with antiinfectives",6.4,-,-,3.2,-
+"Topical acne agents",4.9,-,5.1,1.3,-
+"Topical antipsoriatics",-,-,7.6,-,-
+"Topical emollients",6.9,-,7,1.3,-
+"Topical antibiotics",5.8,-,5.2,1.5,1.9
+"Topical antifungals",4.6,-,4.4,2,0.8
+"Topical debriding agents",-,-,-,17.1,-
+"Mouth and throat products",-,-,-,7.4,-
+"Ophthalmic preparations",2,4.1,2,0.9,0.4
+"Ophthalmic anti-infectives",5.5,-,-,2,2.2
+"Ophthalmic glaucoma agents",2.2,3.4,1.8,1,-
+"Ophthalmic steroids",-,2.6,-,0.9,-
+"Ophthalmic steroids with anti-infectives",-,-,-,-,-
+"Ophthalmic anti-inflammatory agents",-,7.6,-,1.1,-
+"Ophthalmic lubricants and irrigations",-,-,-,-,-
+"Miscellaneous ophthalmic agents",-,5.2,-,1.2,1.1
+"Ophthalmic antihistamines and decongestants",-,9.8,-,1.7,-
+Mydriatics,-,4.4,-,3.5,-
+"Ophthalmic anesthetics",-,6.3,-,-,3.8
+"Ophthalmic diagnostic agents",-,-,-,-,-
+"Otic preparations",5.1,-,-,1.7,2.8
+"Miscellaneous otic agents",5.2,-,-,1.7,3
+"Vaginal preparations",5.1,-,2.8,1.9,1.3
+Spermicides,15.7,-,-,-,-
+"Vaginal anti-infectives",5.2,-,2.9,1.9,1.4
+"Nasal preparations",5.1,2.3,6.3,1.3,0.2
+"Nasal steroids",5,2.2,5.9,1.4,0.2
+"Nasal antihistamines and decongestants",9.3,6.1,12.8,1.2,1.1
+"Alternative medicines",5,3.8,3.2,1.6,0.1
+"Nutraceutical products",4.7,4.2,3.6,1.8,-
+"Herbal products",9.2,4.9,5.1,1.8,-
+"Psychotherapeutic agents",2.5,1,2.7,1.4,0.2
+Antidepressants,2.7,1.1,2.6,1.3,0.1
+"Miscellaneous antidepressants",3.6,1.7,3.3,1.3,0.2
+"SSRI antidepressants",2.6,1,2.3,1.4,0.1
+"Tricyclic antidepressants",4.2,2.2,4.4,1.7,0.3
+"Phenylpiperazine antidepressants",4.9,2.1,5.2,2.1,0.2
+"Tetracyclic antidepressants",-,-,7.5,2.6,-
+"SSNRI antidepressants",3.8,1.8,3.9,1.2,0.1
+Antipsychotics,2.7,1,3.7,2.4,0.7
+"Miscellaneous antipsychotic agents",-,-,6.2,2.6,1.9
+"Phenothiazine antipsychotics",-,-,5.3,6.2,4.3
+"Atypical antipsychotics",3.1,-,4,2.5,0.4
+"Immunologic agents",2.8,0.2,2.7,1.2,0.3
+"Bacterial vaccines",1.5,-,-,1.4,-
+"Immune globulins",-,-,-,4.6,3.7
+Toxoids,2.1,-,-,1.1,1.3
+"Viral vaccines",1.4,-,0.6,1.2,0.1
+"Miscellaneous biologicals",14.1,-,16.4,1.7,-
+"Immunosuppressive agents",-,-,8.8,5.2,-
+Interferons,-,-,7.4,-,-
+"Immunosuppressive monoclonal antibodies",-,-,-,4.4,-
+"Radiologic agents",-,-,-,2.9,7.7
+"Radiocontrast agents",-,-,-,5.8,10.8
+"Non-ionic iodinated contrast media",-,-,-,-,-
+"Ionic iodinated contrast media",-,-,-,-,-
+"Radiologic adjuncts",-,-,-,-,-
+"Cardiac stressing agents",-,-,-,-,-
+"Metabolic agents",2.6,1.6,2.2,1.2,0.1
+"Antihyperlipidemic agents",2.8,1.6,2.3,1.2,0.1
+"HMG-CoA reductase inhibitors",2.7,1.6,2.4,1.4,0.1
+"Miscellaneous antihyperlipidemic agents",5.7,4,4.3,1.6,-
+"Fibric acid derivatives",4.3,2.8,3.6,1.1,-
+"Bile acid sequestrants",-,-,-,5.1,-
+"Cholesterol absorption inhibitors",4.5,2.6,3.8,1.5,-
+"Antihyperlipidemic combinations",4.7,2.7,3.4,0.9,-
+"Antidiabetic agents",2.9,1.9,2.2,1.4,0.2
+Sulfonylureas,4,2.4,3.2,1.4,0.2
+Non-sulfonylureas,3.1,2.2,1.9,1.6,0.2
+Insulin,3.5,2.8,3.2,2.2,0.7
+Thiazolidinediones,3.9,3.1,2.6,1.3,0.1
+Meglitinides,-,-,-,3.5,-
+"Antidiabetic combinations",5.9,-,4.5,1.5,-
+"Dipeptidyl peptidase 4 inhibitors",-,-,-,-,-
+"Antigout agents",4.8,2.7,4.4,1.5,0.5
+"Antihyperuricemic agents",4.9,2.9,4.3,1.5,-
+"Glucose elevating agents",-,-,-,-,-
+"Medical gases",-,-,-,4.7,10.3
+"Pharmaceutical aids",-,-,4.4,0.4,-

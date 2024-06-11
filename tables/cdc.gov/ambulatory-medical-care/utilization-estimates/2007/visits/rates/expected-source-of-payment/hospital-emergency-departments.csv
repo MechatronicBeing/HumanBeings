@@ -1,0 +1,5 @@
+"Primary expected source of payment","Number of visits per 100 persons","Standard error of rate"
+"Private insurance",22.5,1.5
+Medicare,51,3.1
+Medicaid/SCHIP,82.1,5.3
+"No insurance",41.5,3.1

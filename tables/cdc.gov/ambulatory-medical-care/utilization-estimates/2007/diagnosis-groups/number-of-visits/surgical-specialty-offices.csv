@@ -1,0 +1,192 @@
+"Diagnosis group","Surgical specialty offices"
+"All visits",187146
+"Infectious and parasitic diseases",1104
+"Streptococcal sore throat",*
+"Human immunodeficiency virus disease (HIV)",–
+"Viral warts",*
+"Unspecified viral and chlamydial infection",*
+Dermatophytosis,*
+Candidiasis,*
+"Other infectious and parasitic diseases",864
+Neoplasms,7921
+"Malignant neoplasms of colon and rectum",*406
+"Malignant neoplasm of skin",457
+"Malignant neoplasm of breast",653
+"Malignant neoplasm of prostate",2054
+"Malignant neoplasm of lymphatic and hematopoietic tissue",*
+"Other malignant neoplasms",1946
+"Benign neoplasm of skin",*
+"Other benign neoplasm",1380
+"Neoplasm of uncertain behavior and unspecified nature",*580
+"Endocrine, nutritional and metabolic diseases, and immunity disorders",6491
+"Acquired hypothyroidism",*
+"Other disorders of thyroid gland",354
+"Diabetes mellitus",4463
+"Disorders of lipoid metabolism",*
+Obesity,"*1,149"
+"Other endocrine, nutritional and metabolic diseases, and immunity disorders",390
+"Diseases of the blood and blood-forming organs",*
+Anemias,*
+"Other diseases of the blood and blood-forming organs",*
+"Mental disorders",*
+"Schizophrenic disorders",–
+"Major depressive disorder",–
+"Other psychoses",*
+"Anxiety states",–
+"Neurotic depression",–
+"Alcohol dependence syndrome",–
+"Drug dependence and nondependent abuse of drugs",*
+"Acute reaction to stress and adjustment reaction",–
+"Depressive disorder, not elsewhere classified",–
+"Attention deficit disorder",–
+"Other mental disorders",*
+"Diseases of the nervous system and sense organs",49975
+Migraine,*757
+"Other disorders of the central nervous system",1081
+"Carpal tunnel syndrome",832
+"Other disorders of the peripheral nervous system",550
+"Retinal detachment and other retinal disorders",4916
+Glaucoma,9879
+Cataract,9800
+"Disorders of refraction and accommodation",2744
+Conjunctivitis,982
+"Disorder of eyelids",1866
+"Other disorders of the eye and adnexa",9577
+"Disorders of external ear",1580
+"Otitis media and eustachian tube disorders",2319
+"Other disorders of the ear and mastoid process",3092
+"Diseases of the circulatory system",4384
+"Angina pectoris",*
+"Coronary atherosclerosis",*
+"Other ischemic heart disease",–
+"Cardiac dysrhythmias",*
+"Congestive heart failure",–
+"Other heart disease",*
+"Essential hypertension",*
+"Cerebrovascular disease",569
+"Diseases of the arteries, arterioles and capillaries","*1,233"
+Hemorrhoids,*635
+"Other diseases of the circulatory system","*1,446"
+"Diseases of the respiratory system",6604
+"Acute sinusitis",*
+"Acute pharyngitis",*
+"Acute tonsillitis",*
+"Acute bronchitis and bronchiolitis",*
+"Other acute respiratory infections",227
+"Chronic sinusitis",1391
+"Allergic rhinitis",1142
+Pneumonia,–
+"Chronic and unspecified bronchitis",*
+Asthma,*
+"Other chronic obstructive pulmonary disease and allied conditions",*
+"Other diseases of the respiratory system",3182
+"Diseases of the digestive system",6336
+"Diseases of the teeth and supporting structures",*539
+"Gastritis and duodenitis",*
+Esophagitis,*
+"Ulcer of stomach and small intestine",*
+"Hernia of abdominal cavity",2175
+"Noninfectious enteritis and colitis",*
+"Diverticula of intestine",*
+Constipation,*
+"Irritable bowel syndrome",*
+"Anal and rectal diseases",*510
+"Disorder of gallbladder and biliary tract",1207
+"Gastrointestinal hemorrhage",*
+"Other diseases of the digestive system",1296
+"Diseases of the genitourinary system",10452
+"Calculus of kidney and ureter",1180
+"Cystitis and other disorders of the bladder",1021
+"Urinary tract infection, site not specified",716
+"Other diseases of the urinary system",1909
+"Hyperplasia of prostate",2181
+"Other disorders of male genital organs",1689
+"Disorders of the breast",1092
+"Inflammatory disease of female pelvic organs",*
+"Noninflammatory disorders of the female genital organs",*
+"Disorders of menstruation and abnormal bleeding",*
+"Menopausal and postmenopausal disorders",*
+"Other disorders of female genital tract",502
+"Complications of pregnancy, childbirth, and the puerperium",*
+"Diseases of the skin and subcutaneous tissue",2898
+"Cellulitis and abscess",455
+"Other infection of the skin and subcutaneous tissue",*
+"Contact dermatitis and other eczema",*
+"Psoriasis and similar disorders",*
+"Other inflammatory conditions of skin and subcutaneous tissue",*
+"Corns, callosities, other hypertrophic and atrophic skin conditions",*443
+"Actinic and seborrheic keratosis",*
+Acne,*
+"Sebaceous cyst",629
+Urticaria,*
+"Other disorders of the skin and subcutaneous tissue",790
+"Diseases of the musculoskeletal system and connective tissue",28423
+"Rheumatoid arthritis",*
+"Osteoarthrosis and allied disorders",6336
+"Other arthropathies and related disorders",1612
+"Derangements and other unspecified disorders of joints",4977
+"Intervertebral disc disorders",3224
+Lumbago,825
+"Other dorsopathies",3692
+"Peripheral enthesopathies",3037
+"Synovitis and tenosynovitis",962
+"Myalgia and myositis, unspecified",*
+"Other rheumatism,excluding back",2161
+"Disorders of bone and cartilage",845
+"Other diseases of the musculoskeletal system and connective tissue",703
+"Congenital anomalies",1073
+"Certain conditions originating in the perinatal period",–
+"Symptoms, signs, and ill-defined conditions",5840
+"Syncope and collapse",*
+Convulsions,*
+"Dizziness and giddiness",399
+"Pyrexia of unknown origin",*
+"Symptoms involving skin and other integumentary tissue",526
+Headache,*
+Epistaxis,471
+"Abnormal heart sounds",–
+"Dyspnea and respiratory abnormalities",*
+Cough,*
+"Chest pain",*
+"Symptoms involving the urinary system",1561
+"Abdominal pain",398
+"Other symptoms, signs and ill-defined conditions",2080
+"Injury and poisoning",18206
+"Fracture of radius and ulna",1361
+"Fracture of hand and fingers",1269
+"Fracture of lower limb",2683
+"Other fractures",1543
+"Sprains and strains of wrist and hand",*
+"Sprains and strains of knee and leg",918
+"Sprains and strains of ankle",823
+"Sprains and strains of neck",*
+"Other sprains and strains of back",*
+"Other sprains and strains",2563
+"Intracranial injury, excluding those with skull fracture",*
+"Open wound of head",*
+"Open wound of hand and fingers",*
+"Other open wound",389
+"Superficial injuries of cornea",*
+"Other superficial injury",*
+"Contusion with intact skin surface",818
+"Other injuries",2856
+Poisonings,*
+"Other and unspecified effects of external causes",*
+"Complications of surgical and medical care, not elsewhere classified",620
+"Supplementary classification of factors influencing health status and contact with health services",34145
+"Potential health hazards related to communicable diseases",*247
+"Potential health hazards related to personal and family history",2213
+"Routine infant or child health check",*
+"Normal pregnancy",*
+"Postpartum care and examination",*
+"Encounter for contraceptive management",236
+"Other encounter related to reproduction",*
+"Lens replaced by pseudophakos",1568
+"Artificial opening status and other postsurgical states",4604
+"Attention to dressings and sutures",415
+"Follow-up examination",8254
+"General medical examination",*568
+"Observation and evaluation for suspected conditions not found",1294
+"Gynecological examination",*
+"Other factors influencing health status and contact with health services",14609
+"Blank and illegible",2969

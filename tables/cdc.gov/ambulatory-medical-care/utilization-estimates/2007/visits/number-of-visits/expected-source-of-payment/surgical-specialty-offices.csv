@@ -1,0 +1,11 @@
+"Expected source(s) of payment","Number of visits in thousands"
+"Private insurance",128787
+Medicare,68491
+"Medicare and Medicaid",3506
+"Medicaid or SCHIP",13940
+"No insurance",7423
+Self-pay,6844
+"No charge or charity",*
+"Worker’s compensation",4796
+Other,6237
+"Unknown or blank","*6,925"

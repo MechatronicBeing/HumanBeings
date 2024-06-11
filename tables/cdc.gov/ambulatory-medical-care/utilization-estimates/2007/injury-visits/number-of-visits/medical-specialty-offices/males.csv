@@ -1,0 +1,8 @@
+"Patient age","Number of visits in thousands","Standard error in thousands"
+"All male visits",14003,2084
+"Under 15 years",*,-
+"15–24 years","*1,129",392
+"25–44 years",2615,664
+"45–64 years",4522,776
+"65–74 years",2613,440
+"75 years and over",2413,406

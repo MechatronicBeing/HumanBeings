@@ -1,0 +1,8 @@
+"Patient age","Number of visits per 100 persons","Standard error of rate"
+"All male visits",55,2.7
+"Under 15 years",42.4,3
+"15–24 years",60.7,4.7
+"25–44 years",50.2,3.7
+"45–64 years",55.5,3.8
+"65–74 years",81,7.1
+"75 years and over",86.9,7.8

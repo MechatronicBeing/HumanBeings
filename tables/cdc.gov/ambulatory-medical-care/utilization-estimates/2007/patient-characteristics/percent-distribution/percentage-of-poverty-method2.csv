@@ -1,0 +1,38 @@
+"Urban-rural classification","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Large central metro",25.5,2.2
+"Large fringe metro",21.2,1.4
+"Medium metro",23.7,2.7
+"Small metro",8.3,1.2
+Nonmetropolitan,16.4,1.7
+Micropolitan,9.3,1.4
+"Noncore (nonmetro)",7.1,0.9
+,,
+"Median household income","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Quartile 1 ($0 to $32,793)",22.8,1.5
+"Quartile 2 ($32,794 to $40,626)",21.7,1.1
+"Quartile 3 ($40,627 to $52,387)",22.3,1.1
+"Quartile 4 ($52,388 and over)",25.9,1.4
+,,
+"Percentage with bachelor’s degree or higher","Percent distribution","Standard error of percent"
+"All visits",100,
+"Quartile 1 (0–1283)",23.1,1.3
+"Quartile 2 (1284–1966)",22.4,1.1
+"Quartile 3 (1967–3168)",23,1.1
+"Quartile 4 (3169 and over)",24.3,1.2
+,,
+"Percentage of poverty","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Less than 5 percent",20.9,1.1
+"5.00–9.99 percent",27.5,1.1
+"10.00–19.99 percent",29.9,1.2
+"20 percent of more",14.4,1.1
+,,
+"Percentage of poverty (method 2)","Percent distribution","Standard error of percent"
+"All visits",100,-
+"Less than 20 percent",78.3,1.3
+"20.00–29.99 percent",10.6,0.8
+"30.00–39.99 percent",2.8,0.4
+"40 percent or more",1,0.2
+,,
