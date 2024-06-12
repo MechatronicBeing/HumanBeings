@@ -1,0 +1,39 @@
+Age,"Mean (in Kg)","percentage of adult weight"
+birth,3.41,5
+"2 months",6.47,8
+"3 months",6.96,9
+"4 months",7.15,9
+"5 months",7.93,10
+"6 months",8.41,11
+"7 months",8.64,11
+"8 months",9.26,12
+"9 months",9.33,12
+"10 months",9.46,12
+"11 months",9.98,13
+"1 year",11.6,15
+"2 years",13.6,17
+"3 years",15.8,20
+"4 years",17.7,22
+"5 years",20.1,25
+"6 years",23.3,29
+"7 years",26.3,33
+"8 years",30.2,37
+"9 years",34.4,42
+"10 years",37.3,46
+"11 years",42.5,52
+"12 years",49.1,60
+"13 years",54,66
+"14 years",64.1,79
+"15 years",66.9,82
+"16 years",68.8,84
+"17 years",72.9,89
+"18 years",71.3,87
+"19 years",73,89
+"20 years and over",82.1,100
+"20–29 years",78.3,96
+"30–39 years",83,102
+"40–49 years",85.1,104
+"50–59 years",86,105
+"60–69 years",83.1,102
+"70–79 years",79,97
+"80 years and over",71.8,88

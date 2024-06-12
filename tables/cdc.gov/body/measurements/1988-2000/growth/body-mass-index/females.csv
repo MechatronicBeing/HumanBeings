@@ -1,0 +1,39 @@
+Age,Mean,"percentage of adult BMI"
+Birth,*12.9,*49
+"2 months",*16.6,*63
+"3 months",*17.2,*65
+"4 months",*17.3,*66
+"5 months",*17.5,*67
+"6 months",*17.2,*65
+"7 months",*17.8,*68
+"8 months",*17.5,*67
+"9 months",*17.6,*67
+"10 months",*17.5,*67
+"11 months",*17.3,*66
+"1 year",*16.8,*64
+"2 years",16.4,62
+"3 years",15.9,60
+"4 years",16,61
+"5 years",15.9,60
+"6 years",16.1,61
+"7 years",16.9,64
+"8 years",17.3,66
+"9 years",18.2,69
+"10 years",18.4,70
+"11 years",19.4,74
+"12 years",20.2,77
+"13 years",21.8,83
+"14 years",22.4,85
+"15 years",21.9,83
+"16 years",23,87
+"17 years",23.3,88
+"18 years",22.9,87
+"19 years",23.7,90
+"20 years and over",26.5,100
+"20–29 years",24.3,92
+"30–39 years",26.3,100
+"40–49 years",27,102
+"50–59 years",28.4,108
+"60–69 years",27.6,105
+"70–79 years",26.9,102
+"80 years and over",25.2,96

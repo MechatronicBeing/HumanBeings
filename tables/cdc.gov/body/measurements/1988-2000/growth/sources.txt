@@ -1,0 +1,6 @@
+BASED FROM :
+- "2000 CDC Growth Charts for the United States: Methods and Development"
+  - https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf
+- "Anthropometric Reference Data for Children and Adults: United States, 1988–1994"
+  - https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
+
