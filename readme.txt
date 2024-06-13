@@ -1,5 +1,5 @@
 # HumanBeing
-Free "public domain" resources : the human being (health, anatomy, development, life).
+Free public resources : the human being (health, anatomy, development, life).
 
 ## Healthcare Disclaimer
 - THIS WEBSITE DOES NOT PROVIDE, REPLACE OR OVERRULE PROFESSIONAL HEALTH/MEDICAL ADVICE, DIAGNOSIS OR TREATMENT.
@@ -8,7 +8,6 @@ Free "public domain" resources : the human being (health, anatomy, development, 
 
 ## Sources
 - Centers for Disease Control and Prevention - CDC
-- Bureau of Labor Statistics - BLS
 
 ## Licenses
 - ‎public domain in the U.S. (works of the U.S. federal government)
