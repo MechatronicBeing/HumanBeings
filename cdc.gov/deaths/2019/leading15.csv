@@ -1,0 +1,81 @@
+"Table C. Number of deaths, percent of total deaths, death rates, and age-adjusted death rates for 2019, for the 15 leading causes of death for the total population in 2019: United States [",
+"Crude death rates on an annual basis per 100,000 populatio",
+,
+,
+"Cause of death","Number of deaths"
+"All causes",2854838
+"Diseases of heart",659041
+"Malignant neoplasms",599601
+"Accidents (unintentional injuries)",173040
+"Chronic lower respiratory diseases",156979
+"Cerebrovascular diseases",150005
+"Alzheimer disease",121499
+"Diabetes mellitus",87647
+"Nephritis, nephrotic syndrome and nephrosis",51565
+"Influenza and pneumonia",49783
+"Intentional self–harm (suicide)",47511
+"Chronic liver disease and cirrhosis",44358
+Septicemia,38431
+"Essential hypertension and hypertensive renal disease",36524
+"Parkinson disease",35311
+"Pneumonitis due to solids and liquids",19184
+"All other causes",584359
+,
+"Cause of death","Percent of total deaths"
+"All causes",100
+"Diseases of heart",23.1
+"Malignant neoplasms",21
+"Accidents (unintentional injuries)",6.1
+"Chronic lower respiratory diseases",5.5
+"Cerebrovascular diseases",5.3
+"Alzheimer disease",4.3
+"Diabetes mellitus",3.1
+"Nephritis, nephrotic syndrome and nephrosis",1.8
+"Influenza and pneumonia",1.7
+"Intentional self–harm (suicide)",1.7
+"Chronic liver disease and cirrhosis",1.6
+Septicemia,1.3
+"Essential hypertension and hypertensive renal disease",1.3
+"Parkinson disease",1.2
+"Pneumonitis due to solids and liquids",0.7
+"All other causes",20.5
+,
+"Cause of death","Crude death rate"
+"All causes",869.7
+"Diseases of heart",200.8
+"Malignant neoplasms",182.7
+"Accidents (unintentional injuries)",52.7
+"Chronic lower respiratory diseases",47.8
+"Cerebrovascular diseases",45.7
+"Alzheimer disease",37
+"Diabetes mellitus",26.7
+"Nephritis, nephrotic syndrome and nephrosis",15.7
+"Influenza and pneumonia",15.2
+"Intentional self–harm (suicide)",14.5
+"Chronic liver disease and cirrhosis",13.5
+Septicemia,11.7
+"Essential hypertension and hypertensive renal disease",11.1
+"Parkinson disease",10.8
+"Pneumonitis due to solids and liquids",5.8
+"All other causes",178
+,
+"Cause of death","Age-adjusted death rate"
+"All causes",715.2
+"Diseases of heart",161.5
+"Malignant neoplasms",146.2
+"Accidents (unintentional injuries)",49.3
+"Chronic lower respiratory diseases",38.2
+"Cerebrovascular diseases",37
+"Alzheimer disease",29.8
+"Diabetes mellitus",21.6
+"Nephritis, nephrotic syndrome and nephrosis",12.7
+"Influenza and pneumonia",12.3
+"Intentional self–harm (suicide)",13.9
+"Chronic liver disease and cirrhosis",11.3
+Septicemia,9.5
+"Essential hypertension and hypertensive renal disease",8.9
+"Parkinson disease",8.8
+"Pneumonitis due to solids and liquids",4.7
+,
+"table C",
+"page 10",
