@@ -1,0 +1,809 @@
+"Cause of death (female, all ages)",Number
+"All causes",1381015
+"Diseases of heart",301280
+"Malignant neoplasms",283725
+"Cerebrovascular diseases",85658
+"Alzheimer disease",83516
+"Chronic lower respiratory diseases",83255
+"Accidents (unintentional injuries)",60320
+"Diabetes mellitus",38135
+"Influenza and pneumonia",25139
+"Nephritis, nephrotic syndrome and nephrosis",24896
+"Essential hypertension and hypertensive renal disease",19911
+"All other causes",375180
+,
+"Cause of death (female, Infants)",Number
+"All causes",9247
+"Congenital malformations, deformations and chromosomal abnormalities",2053
+"Disorders related to short gestation and low birth weight, not elsewhere classified",1481
+"Newborn affected by maternal complications of pregnancy.",541
+"Sudden infant death syndrome",539
+"Accidents (unintentional injuries).",513
+"Newborn affected by complications of placenta, cord and membranes",338
+"Bacterial sepsis of newborn",259
+"Diseases of the circulatory system.",179
+"Respiratory distress of newborn",177
+"Necrotizing enterocolitis of newborn",163
+"All other causes",3004
+,
+"Cause of death (female, Neonates)",Number
+"All causes",6117
+"Disorders related to short gestation and low birth weight, not elsewhere classified",1447
+"Congenital malformations, deformations and chromosomal abnormalities",1427
+"Newborn affected by maternal complications of pregnancy",537
+"Newborn affected by complications of placenta, cord and membranes",331
+"Bacterial sepsis of newborn",250
+"Respiratory distress of newborn",167
+"Neonatal hemorrhage",151
+"Intrauterine hypoxia and birth asphyxia",149
+"Necrotizing enterocolitis of newborn",148
+Atelectasis,93
+"All other causes",1417
+,
+"Cause of death (female, Postneonates)",Number
+"All causes",3130
+"Congenital malformations, deformations and chromosomal abnormalities",626
+"Sudden infant death syndrome",465
+"Accidents (unintentional injuries)",451
+"Diseases of the circulatory system",149
+"Assault (homicide)",99
+"Diarrhea and gastroenteritis of infectious origin",83
+"Influenza and pneumonia",65
+Septicemia,64
+"Chronic respiratory disease originating in the perinatal period",62
+"Disorders related to short gestation and low birth weight, not elsewhere classified",34
+"All other causes",1032
+,
+"Cause of death (female, 1–4 years)",Number
+"All causes",1635
+"Accidents (unintentional injuries)",477
+"Congenital malformations, deformations and chromosomal abnormalities",207
+"Malignant neoplasms",135
+"Assault (homicide)",122
+"Diseases of heart",61
+"Influenza and pneumonia",58
+"Certain conditions originating in the perinatal period",32
+Septicemia,29
+"Cerebrovascular diseases",22
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",20
+"All other causes",472
+,
+"Cause of death (female, 5–9 years)",Number
+"All causes",1043
+"Accidents (unintentional injuries)",297
+"Malignant neoplasms",178
+"Congenital malformations, deformations and chromosomal abnormalities",86
+"Assault (homicide)",58
+"Diseases of heart",48
+"Influenza and pneumonia",28
+"Chronic lower respiratory diseases",23
+Septicemia,22
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",19
+"Cerebrovascular diseases",17
+"All other causes",267
+,
+"Cause of death (female, 10–14 years)",Number
+"All causes",1268
+"Accidents (unintentional injuries)",268
+"Intentional self-harm (suicide)",203
+"Malignant neoplasms",183
+"Congenital malformations, deformations and chromosomal abnormalities",83
+"Assault (homicide)",51
+"Diseases of heart",44
+"Influenza and pneumonia",41
+"Chronic lower respiratory diseases",27
+"Cerebrovascular diseases",24
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",18
+"All other causes",326
+,
+"Cause of death (female, 15–19 years)",Number
+"All causes",2897
+"Accidents (unintentional injuries)",1073
+"Intentional self-harm (suicide)",511
+"Assault (homicide)",262
+"Malignant neoplasms",237
+"Diseases of heart",119
+"Congenital malformations, deformations and chromosomal abnormalities",76
+"Influenza and pneumonia",34
+"Diabetes mellitus",32
+"Pregnancy, childbirth and the puerperium",24
+"Cerebrovascular diseases",22
+"All other causes",507
+,
+"Cause of death (female, 20–24 years)",Number
+"All causes",5126
+"Accidents (unintentional injuries)",2153
+"Intentional self-harm (suicide)",643
+"Assault (homicide)",431
+"Malignant neoplasms",324
+"Diseases of heart",227
+"Pregnancy, childbirth and the puerperium",126
+"Congenital malformations, deformations and chromosomal abnormalities",93
+"Diabetes mellitus",75
+"Influenza and pneumonia",50
+"Cerebrovascular diseases",43
+"All other causes",961
+,
+"Cause of death (female, 25–34 years)",Number
+"All causes",17827
+"Accidents (unintentional injuries)",6598
+"Malignant neoplasms",1833
+"Intentional self-harm (suicide)",1526
+"Diseases of heart",1167
+"Assault (homicide)",807
+"Pregnancy, childbirth and the puerperium",532
+"Chronic liver disease and cirrhosis",418
+"Diabetes mellitus",325
+"Cerebrovascular diseases",276
+"Influenza and pneumonia",210
+"All other causes",4135
+,
+"Cause of death (female, 35–44 years)",Number
+"All causes",29550
+"Accidents (unintentional injuries)",6594
+"Malignant neoplasms",6174
+"Diseases of heart",3309
+"Intentional self-harm (suicide)",1710
+"Chronic liver disease and cirrhosis",1257
+"Diabetes mellitus",833
+"Cerebrovascular diseases",782
+"Assault (homicide)",688
+"Influenza and pneumonia",427
+"Pregnancy, childbirth and the puerperium",398
+"All other causes",7378
+,
+"Cause of death (female, 45–54 years)",Number
+"All causes",61546
+"Malignant neoplasms",18529
+"Diseases of heart",9141
+"Accidents (unintentional injuries)",6812
+"Chronic liver disease and cirrhosis",2878
+"Diabetes mellitus",2257
+"Cerebrovascular diseases",2198
+"Intentional self-harm (suicide)",2156
+"Chronic lower respiratory diseases",1977
+Septicemia,1019
+"Nephritis, nephrotic syndrome and nephrosis",920
+"All other causes",13659
+,
+"Cause of death (female, 55–64 years)",Number
+"All causes",147012
+"Malignant neoplasms",51380
+"Diseases of heart",24931
+"Chronic lower respiratory diseases",9336
+"Accidents (unintentional injuries)",7233
+"Diabetes mellitus",5763
+"Cerebrovascular diseases",5401
+"Chronic liver disease and cirrhosis",4773
+Septicemia,2607
+"Nephritis, nephrotic syndrome and nephrosis",2344
+"Influenza and pneumonia",2307
+"All other causes",30937
+,
+"Cause of death (female, 65 years and over)",Number
+"All causes",1103820
+"Diseases of heart",262106
+"Malignant neoplasms",204726
+"Alzheimer disease",82709
+"Cerebrovascular diseases",76825
+"Chronic lower respiratory diseases",71279
+"Diabetes mellitus",28832
+"Accidents (unintentional injuries)",28298
+"Nephritis, nephrotic syndrome and nephrosis",21072
+"Influenza and pneumonia",21040
+"Essential hypertension and hypertensive renal disease",17705
+"All other causes",289228
+,
+"Cause of death (female, 65–74 years)",Number
+"All causes",235312
+"Malignant neoplasms",76440
+"Diseases of heart",43451
+"Chronic lower respiratory diseases",18995
+"Cerebrovascular diseases",11074
+"Diabetes mellitus",9193
+"Accidents (unintentional injuries)",5784
+"Nephritis, nephrotic syndrome and nephrosis",4917
+"Alzheimer disease",4660
+Septicemia,4270
+"Influenza and pneumonia",3835
+"All other causes",52693
+,
+"Cause of death (female, 75–84 years)",Number
+"All causes",332927
+"Malignant neoplasms",74391
+"Diseases of heart",70025
+"Chronic lower respiratory diseases",26610
+"Cerebrovascular diseases",21911
+"Alzheimer disease",20871
+"Diabetes mellitus",10080
+"Accidents (unintentional injuries)",8100
+"Nephritis, nephrotic syndrome and nephrosis",7097
+"Influenza and pneumonia",5751
+"Parkinson disease",5275
+"All other causes",82816
+,
+"Cause of death (female, 85 years and over)",Number
+"All causes",535581
+"Diseases of heart",148630
+"Alzheimer disease",57178
+"Malignant neoplasms",53895
+"Cerebrovascular diseases",43840
+"Chronic lower respiratory diseases",25674
+"Accidents (unintentional injuries)",14414
+"Influenza and pneumonia",11454
+"Essential hypertension and hypertensive renal disease",10129
+"Diabetes mellitus",9559
+"Nephritis, nephrotic syndrome and nephrosis",9058
+"All other causes",151750
+,
+------------------------------------------------------------------------------,
+,
+"Cause of death (female, all ages)","Percent of total deaths"
+"All causes",100
+"Diseases of heart",21.8
+"Malignant neoplasms",20.5
+"Cerebrovascular diseases",6.2
+"Alzheimer disease",6
+"Chronic lower respiratory diseases",6
+"Accidents (unintentional injuries)",4.4
+"Diabetes mellitus",2.8
+"Influenza and pneumonia",1.8
+"Nephritis, nephrotic syndrome and nephrosis",1.8
+"Essential hypertension and hypertensive renal disease",1.4
+"All other causes",27.2
+,
+"Cause of death (female, Infants)","Percent of total deaths"
+"All causes",100
+"Congenital malformations, deformations and chromosomal abnormalities",22.2
+"Disorders related to short gestation and low birth weight, not elsewhere classified",16
+"Newborn affected by maternal complications of pregnancy.",5.9
+"Sudden infant death syndrome",5.8
+"Accidents (unintentional injuries).",5.5
+"Newborn affected by complications of placenta, cord and membranes",3.7
+"Bacterial sepsis of newborn",2.8
+"Diseases of the circulatory system.",1.9
+"Respiratory distress of newborn",1.9
+"Necrotizing enterocolitis of newborn",1.8
+"All other causes",32.5
+,
+"Cause of death (female, Neonates)","Percent of total deaths"
+"All causes",100
+"Disorders related to short gestation and low birth weight, not elsewhere classified",23.7
+"Congenital malformations, deformations and chromosomal abnormalities",23.3
+"Newborn affected by maternal complications of pregnancy",8.8
+"Newborn affected by complications of placenta, cord and membranes",5.4
+"Bacterial sepsis of newborn",4.1
+"Respiratory distress of newborn",2.7
+"Neonatal hemorrhage",2.5
+"Intrauterine hypoxia and birth asphyxia",2.4
+"Necrotizing enterocolitis of newborn",2.4
+Atelectasis,1.5
+"All other causes",23.2
+,
+"Cause of death (female, Postneonates)","Percent of total deaths"
+"All causes",100
+"Congenital malformations, deformations and chromosomal abnormalities",20
+"Sudden infant death syndrome",14.9
+"Accidents (unintentional injuries)",14.4
+"Diseases of the circulatory system",4.8
+"Assault (homicide)",3.2
+"Diarrhea and gastroenteritis of infectious origin",2.7
+"Influenza and pneumonia",2.1
+Septicemia,2
+"Chronic respiratory disease originating in the perinatal period",2
+"Disorders related to short gestation and low birth weight, not elsewhere classified",1.1
+"All other causes",33
+,
+"Cause of death (female, 1–4 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",29.2
+"Congenital malformations, deformations and chromosomal abnormalities",12.7
+"Malignant neoplasms",8.3
+"Assault (homicide)",7.5
+"Diseases of heart",3.7
+"Influenza and pneumonia",3.5
+"Certain conditions originating in the perinatal period",2
+Septicemia,1.8
+"Cerebrovascular diseases",1.3
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",1.2
+"All other causes",28.9
+,
+"Cause of death (female, 5–9 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",28.5
+"Malignant neoplasms",17.1
+"Congenital malformations, deformations and chromosomal abnormalities",8.2
+"Assault (homicide)",5.6
+"Diseases of heart",4.6
+"Influenza and pneumonia",2.7
+"Chronic lower respiratory diseases",2.2
+Septicemia,2.1
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",1.8
+"Cerebrovascular diseases",1.6
+"All other causes",25.6
+,
+"Cause of death (female, 10–14 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",21.1
+"Intentional self-harm (suicide)",16
+"Malignant neoplasms",14.4
+"Congenital malformations, deformations and chromosomal abnormalities",6.5
+"Assault (homicide)",4
+"Diseases of heart",3.5
+"Influenza and pneumonia",3.2
+"Chronic lower respiratory diseases",2.1
+"Cerebrovascular diseases",1.9
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",1.4
+"All other causes",25.7
+,
+"Cause of death (female, 15–19 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",37
+"Intentional self-harm (suicide)",17.6
+"Assault (homicide)",9
+"Malignant neoplasms",8.2
+"Diseases of heart",4.1
+"Congenital malformations, deformations and chromosomal abnormalities",2.6
+"Influenza and pneumonia",1.2
+"Diabetes mellitus",1.1
+"Pregnancy, childbirth and the puerperium",0.8
+"Cerebrovascular diseases",0.8
+"All other causes",17.5
+,
+"Cause of death (female, 20–24 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",42
+"Intentional self-harm (suicide)",12.5
+"Assault (homicide)",8.4
+"Malignant neoplasms",6.3
+"Diseases of heart",4.4
+"Pregnancy, childbirth and the puerperium",2.5
+"Congenital malformations, deformations and chromosomal abnormalities",1.8
+"Diabetes mellitus",1.5
+"Influenza and pneumonia",1
+"Cerebrovascular diseases",0.8
+"All other causes",18.7
+,
+"Cause of death (female, 25–34 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",37
+"Malignant neoplasms",10.3
+"Intentional self-harm (suicide)",8.6
+"Diseases of heart",6.5
+"Assault (homicide)",4.5
+"Pregnancy, childbirth and the puerperium",3
+"Chronic liver disease and cirrhosis",2.3
+"Diabetes mellitus",1.8
+"Cerebrovascular diseases",1.5
+"Influenza and pneumonia",1.2
+"All other causes",23.2
+,
+"Cause of death (female, 35–44 years)","Percent of total deaths"
+"All causes",100
+"Accidents (unintentional injuries)",22.3
+"Malignant neoplasms",20.9
+"Diseases of heart",11.2
+"Intentional self-harm (suicide)",5.8
+"Chronic liver disease and cirrhosis",4.3
+"Diabetes mellitus",2.8
+"Cerebrovascular diseases",2.6
+"Assault (homicide)",2.3
+"Influenza and pneumonia",1.4
+"Pregnancy, childbirth and the puerperium",1.3
+"All other causes",25
+,
+"Cause of death (female, 45–54 years)","Percent of total deaths"
+"All causes",100
+"Malignant neoplasms",30.1
+"Diseases of heart",14.9
+"Accidents (unintentional injuries)",11.1
+"Chronic liver disease and cirrhosis",4.7
+"Diabetes mellitus",3.7
+"Cerebrovascular diseases",3.6
+"Intentional self-harm (suicide)",3.5
+"Chronic lower respiratory diseases",3.2
+Septicemia,1.7
+"Nephritis, nephrotic syndrome and nephrosis",1.5
+"All other causes",22.2
+,
+"Cause of death (female, 55–64 years)","Percent of total deaths"
+"All causes",100
+"Malignant neoplasms",34.9
+"Diseases of heart",17
+"Chronic lower respiratory diseases",6.4
+"Accidents (unintentional injuries)",4.9
+"Diabetes mellitus",3.9
+"Cerebrovascular diseases",3.7
+"Chronic liver disease and cirrhosis",3.2
+Septicemia,1.8
+"Nephritis, nephrotic syndrome and nephrosis",1.6
+"Influenza and pneumonia",1.6
+"All other causes",21
+,
+"Cause of death (female, 65 years and over)","Percent of total deaths"
+"All causes",100
+"Diseases of heart",23.7
+"Malignant neoplasms",18.5
+"Alzheimer disease",7.5
+"Cerebrovascular diseases",7
+"Chronic lower respiratory diseases",6.5
+"Diabetes mellitus",2.6
+"Accidents (unintentional injuries)",2.6
+"Nephritis, nephrotic syndrome and nephrosis",1.9
+"Influenza and pneumonia",1.9
+"Essential hypertension and hypertensive renal disease",1.6
+"All other causes",26.2
+,
+"Cause of death (female, 65–74 years)","Percent of total deaths"
+"All causes",100
+"Malignant neoplasms",32.5
+"Diseases of heart",18.5
+"Chronic lower respiratory diseases",8.1
+"Cerebrovascular diseases",4.7
+"Diabetes mellitus",3.9
+"Accidents (unintentional injuries)",2.5
+"Nephritis, nephrotic syndrome and nephrosis",2.1
+"Alzheimer disease",2
+Septicemia,1.8
+"Influenza and pneumonia",1.6
+"All other causes",22.4
+,
+"Cause of death (female, 75–84 years)","Percent of total deaths"
+"All causes",100
+"Malignant neoplasms",22.3
+"Diseases of heart",21
+"Chronic lower respiratory diseases",8
+"Cerebrovascular diseases",6.6
+"Alzheimer disease",6.3
+"Diabetes mellitus",3
+"Accidents (unintentional injuries)",2.4
+"Nephritis, nephrotic syndrome and nephrosis",2.1
+"Influenza and pneumonia",1.7
+"Parkinson disease",1.6
+"All other causes",24.9
+,
+"Cause of death (female, 85 years and over)","Percent of total deaths"
+"All causes",100
+"Diseases of heart",27.8
+"Alzheimer disease",10.7
+"Malignant neoplasms",10.1
+"Cerebrovascular diseases",8.2
+"Chronic lower respiratory diseases",4.8
+"Accidents (unintentional injuries)",2.7
+"Influenza and pneumonia",2.1
+"Essential hypertension and hypertensive renal disease",1.9
+"Diabetes mellitus",1.8
+"Nephritis, nephrotic syndrome and nephrosis",1.7
+"All other causes",28.3
+,
+----------------------------------------------------------------------------------,
+,
+"Cause of death (female, all ages)","Death rate (per 100000 population)"
+"All causes",829
+"Diseases of heart",180.9
+"Malignant neoplasms",170.3
+"Cerebrovascular diseases",51.4
+"Alzheimer disease",50.1
+"Chronic lower respiratory diseases",50
+"Accidents (unintentional injuries)",36.2
+"Diabetes mellitus",22.9
+"Influenza and pneumonia",15.1
+"Nephritis, nephrotic syndrome and nephrosis",14.9
+"Essential hypertension and hypertensive renal disease",12
+"All other causes",225.2
+,
+"Cause of death (female, Infants)","Death rate (per 100000 population)"
+"All causes",505.3
+"Congenital malformations, deformations and chromosomal abnormalities",112.2
+"Disorders related to short gestation and low birth weight, not elsewhere classified",80.9
+"Newborn affected by maternal complications of pregnancy.",29.6
+"Sudden infant death syndrome",29.5
+"Accidents (unintentional injuries).",28
+"Newborn affected by complications of placenta, cord and membranes",18.5
+"Bacterial sepsis of newborn",14.2
+"Diseases of the circulatory system.",9.8
+"Respiratory distress of newborn",9.7
+"Necrotizing enterocolitis of newborn",8.9
+"All other causes",164.1
+,
+"Cause of death (female, Neonates)","Death rate (per 100000 population)"
+"All causes",334.2
+"Disorders related to short gestation and low birth weight, not elsewhere classified",79.1
+"Congenital malformations, deformations and chromosomal abnormalities",78
+"Newborn affected by maternal complications of pregnancy",29.3
+"Newborn affected by complications of placenta, cord and membranes",18.1
+"Bacterial sepsis of newborn",13.7
+"Respiratory distress of newborn",9.1
+"Neonatal hemorrhage",8.3
+"Intrauterine hypoxia and birth asphyxia",8.1
+"Necrotizing enterocolitis of newborn",8.1
+Atelectasis,5.1
+"All other causes",77.4
+,
+"Cause of death (female, Postneonates)","Death rate (per 100000 population)"
+"All causes",171
+"Congenital malformations, deformations and chromosomal abnormalities",34.2
+"Sudden infant death syndrome",25.4
+"Accidents (unintentional injuries)",24.6
+"Diseases of the circulatory system",8.1
+"Assault (homicide)",5.4
+"Diarrhea and gastroenteritis of infectious origin",4.5
+"Influenza and pneumonia",3.6
+Septicemia,3.5
+"Chronic respiratory disease originating in the perinatal period",3.4
+"Disorders related to short gestation and low birth weight, not elsewhere classified",1.9
+"All other causes",56.4
+,
+"Cause of death (female, 1–4 years)","Death rate (per 100000 population)"
+"All causes",21.2
+"Accidents (unintentional injuries)",6.2
+"Congenital malformations, deformations and chromosomal abnormalities",2.7
+"Malignant neoplasms",1.7
+"Assault (homicide)",1.6
+"Diseases of heart",0.8
+"Influenza and pneumonia",0.8
+"Certain conditions originating in the perinatal period",0.4
+Septicemia,0.4
+"Cerebrovascular diseases",0.3
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",0.3
+"All other causes",6.1
+,
+"Cause of death (female, 5–9 years)","Death rate (per 100000 population)"
+"All causes",10.6
+"Accidents (unintentional injuries)",3
+"Malignant neoplasms",1.8
+"Congenital malformations, deformations and chromosomal abnormalities",0.9
+"Assault (homicide)",0.6
+"Diseases of heart",0.5
+"Influenza and pneumonia",0.3
+"Chronic lower respiratory diseases",0.2
+Septicemia,0.2
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",*
+"Cerebrovascular diseases",*
+"All other causes",2.7
+,
+"Cause of death (female, 10–14 years)","Death rate (per 100000 population)"
+"All causes",12.5
+"Accidents (unintentional injuries)",2.6
+"Intentional self-harm (suicide)",2
+"Malignant neoplasms",1.8
+"Congenital malformations, deformations and chromosomal abnormalities",0.8
+"Assault (homicide)",0.5
+"Diseases of heart",0.4
+"Influenza and pneumonia",0.4
+"Chronic lower respiratory diseases",0.3
+"Cerebrovascular diseases",0.2
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",*
+"All other causes",3.2
+,
+"Cause of death (female, 15–19 years)","Death rate (per 100000 population)"
+"All causes",28.1
+"Accidents (unintentional injuries)",10.4
+"Intentional self-harm (suicide)",5
+"Assault (homicide)",2.5
+"Malignant neoplasms",2.3
+"Diseases of heart",1.2
+"Congenital malformations, deformations and chromosomal abnormalities",0.7
+"Influenza and pneumonia",0.3
+"Diabetes mellitus",0.3
+"Pregnancy, childbirth and the puerperium",0.2
+"Cerebrovascular diseases",0.2
+"All other causes",4.9
+,
+"Cause of death (female, 20–24 years)","Death rate (per 100000 population)"
+"All causes",48.5
+"Accidents (unintentional injuries)",20.4
+"Intentional self-harm (suicide)",6.1
+"Assault (homicide)",4.1
+"Malignant neoplasms",3.1
+"Diseases of heart",2.1
+"Pregnancy, childbirth and the puerperium",1.2
+"Congenital malformations, deformations and chromosomal abnormalities",0.9
+"Diabetes mellitus",0.7
+"Influenza and pneumonia",0.5
+"Cerebrovascular diseases",0.4
+"All other causes",9.1
+,
+"Cause of death (female, 25–34 years)","Death rate (per 100000 population)"
+"All causes",78.9
+"Accidents (unintentional injuries)",29.2
+"Malignant neoplasms",8.1
+"Intentional self-harm (suicide)",6.8
+"Diseases of heart",5.2
+"Assault (homicide)",3.6
+"Pregnancy, childbirth and the puerperium",2.4
+"Chronic liver disease and cirrhosis",1.9
+"Diabetes mellitus",1.4
+"Cerebrovascular diseases",1.2
+"Influenza and pneumonia",0.9
+"All other causes",18.3
+,
+"Cause of death (female, 35–44 years)","Death rate (per 100000 population)"
+"All causes",141.6
+"Accidents (unintentional injuries)",31.6
+"Malignant neoplasms",29.6
+"Diseases of heart",15.9
+"Intentional self-harm (suicide)",8.2
+"Chronic liver disease and cirrhosis",6
+"Diabetes mellitus",4
+"Cerebrovascular diseases",3.7
+"Assault (homicide)",3.3
+"Influenza and pneumonia",2
+"Pregnancy, childbirth and the puerperium",1.9
+"All other causes",35.4
+,
+"Cause of death (female, 45–54 years)","Death rate (per 100000 population)"
+"All causes",297.3
+"Malignant neoplasms",89.5
+"Diseases of heart",44.2
+"Accidents (unintentional injuries)",32.9
+"Chronic liver disease and cirrhosis",13.9
+"Diabetes mellitus",10.9
+"Cerebrovascular diseases",10.6
+"Intentional self-harm (suicide)",10.4
+"Chronic lower respiratory diseases",9.5
+Septicemia,4.9
+"Nephritis, nephrotic syndrome and nephrosis",4.4
+"All other causes",66
+,
+"Cause of death (female, 55–64 years)","Death rate (per 100000 population)"
+"All causes",669.8
+"Malignant neoplasms",234.1
+"Diseases of heart",113.6
+"Chronic lower respiratory diseases",42.5
+"Accidents (unintentional injuries)",33
+"Diabetes mellitus",26.3
+"Cerebrovascular diseases",24.6
+"Chronic liver disease and cirrhosis",21.7
+Septicemia,11.9
+"Nephritis, nephrotic syndrome and nephrosis",10.7
+"Influenza and pneumonia",10.5
+"All other causes",140.9
+,
+"Cause of death (female, 65 years and over)","Death rate (per 100000 population)"
+"All causes",3681.4
+"Diseases of heart",874.2
+"Malignant neoplasms",682.8
+"Alzheimer disease",275.8
+"Cerebrovascular diseases",256.2
+"Chronic lower respiratory diseases",237.7
+"Diabetes mellitus",96.2
+"Accidents (unintentional injuries)",94.4
+"Nephritis, nephrotic syndrome and nephrosis",70.3
+"Influenza and pneumonia",70.2
+"Essential hypertension and hypertensive renal disease",59
+"All other causes",964.6
+,
+"Cause of death (female, 65–74 years)","Death rate (per 100000 population)"
+"All causes",1402
+"Malignant neoplasms",455.4
+"Diseases of heart",258.9
+"Chronic lower respiratory diseases",113.2
+"Cerebrovascular diseases",66
+"Diabetes mellitus",54.8
+"Accidents (unintentional injuries)",34.5
+"Nephritis, nephrotic syndrome and nephrosis",29.3
+"Alzheimer disease",27.8
+Septicemia,25.4
+"Influenza and pneumonia",22.8
+"All other causes",314
+,
+"Cause of death (female, 75–84 years)","Death rate (per 100000 population)"
+"All causes",3710.9
+"Malignant neoplasms",829.2
+"Diseases of heart",780.5
+"Chronic lower respiratory diseases",296.6
+"Cerebrovascular diseases",244.2
+"Alzheimer disease",232.6
+"Diabetes mellitus",112.4
+"Accidents (unintentional injuries)",90.3
+"Nephritis, nephrotic syndrome and nephrosis",79.1
+"Influenza and pneumonia",64.1
+"Parkinson disease",58.8
+"All other causes",923.1
+,
+"Cause of death (female, 85 years and over)","Death rate (per 100000 population)"
+"All causes",12666.1
+"Diseases of heart",3515
+"Alzheimer disease",1352.2
+"Malignant neoplasms",1274.6
+"Cerebrovascular diseases",1036.8
+"Chronic lower respiratory diseases",607.2
+"Accidents (unintentional injuries)",340.9
+"Influenza and pneumonia",270.9
+"Essential hypertension and hypertensive renal disease",239.5
+"Diabetes mellitus",226.1
+"Nephritis, nephrotic syndrome and nephrosis",214.2
+"All other causes",3588.8
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"Source : nvsr70-09-508.pdf",
+"Table : 1",
+"Page : 25-28",
+,
+,
+,
+,
+"Source : nvsr70-09-508.pdf",
+"Table : 2",
+"Page : 93, 99, 105",
