@@ -1,6 +1,0 @@
-Table : Estimated population, by age group (in years), and sex: United States, July 1, 2019
-Source : https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-09-508.pdf
-Title : "Deaths: Leading Causes for 2019"
-Pages : 113
-Author(s) : U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES ; Centers for Disease Control and Prevention ; National Center for Health Statistics ; National Vital Statistics System
-License : "All material appearing in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."

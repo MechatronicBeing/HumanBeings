@@ -1,0 +1,70 @@
+"Cause of death",Number
+"All causes",160393
+"Enterocolitis due to Clostridium difficile",134
+Septicemia,2176
+"Viral hepatitis",623
+"Human immunodeficiency virus (HIV) disease",1232
+"Malignant neoplasms",35587
+"  Malignant neoplasms of lip, oral cavity and pharynx",825
+"  Malignant neoplasm of esophagus",1122
+"  Malignant neoplasm of stomach",1021
+"  Malignant neoplasms of colon, rectum and anus",4887
+"  Malignant neoplasms of liver and intrahepatic bile ducts",1488
+"  Malignant neoplasm of pancreas",2448
+"  Malignant neoplasms of trachea, bronchus and lung",5579
+"  Malignant melanoma of skin",607
+"  Malignant neoplasm of breast",4627
+"  Malignant neoplasm of cervix uteri",846
+"  Malignant neoplasm of ovary",1063
+"  Malignant neoplasm of prostate",385
+"  Malignant neoplasms of kidney and renal pelvis",879
+"  Malignant neoplasm of bladder",373
+"  Malignant neoplasms of meninges, brain and other parts of central nervous system",1743
+"  Non-Hodgkin lymphoma",848
+"  Multiple myeloma and immunoproliferative neoplasms",482
+"  Leukemia",996
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",533
+Anemias,250
+"Diabetes mellitus",6348
+"Nutritional deficiencies",202
+Obesity,1548
+"Parkinson disease",70
+"Alzheimer disease",116
+"Major cardiovascular diseases",38903
+"  Diseases of heart",31138
+"  Essential hypertension and hypertensive renal disease",1485
+"  Cerebrovascular diseases",5153
+"  Atherosclerosis",83
+"  Aortic aneurysm and dissection",670
+"Influenza and pneumonia",2085
+"Chronic lower respiratory diseases",3592
+"Pneumonitis due to solids and liquids",535
+"Chronic liver disease and cirrhosis",8098
+"  Alcoholic liver disease",5661
+"Cholelithiasis and other disorders of gallbladder",117
+"Nephritis, nephrotic syndrome and nephrosis",2269
+"Pregnancy, childbirth and the puerperium",15
+"Certain conditions originating in the perinatal period",3
+"Congenital malformations, deformations and chromosomal abnormalities",707
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1795
+"Accidents (unintentional injuries)",23359
+"  Motor vehicle accidents",5280
+"  Falls",1206
+"  Accidental discharge of firearms",63
+"  Accidental drowning and submersion",466
+"  Accidental hanging, strangulation, and suffocation",425
+"  Accidental exposure to smoke, fire and flames",271
+"  Accidental poisoning and exposure to noxious substances",14105
+"Intentional self–harm (suicide)",8012
+"  Intentional self–harm (suicide) by poisoning",1398
+"  Intentional self–harm (suicide) by hanging, strangulation and suffocation",2303
+"  Intentional self–harm (suicide) by discharge of firearms",3616
+"Assault (homicide)",2053
+"  Assault (homicide) by discharge of firearms",1359
+"Legal intervention",107
+"Complications of medical and surgical care",407
+"Dementia-related causes",359
+"Drug-induced deaths",15908
+"  Drug overdose deaths",15083
+"Alcohol-induced deaths",9004
+"Injury by firearms",5173

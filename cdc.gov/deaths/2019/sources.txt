@@ -1,0 +1,4 @@
+- Deaths: Final data for 2019. National Vital Statistics Reports
+  - https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-08-508.pdf
+- Leading causes for 2019. National Vital Statistics Reports
+  - https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-09-508.pdf
