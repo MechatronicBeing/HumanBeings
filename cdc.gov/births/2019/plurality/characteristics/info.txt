@@ -1,0 +1,4 @@
+- Eary preterm : Less than 34 completed weeks of gestation
+- Preterm : Less than 37 completed weeks of gestation
+- Very low birthweigh : Less than 1500 grams
+- Low birthweight : Less than 2500 grams
