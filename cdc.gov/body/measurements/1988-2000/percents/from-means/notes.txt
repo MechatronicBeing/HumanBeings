@@ -1,2 +1,3 @@
-- the means "20 years and over" are used for the "percentage of adult Height/Weight/BMI".
+- the mean "20 years and over" are used for all adult percentage.
 - for the body-mass-index, the means, from "Birth" to "1 year", are CALCULTED from the BMI formula (BMI=Weight/(Height^2), Height in meters, Weight in kilograms), and the values from the "2000 CDC Growth Charts for the United States: Methods and Development" (https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf).
+- for the height, from "Birth" to "1 year", it's the recumbent-length that is used

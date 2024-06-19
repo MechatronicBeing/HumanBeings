@@ -1,0 +1,39 @@
+Age,"Adult Height (5th)","Adult Height (50th)","Adult Height (95th)"
+Birth,29,32,34
+"2 months",34,36,38
+"3 months",36,38,41
+"4 months",36,39,42
+"5 months",38,40,43
+"6 months",40,42,44
+"7 months",39,42,45
+"8 months",41,43,46
+"9 months",42,44,47
+"10 months",42,45,48
+"11 months",43,46,49
+"1 year",47,50,54
+"2 years",52,56,60
+"3 years",57,61,66
+"4 years",61,65,71
+"5 years",64,70,76
+"6 years",67,74,80
+"7 years",72,77,84
+"8 years",76,82,88
+"9 years",78,85,91
+"10 years",81,89,97
+"11 years",85,94,100
+"12 years",89,97,106
+"13 years",92,99,107
+"14 years",93,100,108
+"15 years",96,101,107
+"16 years",96,101,107
+"17 years",94,102,109
+"18 years",93,102,108
+"19 years",93,102,108
+"20 years and over",94,100,108
+"20–29 years",94,101,108
+"30–39 years",95,102,109
+"40–49 years",95,101,107
+"50–59 years",94,101,107
+"60–69 years",93,100,106
+"70–79 years",92,98,104
+"80 years and over",89,96,103

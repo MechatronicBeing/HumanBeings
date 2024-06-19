@@ -1,0 +1,4 @@
+- These data are NOT RELIABLE : some 5th and 95th percentiles for children are missing, they are "calculated" from others percentiles (but it's not reliable, gap error can be high) !
+- the "20 years and over" from the 50th percentile is used to calcuulate all adult percentage.
+- for the body-mass-index, from "Birth" to "1 year", are CALCULTED from the BMI formula (BMI=Weight/(Height^2), Height in meters, Weight in kilograms), and the percentiles from the "2000 CDC Growth Charts for the United States: Methods and Development" (https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf).
+- the recumbent-length is used for the height, from "Birth" to "1 year"
