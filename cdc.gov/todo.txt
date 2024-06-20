@@ -1,10 +1,9 @@
 + ambulatory-medical-care
   + emergency-department-visits
   + utilization-estimates
-+ births
++ births				DONE SPLITING
   + 2019
-    - OK
-+ body
++ body					DONE SPLITING
   + composition
     + 1999-2004
     + 1999-2006
@@ -19,11 +18,10 @@
     + need split
   + 2000
     + need split
-  + 2019
-    - OK
+  + 2019				DONE SPLITING
 + development
   + developmental-milestones
   + positive-parenting
 + dietary
 + diseases-conditions
-+ vital-signs
++ vital-signs				DONE SPLITING
