@@ -1,0 +1,15 @@
+Age,"Standard error"
+"All ages"
+"2–11 months",0.005
+"1–2 years"
+"3–5 years",0.011
+"6–11 years"
+"12–15 years",0.015
+"16–19 years"
+"20–29 years",0.015
+"30–39 years"
+"40–49 years",0.019
+"50–59 years"
+"60–69 years",0.021
+"70–79 years"
+"80 years and over",1153,0.13,0.02
