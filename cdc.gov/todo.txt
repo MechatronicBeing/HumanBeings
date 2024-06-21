@@ -14,15 +14,18 @@
   - marital-status
   - population-density
   - poverty
-- deaths
-  - 1900
-  - 2000
++ deaths
+  + 1900
+  + 2000
   + 2019
 + development
   + developmental-milestones
   + positive-parenting
 + dietary
 + diseases-conditions
++ estimated-population
+  + 1900
+  (- NEED MORE)
 + vital-signs
 
 -----------------
