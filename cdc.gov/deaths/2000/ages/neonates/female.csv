@@ -1,0 +1,13 @@
+"Cause of death",Number,"Percent of total deaths","Rate (per 100000)"
+"All causes",8265,100,417
+"Disorders related to short gestation and low birth weight, not elsewhere classified",1963,23.8,99
+"Congenital malformations, deformations and chromosomal abnormalities",1918,23.2,96.8
+"Newborn affected by maternal complications of pregnancy",608,7.4,30.7
+"Newborn affected by complications of placenta, cord and membranes",485,5.9,24.5
+"Respiratory distress of newborn",334,4,16.9
+"Bacterial sepsis of newborn",305,3.7,15.4
+"Intrauterine hypoxia and birth asphyxia",259,3.1,13.1
+"Neonatal hemorrhage",221,2.7,11.2
+Atelectasis,190,2.3,9.6
+"Necrotizing enterocolitis of newborn",126,1.5,6.4
+"All other causes",1856,22.5,93.7
