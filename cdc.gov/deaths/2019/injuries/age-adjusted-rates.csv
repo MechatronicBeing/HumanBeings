@@ -1,31 +1,31 @@
 "Mechanism and intent of death","Age-adjusted rate"
 "All injury",71.2
-"  Unintentional",49.3
-"  Suicide",13.9
-"  Homicide",6
-"  Undetermined",1.7
-"  Legal intervention/war",0.2
+"- Unintentional",49.3
+"- Suicide",13.9
+"- Homicide",6
+"- Undetermined",1.7
+"- Legal intervention/war",0.2
 Poisoning,23.2
-"  Unintentional",20.2
-"  Suicide",1.8
-"  Homicide",0
-"  Undetermined",1.1
-"  Legal intervention/war",*
+"- Unintentional",20.2
+"- Suicide",1.8
+"- Homicide",0
+"- Undetermined",1.1
+"- Legal intervention/war",*
 "Motor vehicle traffic",11.1
-"  Occupant",2.6
-"  Motorcyclist",1.4
-"  Pedal cyclist",0.2
-"  Pedestrian",2
-"  Other",*
-"  Unspecified",5
+"- Occupant",2.6
+"- Motorcyclist",1.4
+"- Pedal cyclist",0.2
+"- Pedestrian",2
+"- Other",*
+"- Unspecified",5
 Firearm,11.9
-"  Unintentional",0.2
-"  Suicide",6.8
-"  Homicide",4.6
-"  Undetermined",0.1
-"  Legal intervention/war",0.2
+"- Unintentional",0.2
+"- Suicide",6.8
+"- Homicide",4.6
+"- Undetermined",0.1
+"- Legal intervention/war",0.2
 Fall,10.2
-"  Unintentional",9.8
-"  Suicide",0.3
-"  Homicide",*
-"  Undetermined",0
+"- Unintentional",9.8
+"- Suicide",0.3
+"- Homicide",*
+"- Undetermined",0
