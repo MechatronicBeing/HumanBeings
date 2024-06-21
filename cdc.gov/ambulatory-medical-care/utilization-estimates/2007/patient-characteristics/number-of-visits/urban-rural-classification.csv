@@ -1,9 +1,9 @@
-"Urban-rural classification","Number of visits in thousands","Standard error in thousands"
-"All visits",1200017,42950
-"Large central metro",305695,28614
-"Large fringe metro",254086,17840
-"Medium metro",284802,34738
-"Small metro",99767,15065
-Nonmetropolitan,196784,20981
-Micropolitan,111627,18147
-"Noncore (nonmetro)",85158,9990
+"Urban-rural classification","Number of visits in thousands"
+"All visits",1200017
+"Large central metro",305695
+"Large fringe metro",254086
+"Medium metro",284802
+"Small metro",99767
+Nonmetropolitan,196784
+Micropolitan,111627
+"Noncore (nonmetro)",85158

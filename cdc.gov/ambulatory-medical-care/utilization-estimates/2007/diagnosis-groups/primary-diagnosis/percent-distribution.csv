@@ -1,38 +1,38 @@
-"Primary diagnosis group ","Percent distribution","Standard error of percent"
-"All visits",100,-
-"Essential hypertension",3.9,0.3
-"Routine infant or child health check",3.6,0.3
-"Acute upper respiratory infections, excluding pharyngitis ",3.4,0.2
-"Arthropathies and related disorders",3,0.3
-"Spinal disorders",2.6,0.2
-"Malignant neoplasms",2.3,0.2
-"Diabetes mellitus",2.3,0.2
-"Rheumatism, excluding back",1.9,0.1
-"Specific procedures and aftercare",1.8,0.2
-"General medical examination",1.7,0.2
-"Normal pregnancy",1.6,0.2
-"Follow up examination",1.6,0.2
-"Otitis media and eustachian tube disorders",1.5,0.1
-Asthma,1.4,0.2
-"Heart disease, excluding ischemic ",1.4,0.1
-"Gynecological examination",1.2,0.2
-"Ischemic heart disease",1.2,0.1
-"Allergic rhinitis",1.1,0.2
-"Psychoses, excluding major depressive disorder",1.1,0.1
-"Chronic sinusitis",1,0.1
-Glaucoma,1,0.2
-"Benign neoplasms",1,0.1
-"Abdominal pain",1,0.1
-"Acute pharyngitis",1,0.1
-"Disorders of lipoid metabolism",1,0.1
-"Sprains and strains, excluding ankle and back",0.9,0.1
-"Potential health hazards related to personal and family history",0.9,0.1
-"Chronic and unspecified bronchitis",0.9,0.1
-"Contact dermatitis and other eczema",0.9,0.1
-Cataract,0.8,0.1
-"Depressive disorder, not elsewhere classified",0.8,0.1
-"Chest pain",0.8,0.1
-"Contusion with intact skin surface",0.8,0.1
-"Complications of pregnancy, childbirth, and the puerperium",0.7,0.1
-"Urinary tract infection, site not specified",0.7,0.1
-"All other diagnoses",47.1,0.6
+"Primary diagnosis group ","Percent distribution"
+"All visits",100
+"Essential hypertension",3.9
+"Routine infant or child health check",3.6
+"Acute upper respiratory infections, excluding pharyngitis ",3.4
+"Arthropathies and related disorders",3
+"Spinal disorders",2.6
+"Malignant neoplasms",2.3
+"Diabetes mellitus",2.3
+"Rheumatism, excluding back",1.9
+"Specific procedures and aftercare",1.8
+"General medical examination",1.7
+"Normal pregnancy",1.6
+"Follow up examination",1.6
+"Otitis media and eustachian tube disorders",1.5
+Asthma,1.4
+"Heart disease, excluding ischemic ",1.4
+"Gynecological examination",1.2
+"Ischemic heart disease",1.2
+"Allergic rhinitis",1.1
+"Psychoses, excluding major depressive disorder",1.1
+"Chronic sinusitis",1
+Glaucoma,1
+"Benign neoplasms",1
+"Abdominal pain",1
+"Acute pharyngitis",1
+"Disorders of lipoid metabolism",1
+"Sprains and strains, excluding ankle and back",0.9
+"Potential health hazards related to personal and family history",0.9
+"Chronic and unspecified bronchitis",0.9
+"Contact dermatitis and other eczema",0.9
+Cataract,0.8
+"Depressive disorder, not elsewhere classified",0.8
+"Chest pain",0.8
+"Contusion with intact skin surface",0.8
+"Complications of pregnancy, childbirth, and the puerperium",0.7
+"Urinary tract infection, site not specified",0.7
+"All other diagnoses",47.1

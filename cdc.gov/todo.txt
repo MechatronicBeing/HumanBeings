@@ -1,6 +1,6 @@
 - ambulatory-medical-care
-  - emergency-department-visits
-  - utilization-estimates
+  + emergency-department-visits
+  + utilization-estimates
 + births
   + 2019
 + body

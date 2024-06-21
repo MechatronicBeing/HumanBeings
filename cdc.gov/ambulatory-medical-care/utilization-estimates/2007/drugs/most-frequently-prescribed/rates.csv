@@ -1,22 +1,22 @@
-"Therapeutic drug category","Number of occurences per 100 drug mentions","Standard error of rate"
-"All occurrences",112.8,0.2
-Analgesics,13.1,0.3
-"Antihyperlipidemic agents",5,0.2
-Antidepressants,4.5,0.2
-"Anxiolytics, sedatives, and hypnotics",3.8,0.1
-"Antidiabetic agents",3.5,0.1
-"Beta-adrenergic blocking agents",3.3,0.1
-Bronchodilators,3.1,0.2
-"Antiplatelet agents",3.1,0.1
-Anticonvulsants,3,0.1
-Antihistamines,2.9,0.1
-"Dermatological agents",2.8,0.2
-Diuretics,2.7,0.1
-"Proton pump inhibitors",2.7,0.1
-"Angiotensin converting enzyme inhibitors",2.6,0.1
-"Antiemetic/antivertigo agents",2.4,0.1
-"Viral vaccines",2.2,0.2
-"Adrenal cortical steroids",2,0.1
-"Ophthalmic preparations",1.9,0.3
-"Minerals and electrolytes",1.7,0.1
-Penicillins,1.7,0.1
+"Therapeutic drug category","Number of occurences per 100 drug mentions"
+"All occurrences",112.8
+Analgesics,13.1
+"Antihyperlipidemic agents",5
+Antidepressants,4.5
+"Anxiolytics, sedatives, and hypnotics",3.8
+"Antidiabetic agents",3.5
+"Beta-adrenergic blocking agents",3.3
+Bronchodilators,3.1
+"Antiplatelet agents",3.1
+Anticonvulsants,3
+Antihistamines,2.9
+"Dermatological agents",2.8
+Diuretics,2.7
+"Proton pump inhibitors",2.7
+"Angiotensin converting enzyme inhibitors",2.6
+"Antiemetic/antivertigo agents",2.4
+"Viral vaccines",2.2
+"Adrenal cortical steroids",2
+"Ophthalmic preparations",1.9
+"Minerals and electrolytes",1.7
+Penicillins,1.7

@@ -1,0 +1,253 @@
+"Therapeutic drug category","Standard error in thousands"
+"All occurrences",138837
+Anti-infectives,8124
+Amebicides,498
+Antifungals,598
+"Azole antifungals",566
+"Miscellaneous antifungals",114
+"Antimalarial agents",1086
+"Antimalarial quinolines",787
+"Miscellaneous antimalarials",705
+"Antituberculosis agents",263
+"Nicotinic acid derivatives",161
+"Rifamycin derivatives",126
+"Antiviral agents",1284
+"Protease inhibitors","*1,474
+NRTIs,232
+NNRTIs,83
+"Adamantane antivirals",164
+"Purine nucleosides",606
+"Neuraminidase inhibitors",191
+"Antiviral combinations",359
+Cephalosporins,1860
+"First generation cephalosporins",1273
+"Second generation cephalosporins",520
+"Third generation cephalosporins",916
+"Fourth generation cephalosporins",19
+Leprostatics,79
+"Macrolide derivatives",2040
+Macrolides,2035
+"Miscellaneous antibiotics",1783
+Penicillins,3009
+"Penicillinase resistant penicillins",104
+Aminopenicillins,2306
+"Beta-lactamase inhibitors",1207
+"Natural penicillins",414
+Quinolones,1762
+Sulfonamides,1150
+Tetracyclines,836
+"Urinary anti-infectives",475
+Aminoglycosides,183
+"Lincomycin derivatives",433
+Antineoplastics,2580
+"Alkylating agents",344
+Antibiotics/antineoplastics,92
+Antimetabolites,1349
+Hormones/antineoplastics,916
+"Miscellaneous antineoplastics",390
+"Mitotic inhibitors",274
+"Antineoplastic monoclonal antibodies",418
+"Tyrosine kinase inhibitors",175
+Biologicals,853
+"Colony stimulating factors",211
+"Recombinant human erythropoietins",667
+"Cardiovascular agents",25003
+"Angiotensin converting enzyme inhibitors",4276
+"Antiadrenergic agents, peripherally acting",1447
+"Antiadrenergic agents, centrally acting",518
+"Antianginal agents",988
+"Antiarrhythmic agents",1866
+"Beta-adrenergic blocking agents",6442
+"Cardioselective beta blockers",4873
+"Non-cardioselective beta blockers",2093
+"Calcium channel blocking agents",2747
+Diuretics,5272
+"Loop diuretics",2687
+"Potassium-sparing diuretics",834
+"Thiazide diuretics",2424
+"Carbonic anhydrase inhibitors",154
+"Inotropic agents",1124
+"Miscellaneous cardiovascular agents",166
+Vasodilators,960
+Vasopressors,1206
+"Antihypertensive combinations",2937
+"Angiotensin II inhibitors",2676
+"Agents for pulmonary hypertension",526
+"Aldosterone receptor antagonists",656
+"Central nervous system agents",30557
+Analgesics,18682
+"Miscellaneous analgesics",2907
+"Narcotic analgesics",3175
+"Nonsteroidal anti-inflammatory agents",5543
+Salicylates,5325
+"Analgesic combinations",762
+"Narcotic analgesic combinations",5344
+"Antimigraine agents",853
+"Cox-2 inhibitors",1240
+Anticonvulsants,5006
+"Hydantoin anticonvulsants",445
+"Barbiturate anticonvulsants",237
+"Benzodiazepine anticonvulsants",2617
+"Miscellaneous anticonvulsants",193
+"Dibenzazepine anticonvulsants",422
+"Fatty acid derivative anticonvulsants",410
+"Gamma-aminobutyric acid analogs",1547
+"Triazine anticonvulsants",643
+"Pyrrolidine anticonvulsants",173
+"Carbonic anhydrase inhibitor anticonvulsants",568
+"Antiemetic/antivertigo agents",3639
+"5HT3 receptor antagonists",942
+"Phenothiazine antiemetics",1387
+"Anticholinergic antiemetics",1149
+"Miscellaneous antiemetics",1835
+"Anti-Parkinson agents",1199
+"Anticholinergic anti-Parkinson agents",839
+"Dopaminergic anti-Parkinson agents",771
+"Anxiolytics, sedatives, and hypnotics",6053
+Barbiturates,183
+Benzodiazepines,4567
+"Miscellaneous anxiolytics, sedatives and hypnotics",2254
+"CNS stimulants",2604
+"General anesthetics","*2,1427
+"Muscle relaxants",2521
+"Neuromuscular blocking agents",85
+"Skeletal muscle relaxants",2500
+"Miscellaneous central nervous system agents",386
+"Adrenal cortical steroids",3533
+Glucocorticoids,3330
+"Miscellaneous hormones",680
+"Sex hormones",2898
+Contraceptives,1570
+"Androgens and anabolic steroids",404
+Estrogens,1423
+Gonadotropins,84
+Progestins,643
+"Sex hormone combinations",590
+"Miscellaneous sex hormones",330
+"5-alpha-reductase inhibitors",575
+"Thyroid drugs",2781
+Bisphosphonates,1829
+"Incretin mimetics",254
+"Miscellaneous agents",7209
+Antidotes,197
+"Chelating agents",153
+"Local injectable anesthetics",2156
+"Miscellaneous uncategorized agents",4272
+"Genitourinary tract agents",1568
+"Impotence agents",827
+"Urinary antispasmodics",914
+"Urinary pH modifiers",164
+"Miscellaneous genitourinary tract agents",338
+Antirheumatics,2953
+Antipsoriatics,1311
+"Smoking cessation agents",1297
+"Nutritional products",10107
+"Iron products",986
+"Minerals and electrolytes",3210
+"Oral nutritional supplements",143
+Vitamins,2964
+"Vitamin and mineral combinations",2881
+"Respiratory agents",15160
+Antihistamines,5106
+Antitussives,1045
+Bronchodilators,6169
+Methylxanthines,388
+"Adrenergic bronchodilators",3688
+"Bronchodilator combinations",2220
+"Anticholinergic bronchodilators",970
+Decongestants,1192
+Expectorants,1177
+"Miscellaneous respiratory agents",980
+"Respiratory inhalant products",1079
+"Inhaled corticosteroids",1061
+"Antiasthmatic combinations",455
+"Upper respiratory combinations",2618
+"Leukotriene modifiers",2331
+"Lung surfactants",67
+"Topical agents",12424
+"Anorectal preparations",263
+"Antiseptics and germicides",512
+"Dermatological agents",4733
+"Topical anti-infectives",406
+"Topical steroids",2068
+"Topical anesthetics",500
+"Miscellaneous topical agents",1433
+"Topical steroids with antiinfectives",472
+"Topical acne agents",1157
+"Topical antipsoriatics",257
+"Topical emollients",576
+"Topical antibiotics",602
+"Topical antifungals",765
+"Topical debriding agents",41
+"Mouth and throat products",318
+"Ophthalmic preparations",7970
+"Ophthalmic anti-infectives",437
+"Ophthalmic glaucoma agents",2784
+"Ophthalmic steroids",1064
+"Ophthalmic steroids with anti-infectives",273
+"Ophthalmic anti-inflammatory agents",432
+"Ophthalmic lubricants and irrigations",262
+"Miscellaneous ophthalmic agents",855
+"Ophthalmic antihistamines and decongestants",931
+Mydriatics,"*4,2468
+"Ophthalmic anesthetics","*1,1726
+"Ophthalmic diagnostic agents","*2,2174
+"Otic preparations",432
+"Miscellaneous otic agents",429
+"Vaginal preparations",816
+Spermicides,138
+"Vaginal anti-infectives",798
+"Nasal preparations",4487
+"Nasal steroids",3813
+"Nasal antihistamines and decongestants",869
+"Alternative medicines",2269
+"Nutraceutical products",1594
+"Herbal products",938
+"Psychotherapeutic agents",7722
+Antidepressants,6498
+"Miscellaneous antidepressants",1255
+"SSRI antidepressants",3281
+"Tricyclic antidepressants",978
+"Phenylpiperazine antidepressants",883
+"Tetracyclic antidepressants",381
+"SSNRI antidepressants",1607
+Antipsychotics,1971
+"Miscellaneous antipsychotic agents",441
+"Phenothiazine antipsychotics",377
+"Atypical antipsychotics",1623
+"Immunologic agents",9949
+"Bacterial vaccines",2246
+"Immune globulins",232
+Toxoids,1673
+"Viral vaccines",6024
+"Miscellaneous biologicals","*6,2718
+"Immunosuppressive agents",509
+Interferons,113
+"Immunosuppressive monoclonal antibodies",661
+"Radiologic agents",182
+"Radiocontrast agents",92
+"Non-ionic iodinated contrast media",35
+"Ionic iodinated contrast media",54
+"Radiologic adjuncts",142
+"Cardiac stressing agents",142
+"Metabolic agents",15452
+"Antihyperlipidemic agents",9235
+"HMG-CoA reductase inhibitors",6400
+"Miscellaneous antihyperlipidemic agents",648
+"Fibric acid derivatives",825
+"Bile acid sequestrants",144
+"Cholesterol absorption inhibitors",999
+"Antihyperlipidemic combinations",1575
+"Antidiabetic agents",6401
+Sulfonylureas,1589
+Non-sulfonylureas,2259
+Insulin,1639
+Thiazolidinediones,1158
+Meglitinides,293
+"Antidiabetic combinations",837
+"Dipeptidyl peptidase 4 inhibitors",273
+"Antigout agents",931
+"Antihyperuricemic agents",743
+"Glucose elevating agents",106
+"Medical gases",325
+"Pharmaceutical aids",1498

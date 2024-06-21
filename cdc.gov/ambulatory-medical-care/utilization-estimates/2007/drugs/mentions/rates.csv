@@ -1,7 +1,7 @@
-"Ambulatory care setting","Number of drug mentions per 100 visits","Standard error of rate"
-"All ambulatory care settings",224.1,5.9
-"Primary care offices",225.6,7.9
-"Medical specialty offices",284,14.8
-"Surgical specialty offices",163.6,11.4
-"Hospital outpatient departments",253,13
-"Hospital emergency departments",182.7,3.9
+"Ambulatory care setting","Number of drug mentions per 100 visits"
+"All ambulatory care settings",224.1
+"Primary care offices",225.6
+"Medical specialty offices",284
+"Surgical specialty offices",163.6
+"Hospital outpatient departments",253
+"Hospital emergency departments",182.7

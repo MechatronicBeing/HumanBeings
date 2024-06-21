@@ -1,0 +1,8 @@
+"Patient age","Standard error of rate"
+"All visits",1.1
+"Under 15 years",-
+"15–24 years",1
+"25–44 years",1.2
+"45–64 years",1.6
+"65–74 years",3.8
+"75 years and over",4.8
