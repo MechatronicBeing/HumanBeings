@@ -1,13 +1,13 @@
-"Principal reason","Number of visits in thousands","Standard error in thousands"
-"All female visits, age 15–64 years",42559,2372
-"Stomach pain, cramps, and spasms",4585,331
-"Chest pain and related symptoms",2285,187
-"Headache, pain in head",1784,137
-"Back symptoms",1460,142
-"Problems of pregnancy and the post-partum period",1303,130
-"Pain, site not referable to a specific body system",1260,109
-"Symptoms referable to throat",949,98
-"Shortness of breath.",905,84
-Nausea,815,102
-"Uterine and vaginal bleeding",759,79
-"All other reasons2",26453,1443
+"Principal reason","Number of visits in thousands"
+"All female visits, age 15–64 years",42559
+"Stomach pain, cramps, and spasms",4585
+"Chest pain and related symptoms",2285
+"Headache, pain in head",1784
+"Back symptoms",1460
+"Problems of pregnancy and the post-partum period",1303
+"Pain, site not referable to a specific body system",1260
+"Symptoms referable to throat",949
+"Shortness of breath.",905
+Nausea,815
+"Uterine and vaginal bleeding",759
+"All other reasons2",26453

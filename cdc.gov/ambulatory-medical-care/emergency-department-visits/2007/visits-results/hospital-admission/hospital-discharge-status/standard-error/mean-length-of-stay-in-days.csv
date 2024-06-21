@@ -1,0 +1,9 @@
+"Hospital discharge status","Standard error in days"
+"All admissions",0.1
+Alive,0.1
+"Home or residence",0.1
+"Transferred to another hospital",0.5
+Other,1.1
+"Unknown or blank",0.5
+Died,0.8
+"Unknown or blank",0.5

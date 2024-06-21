@@ -1,11 +1,11 @@
-Imaging,"Percent of visits","Standard error of percent"
-X-ray,33.8,0.8
-"Computed tomography scan",13.9,0.5
-Head,6.7,0.3
-"Other than head",6.7,0.4
-Ultrasound,3,0.2
-"Magnetic resonance imaging scan",0.7,0.1
-Head,0.3,0
-"Other than head",0.3,0
-"Other imaging",1,0.1
-"Any imaging",44.4,0.9
+Imaging,"Percent of visits"
+X-ray,33.8
+"Computed tomography scan",13.9
+Head,6.7
+"Other than head",6.7
+Ultrasound,3
+"Magnetic resonance imaging scan",0.7
+Head,0.3
+"Other than head",0.3
+"Other imaging",1
+"Any imaging",44.4

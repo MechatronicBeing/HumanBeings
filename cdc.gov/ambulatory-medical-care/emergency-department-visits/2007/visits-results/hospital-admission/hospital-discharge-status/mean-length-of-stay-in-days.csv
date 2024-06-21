@@ -1,9 +1,9 @@
-"Hospital discharge status","Mean length of stay in days","Standard error in days"
-"All admissions",5.3,0.1
-Alive,5.2,0.1
-"Home or residence",4.9,0.1
-"Transferred to another hospital",7.1,0.5
-Other,8.1,1.1
-"Unknown or blank",4,0.5
-Died,8,0.8
-"Unknown or blank",5.3,0.5
+"Hospital discharge status","Mean length of stay in days"
+"All admissions",5.3
+Alive,5.2
+"Home or residence",4.9
+"Transferred to another hospital",7.1
+Other,8.1
+"Unknown or blank",4
+Died,8
+"Unknown or blank",5.3

@@ -1,5 +1,5 @@
-"Geographic region","Number of visits per 100 persons per year","Standard error of rate"
-Northeast,38,3.4
-Midwest,38.4,4.1
-South,45,4.1
-West,32.7,4.7*
+"Geographic region","Number of visits per 100 persons per year"
+Northeast,38
+Midwest,38.4
+South,45
+West,32.7

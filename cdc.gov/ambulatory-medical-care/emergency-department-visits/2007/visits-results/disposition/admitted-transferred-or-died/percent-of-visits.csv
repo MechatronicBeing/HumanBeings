@@ -1,12 +1,12 @@
-"Admitted, transferred, or died","Percent of visits","Standard error of percent"
-"Admitted to hospital",12.5,0.6
-"Stepdown or telemetry unit",2.5,0.2
-"Critical care unit2",1.4,0.1
-"Operating room",0.6,0.1
-"Mental health or detoxification unit",0.5,0.1
-"Cardiac catheterization lab",-,-
-"Other bed or unit",6.2,0.4
-"Unknown or blank",1.3,0.2
-"Admitted to observation unit",2.1,0.3
-"Transferred to different hospital",1.8,0.2
-"Died in emergency department",0.1,0
+"Admitted, transferred, or died","Percent of visits"
+"Admitted to hospital",12.5
+"Stepdown or telemetry unit",2.5
+"Critical care unit2",1.4
+"Operating room",0.6
+"Mental health or detoxification unit",0.5
+"Cardiac catheterization lab",-
+"Other bed or unit",6.2
+"Unknown or blank",1.3
+"Admitted to observation unit",2.1
+"Transferred to different hospital",1.8
+"Died in emergency department",0.1

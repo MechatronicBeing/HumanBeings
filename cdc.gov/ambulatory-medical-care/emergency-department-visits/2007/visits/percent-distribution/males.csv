@@ -1,8 +1,8 @@
-Age,"Percent distribution","Standard error of percent"
-"All male visits",45.9,0.5
-"Under 15 years",10.5,0.7
-"15–24 years",6.8,0.3
-"25–44 years",12.7,0.3
-"45–64 years",10,0.3
-"65–74 years",2.7,0.1
-"75 years and over",3.3,0.2
+Age,"Percent distribution"
+"All male visits",45.9
+"Under 15 years",10.5
+"15–24 years",6.8
+"25–44 years",12.7
+"45–64 years",10
+"65–74 years",2.7
+"75 years and over",3.3

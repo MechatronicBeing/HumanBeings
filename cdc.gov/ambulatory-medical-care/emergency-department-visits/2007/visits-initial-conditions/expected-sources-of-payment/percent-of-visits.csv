@@ -1,11 +1,11 @@
-"Expected sources of payment","Percent of visits","Standard error of percent"
-"Private insurance",39,1.3
-"Medicaid or SCHIP2",25.2,1
-Medicare,17.2,0.6
-"Medicare and Medicaid3",3,0.2
-"No insurance4",15.3,0.8
-Self-pay,14.6,0.8
-"No charge or charity",1,0.2
-"Workers' compensation",1.6,0.1
-Other,2.4,0.3
-"Unknown or blank",9,1.7
+"Expected sources of payment","Percent of visits"
+"Private insurance",39
+"Medicaid or SCHIP2",25.2
+Medicare,17.2
+"Medicare and Medicaid3",3
+"No insurance4",15.3
+Self-pay,14.6
+"No charge or charity",1
+"Workers' compensation",1.6
+Other,2.4
+"Unknown or blank",9

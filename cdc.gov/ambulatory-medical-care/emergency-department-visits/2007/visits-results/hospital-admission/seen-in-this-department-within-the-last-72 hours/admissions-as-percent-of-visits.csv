@@ -1,4 +1,4 @@
-"Patient seen in this emergency department within the last 72 hours","Admissions as percent of visits","Standard error of percent"
-"All admissions",12.5,0.9
-Yes,14.3,1.7
-"No, unknown, or blank",12.5,0.9
+"Patient seen in this emergency department within the last 72 hours","Admissions as percent of visits"
+"All admissions",12.5
+Yes,14.3
+"No, unknown, or blank",12.5

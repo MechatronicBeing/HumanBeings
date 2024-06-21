@@ -1,13 +1,13 @@
-"Principal reason","Number of visits in thousands","Standard error in thousands"
-"All Male visits under 15 years",12236,1047
-Fever,1888,212
-Cough,876,106
-Vomiting.,668,96
-"Injury, other and unspecified type—head, neck, and face",442,70
-"Earache or ear infection",440,68
-"Facial area",368,44
-"Skin rash",350,50
-"Stomach pain, cramps, and spasms",306,40
-"Symptoms referable to throat",234,38
-"Labored or difficult breathing (dyspnea)",220,44
-"All other reasons2",6445,594
+"Principal reason","Number of visits in thousands"
+"All Male visits under 15 years",12236
+Fever,1888
+Cough,876
+Vomiting.,668
+"Injury, other and unspecified type—head, neck, and face",442
+"Earache or ear infection",440
+"Facial area",368
+"Skin rash",350
+"Stomach pain, cramps, and spasms",306
+"Symptoms referable to throat",234
+"Labored or difficult breathing (dyspnea)",220
+"All other reasons2",6445

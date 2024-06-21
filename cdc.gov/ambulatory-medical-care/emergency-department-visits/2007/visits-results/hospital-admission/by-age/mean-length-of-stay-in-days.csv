@@ -1,8 +1,8 @@
-Age,"Mean length of stay in days","Standard error in days"
-"All admissions",5.3,0.1
-"Under 15 years",4.7,0.5
-"15–24 years",4.5,0.5
-"25–44 years",4.2,0.2
-"45–64 years",5.2,0.2
-"65–74 years",5.9,0.4
-"75 years and over",6.2,0.2
+Age,"Mean length of stay in days"
+"All admissions",5.3
+"Under 15 years",4.7
+"15–24 years",4.5
+"25–44 years",4.2
+"45–64 years",5.2
+"65–74 years",5.9
+"75 years and over",6.2

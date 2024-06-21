@@ -1,0 +1,6 @@
+Temperature,"Standard error in thousands"
+"All visits",6293
+"Febrile: >38.0 °C or >100.4 °F ",424
+"Normal: 35.1–38.0 °C or 95.1–100.4 °F",5603
+"Hypothermic: <35.0 °C or <95.0 °F",77
+"Unknown or blank ",831

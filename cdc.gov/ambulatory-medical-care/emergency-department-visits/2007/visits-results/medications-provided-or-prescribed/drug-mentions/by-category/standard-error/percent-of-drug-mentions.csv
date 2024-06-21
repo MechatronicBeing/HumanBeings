@@ -1,0 +1,21 @@
+"Drug category","Standard error of percent"
+Analgesics3,0.4
+"Antiemetic/antivertigo agents",0.3
+Antihistamines,0.2
+"Anxiolytics, sedatives, and hypnotics",0.1
+Cephalosporins,0.2
+"Minerals and electrolytes",0.3
+Bronchodilators,0.2
+Penicillins,0.2
+"Adrenal cortical steroids",0.1
+"Miscellaneous antibiotics",0.1
+Anticonvulsants,0.1
+Quinolones,0.1
+"Miscellaneous respiratory agents",0.3
+"Macrolide derivatives",0.1
+"Muscle relaxants",0.1
+"Antiplatelet agents",0.1
+"Dermatological agents",0.1
+"Antiparkinson agents",0.1
+Sulfonamides,0.1
+Toxoids,0.1

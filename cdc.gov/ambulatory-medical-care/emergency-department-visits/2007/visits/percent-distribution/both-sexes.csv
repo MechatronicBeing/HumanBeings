@@ -1,12 +1,12 @@
-Age,"Percent distribution","Standard error of percent"
-"All age",100,-
-"Under 15 years",19.1,1.1
-"Under 1 year",3.2,0.3
-"1–4 years",7.1,0.5
-"5–14 years",8.7,0.4
-"15–24 years",16.3,0.4
-"25–44 years",28.7,0.5
-"45–64 years",21,0.5
-"65 years and over",15,0.5
-"65–74 years",5.9,0.2
-"75 years and over",9.1,0.3
+Age,"Percent distribution"
+"All age",100
+"Under 15 years",19.1
+"Under 1 year",3.2
+"1–4 years",7.1
+"5–14 years",8.7
+"15–24 years",16.3
+"25–44 years",28.7
+"45–64 years",21
+"65 years and over",15
+"65–74 years",5.9
+"75 years and over",9.1

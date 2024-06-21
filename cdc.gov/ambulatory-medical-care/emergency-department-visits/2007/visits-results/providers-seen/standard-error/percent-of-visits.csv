@@ -1,0 +1,11 @@
+"Providers seen","Standard error of percent"
+"Registered nurse or licensed practical nurse",1.1
+"Any physician",0.8
+"Emergency department attending physician",1.1
+"Emergency department resident or intern",1
+"Other on-call attending physician, fellow, or resident",0.7
+"Physician assistant",1.1
+"Nurse practitioner",0.5
+"Emergency medical technician",0.8
+Other,2
+Blank,0.2

@@ -1,4 +1,4 @@
-"Mode of arrival","Number of visits in thousands","Standard error in thousands"
-"All admissions",14641,1033
-Ambulance,5692,461
-Other,8949,646
+"Mode of arrival","Number of visits in thousands"
+"All admissions",14641
+Ambulance,5692
+Other,8949

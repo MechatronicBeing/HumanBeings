@@ -1,5 +1,5 @@
-"Patient seen in this emergency department within the last 72 hours","Number of visits in thousands","Standard error in thousands"
-"All visits",116802,6293
-Yes,4463,391
-No,86681,5128
-"Unknown or blank",25658,2742
+"Patient seen in this emergency department within the last 72 hours","Number of visits in thousands"
+"All visits",116802
+Yes,4463
+No,86681
+"Unknown or blank",25658

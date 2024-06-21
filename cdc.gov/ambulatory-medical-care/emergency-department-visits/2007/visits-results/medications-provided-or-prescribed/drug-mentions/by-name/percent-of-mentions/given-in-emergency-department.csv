@@ -1,23 +1,23 @@
-"Drug name","Percent of mentions","Standard error of percent"
-"All drug mentions",62.3,1.1
-Ibuprofen,3,0.1
-Acetaminophen-hydrocodone,2.1,0.1
-Acetaminophen,2.8,0.1
-Promethazine,2.8,0.2
-Ketorolac,3.3,0.2
-Morphine,3.1,0.2
-Ondansetron,2.7,0.2
-Hydromorphone,2.3,0.2
-"Sodium chloride",2.2,0.3
-Acetaminophen-oxycodone,1,0.1
-Albuterol,1.2,0.1
-Azithromycin,0.7,0
-Amoxicillin,0.4,0
-Aspirin,1.4,0.1
-Ceftriaxone,1.5,0.1
-Cephalexin,0.4,0
-Sulfamethoxazole-trimethoprim,0.4,0
-Diphenhydramine,1.1,0.1
-Lorazepam,1.1,0.1
-Levofloxacin,0.9,0.1
-"All other",28,0.6
+"Drug name","Percent of mentions"
+"All drug mentions",62.3
+Ibuprofen,3
+Acetaminophen-hydrocodone,2.1
+Acetaminophen,2.8
+Promethazine,2.8
+Ketorolac,3.3
+Morphine,3.1
+Ondansetron,2.7
+Hydromorphone,2.3
+"Sodium chloride",2.2
+Acetaminophen-oxycodone,1
+Albuterol,1.2
+Azithromycin,0.7
+Amoxicillin,0.4
+Aspirin,1.4
+Ceftriaxone,1.5
+Cephalexin,0.4
+Sulfamethoxazole-trimethoprim,0.4
+Diphenhydramine,1.1
+Lorazepam,1.1
+Levofloxacin,0.9
+"All other",28

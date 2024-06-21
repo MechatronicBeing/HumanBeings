@@ -1,7 +1,7 @@
-"Immediacy in which the patient should be seen","Percent distribution","Standard error"
-"Immediate (less than 1 minute)",4.5,0.6
-"Emergent (within 1–14 minutes)",11.3,0.7
-"Urgent (within 15–60 minutes)",38.5,1.4
-"Semiurgent (within 61–120 minutes)",21,1.1
-"Nonurgent (within 121 minutes–24 hours)",7.9,0.7
-"Unknown or no triage",16.9,2
+"Immediacy in which the patient should be seen","Percent distribution"
+"Immediate (less than 1 minute)",4.5
+"Emergent (within 1–14 minutes)",11.3
+"Urgent (within 15–60 minutes)",38.5
+"Semiurgent (within 61–120 minutes)",21
+"Nonurgent (within 121 minutes–24 hours)",7.9
+"Unknown or no triage",16.9

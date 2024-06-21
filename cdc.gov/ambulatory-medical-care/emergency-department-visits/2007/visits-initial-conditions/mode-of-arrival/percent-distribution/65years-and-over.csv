@@ -1,5 +1,5 @@
-"Mode of arrival","Percent distribution","Standard error of percent"
-Walk-in,53.7,1.5
-Ambulance,37.6,1.4
-"Public service",1.8,0.4
-Unknown,6.9,0.9
+"Mode of arrival","Percent distribution"
+Walk-in,53.7
+Ambulance,37.6
+"Public service",1.8
+Unknown,6.9

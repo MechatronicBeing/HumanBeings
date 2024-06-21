@@ -1,13 +1,13 @@
-"Primary diagnosis","Number of visits in thousands","Standard error in thousands"
-"All male visits, age 65 years and over",6996,414
-"Heart disease, excluding ischemic ",461,60
-"Chest pain",422,46
-Pneumonia,225,37
-"Cellulitis and abscess",206,39
-"Open wound, excluding head",197,42
-"Abdominal pain",176,34
-"Cerebrovascular disease",171,32
-"Syncope and collapse",169,29
-"Contusion with intact skin surface",168,33
-"Symptoms involving the urinary system",163,31
-"All other diagnoses",4638,285
+"Primary diagnosis","Number of visits in thousands"
+"All male visits, age 65 years and over",6996
+"Heart disease, excluding ischemic ",461
+"Chest pain",422
+Pneumonia,225
+"Cellulitis and abscess",206
+"Open wound, excluding head",197
+"Abdominal pain",176
+"Cerebrovascular disease",171
+"Syncope and collapse",169
+"Contusion with intact skin surface",168
+"Symptoms involving the urinary system",163
+"All other diagnoses",4638

@@ -1,8 +1,8 @@
-Age,"Number of visits in thousands","Standard error in thousands"
-"All injury-related female visits",18449,996
-"Under 15 years",3076,233
-"15–24 years",3103,200
-"25–44 years",5082,331
-"45–64 years",3947,252
-"65–74 years",1063,102
-"75 years and over",2178,161
+Age,"Number of visits in thousands"
+"All injury-related female visits",18449
+"Under 15 years",3076
+"15–24 years",3103
+"25–44 years",5082
+"45–64 years",3947
+"65–74 years",1063
+"75 years and over",2178

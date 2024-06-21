@@ -1,0 +1,8 @@
+"Examinations and tests","Standard error of percent"
+Urinalysis,0.6
+Electrocardiogram,0.5
+"Cardiac monitor",0.5
+"Pregnancy test",0.3
+"Rapid flu or influenza test",0.3
+"Wound culture",0.1
+"Other test or service",1

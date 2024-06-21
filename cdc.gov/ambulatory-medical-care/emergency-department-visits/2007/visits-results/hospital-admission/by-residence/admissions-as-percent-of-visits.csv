@@ -1,8 +1,8 @@
-Residence,"Admissions as percent of visits","Standard error of percent"
-"All admissions",12.5,0.9
-"Private residence",11.3,0.8
-"Nursing home",48.8,4.8
-"Other institution",18.6,3.3
-"Other residence",28.6,6.4
-Homeless,11.6,3.2
-"Unknown or blank",17.1,2.6
+Residence,"Admissions as percent of visits"
+"All admissions",12.5
+"Private residence",11.3
+"Nursing home",48.8
+"Other institution",18.6
+"Other residence",28.6
+Homeless,11.6
+"Unknown or blank",17.1

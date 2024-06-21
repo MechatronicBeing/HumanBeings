@@ -1,7 +1,7 @@
-"Presenting level of pain","Number of visits in thousands","Standard error in thousands"
-"All visits",116802,6293
-None,23955,1382
-Mild,14370,885
-Moderate,27187,1666
-Severe,26196,1616
-"Unknown or blank ",25094,2389
+"Presenting level of pain","Number of visits in thousands"
+"All visits",116802
+None,23955
+Mild,14370
+Moderate,27187
+Severe,26196
+"Unknown or blank ",25094

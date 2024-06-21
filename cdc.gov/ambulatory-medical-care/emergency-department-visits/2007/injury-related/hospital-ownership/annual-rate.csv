@@ -1,4 +1,4 @@
-"Hospital ownership","Number of visits per 100 persons per year","Standard error of rate"
-Voluntary,9.9,0.6
-Proprietary,1.8,0.4
-Government,1.6,0.2
+"Hospital ownership","Number of visits per 100 persons per year"
+Voluntary,9.9
+Proprietary,1.8
+Government,1.6

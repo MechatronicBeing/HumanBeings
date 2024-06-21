@@ -1,6 +1,6 @@
-"Expected sources of payment","Number of visits in thousands","Standard error in thousands"
-"All admissions",14641,1033
-"Private insurance",5914,472
-Uninsured,1650,271
-Medicare,6327,496
-"Medicaid or SCHIP",2915,238
+"Expected sources of payment","Number of visits in thousands"
+"All admissions",14641
+"Private insurance",5914
+Uninsured,1650
+Medicare,6327
+"Medicaid or SCHIP",2915

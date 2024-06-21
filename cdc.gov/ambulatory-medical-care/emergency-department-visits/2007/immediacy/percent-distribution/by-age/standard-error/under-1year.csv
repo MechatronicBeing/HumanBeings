@@ -1,0 +1,7 @@
+"Immediacy in which the patient should be seen","Standard error"
+"Immediate (less than 1 minute)",0.9
+"Emergent (within 1–14 minutes)",1.5
+"Urgent (within 15–60 minutes)",3.3
+"Semiurgent (within 61–120 minutes)",3
+"Nonurgent (within 121 minutes–24 hours)",1.2
+"Unknown or no triage",5.3

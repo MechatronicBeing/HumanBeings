@@ -1,6 +1,6 @@
-"Geographic region","Number of visits in thousands","Standard error in thousands"
-"All injury-related visits2",39395,2089
-Northeast,7248,654
-Midwest,8627,795
-South,15541,1382
-West,7980,1221
+"Geographic region","Number of visits in thousands"
+"All injury-related visits2",39395
+Northeast,7248
+Midwest,8627
+South,15541
+West,7980

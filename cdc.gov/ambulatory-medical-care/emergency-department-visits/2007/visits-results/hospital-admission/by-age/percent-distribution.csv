@@ -1,8 +1,8 @@
-Age,"Percent distribution","Standard error of percent"
-"All admissions",100,-
-"Under 15 years",4.5,0.7
-"15–24 years",5.7,0.5
-"25–44 years",19,0.9
-"45–64 years",28.4,0.8
-"65–74 years",13.1,0.6
-"75 years and over",29.2,1
+Age,"Percent distribution"
+"All admissions",100
+"Under 15 years",4.5
+"15–24 years",5.7
+"25–44 years",19
+"45–64 years",28.4
+"65–74 years",13.1
+"75 years and over",29.2

@@ -1,8 +1,8 @@
-"Examinations and tests","Percent of visits","Standard error of percent"
-Urinalysis,22.5,0.6
-Electrocardiogram,16.6,0.5
-"Cardiac monitor",8,0.5
-"Pregnancy test",4.8,0.3
-"Rapid flu or influenza test",1.3,0.3
-"Wound culture",0.8,0.1
-"Other test or service",11.2,1
+"Examinations and tests","Percent of visits"
+Urinalysis,22.5
+Electrocardiogram,16.6
+"Cardiac monitor",8
+"Pregnancy test",4.8
+"Rapid flu or influenza test",1.3
+"Wound culture",0.8
+"Other test or service",11.2

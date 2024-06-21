@@ -1,23 +1,23 @@
-"Principal diagnosis group","Number of visits in thousands","Standard error in thousands"
-"All visits",14641,1033
-"Heart disease, excluding ischemic",923,86
-"Chest pain",829,128
-Pneumonia,507,61
-"Cerebrovascular disease",446,59
-"Ischemic heart disease ",423,73
-"Psychoses, excluding major depressive disorder",357,57
-"Cellulitis and abscess",334,55
-"Malignant neoplasms",269,45
-"Fracture of the lower limb",244,36
-"Syncope and collapse",223,41
-"Diabetes mellitus.",218,39
-"Fractures, excluding lower limb",216,37
-"Gastrointestinal hemorrhage.",209,40
-Anemia,208,39
-"Urinary tract infection, site not specified",203,40
-"Noninfectious enteritis and colitis.",195,37
-"Complications of pregnancy, childbirth, and the puerperium",191,46
-"Abdominal pain",186,33
-"Disorder of gallbladder and biliary tract",186,43
-Asthma,158,30
-"All other diagnoses",8116,605
+"Principal diagnosis group","Number of visits in thousands"
+"All visits",14641
+"Heart disease, excluding ischemic",923
+"Chest pain",829
+Pneumonia,507
+"Cerebrovascular disease",446
+"Ischemic heart disease ",423
+"Psychoses, excluding major depressive disorder",357
+"Cellulitis and abscess",334
+"Malignant neoplasms",269
+"Fracture of the lower limb",244
+"Syncope and collapse",223
+"Diabetes mellitus.",218
+"Fractures, excluding lower limb",216
+"Gastrointestinal hemorrhage.",209
+Anemia,208
+"Urinary tract infection, site not specified",203
+"Noninfectious enteritis and colitis.",195
+"Complications of pregnancy, childbirth, and the puerperium",191
+"Abdominal pain",186
+"Disorder of gallbladder and biliary tract",186
+Asthma,158
+"All other diagnoses",8116

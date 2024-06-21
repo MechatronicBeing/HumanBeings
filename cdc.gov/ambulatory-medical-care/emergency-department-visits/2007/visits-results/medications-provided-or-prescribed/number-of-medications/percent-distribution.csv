@@ -1,10 +1,10 @@
-"Number of medications provided or prescribed","Percent distribution","Standard error of percent"
-"No mention of medication",23.7,0.7
-1,26.2,0.5
-2,22,0.4
-3,13.5,0.3
-4,7.1,0.2
-5,3.8,0.2
-6,1.8,0.1
-7,0.9,0.1
-8,0.9,0.2
+"Number of medications provided or prescribed","Percent distribution"
+"No mention of medication",23.7
+1,26.2
+2,22
+3,13.5
+4,7.1
+5,3.8
+6,1.8
+7,0.9
+8,0.9

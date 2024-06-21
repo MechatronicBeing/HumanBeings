@@ -1,12 +1,12 @@
-Age,"Percent distribution","Standard error of percent"
-"All injury-related visits",100,-
-"Under 15 years",18.5,0.9
-"Under 1 year",1,0.1
-"1–4 years",6.2,0.4
-"5–14 years",11.3,0.5
-"15–24 years",18.1,0.5
-"25–44 years",29.5,0.7
-"45–64 years",20.6,0.6
-"65 years and over",13.3,0.6
-"65–74 years",5,0.3
-"75 years and over",8.3,0.4
+Age,"Percent distribution"
+"All injury-related visits",100
+"Under 15 years",18.5
+"Under 1 year",1
+"1–4 years",6.2
+"5–14 years",11.3
+"15–24 years",18.1
+"25–44 years",29.5
+"45–64 years",20.6
+"65 years and over",13.3
+"65–74 years",5
+"75 years and over",8.3

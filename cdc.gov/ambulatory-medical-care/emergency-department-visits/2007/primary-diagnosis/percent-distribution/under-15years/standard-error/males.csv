@@ -1,0 +1,13 @@
+"Primary diagnosis","Standard error of percent"
+"All male visits, age under 15 years",0.9
+"Acute upper respiratory infections, excluding pharyngitis",0.6
+"Otitis media and Eustachian tube disorders",0.4
+"Open wound of head",0.3
+"Contusion with intact skin surface",0.3
+"Pyrexia of unknown origin",0.2
+"Open wound, excluding head",0.2
+Asthma,0.2
+"Fractures, excluding lower limb",0.2
+"Unspecified viral and Chlamydia infection",0.2
+"Acute pharyngitis",0.2
+"All other diagnoses",0.9

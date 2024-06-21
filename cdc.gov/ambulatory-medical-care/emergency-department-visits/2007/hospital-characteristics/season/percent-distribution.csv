@@ -1,5 +1,5 @@
-Season,"Number of visits per 100 persons per year","Standard error of rate"
-Winter,11.7,1.4
-Spring,10.4,1.2
-Summer,9.7,1.3
-Fall,7.6,0.9
+Season,"Number of visits per 100 persons per year"
+Winter,11.7
+Spring,10.4
+Summer,9.7
+Fall,7.6

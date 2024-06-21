@@ -1,0 +1,7 @@
+"Patient residence","Standard error of percent"
+"Private residence",0.5
+"Nursing home",0.1
+"Other institution",0.1
+"Other residence",0.1
+Homeless,0.1
+"Unknown or blank",0.5

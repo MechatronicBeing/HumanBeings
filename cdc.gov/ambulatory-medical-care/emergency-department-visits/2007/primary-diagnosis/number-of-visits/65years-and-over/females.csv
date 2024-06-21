@@ -1,13 +1,13 @@
-"Primary diagnosis","Number of visits in thousands","Standard error in thousands"
-"All female visits, age 65 years and over",10539,643
-"Chest pain",576,76
-"Contusion with intact skin surface",548,67
-"Heart disease, excluding ischemic ",520,55
-"Urinary tract infection, site not specified",391,57
-"Abdominal pain",322,44
-"Fractures, excluding lower limb",293,46
-"Cerebrovascular disease",266,41
-"Fracture of the lower limb",233,41
-Pneumonia,232,39
-"Spinal disorders",229,41
-"All other diagnoses",6929,425
+"Primary diagnosis","Number of visits in thousands"
+"All female visits, age 65 years and over",10539
+"Chest pain",576
+"Contusion with intact skin surface",548
+"Heart disease, excluding ischemic ",520
+"Urinary tract infection, site not specified",391
+"Abdominal pain",322
+"Fractures, excluding lower limb",293
+"Cerebrovascular disease",266
+"Fracture of the lower limb",233
+Pneumonia,232
+"Spinal disorders",229
+"All other diagnoses",6929

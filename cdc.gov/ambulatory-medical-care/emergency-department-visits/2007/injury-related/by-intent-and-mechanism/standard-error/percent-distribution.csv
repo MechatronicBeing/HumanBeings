@@ -1,0 +1,34 @@
+"Intent and mechanism","Standard error of percent"
+"All injury-related visits",-
+"Unintentional injuries",0.9
+Falls,0.6
+"Motor vehicle traffic",0.5
+"Struck against or struck accidentally by objects or persons",0.4
+"Overexertion and strenuous movements",0.3
+"Cutting or piercing instruments or objects",0.3
+"Natural and environmental factors",0.2
+"Foreign body",0.1
+Poisoning,0.1
+"Motor vehicle, nontraffic, and other",0.1
+"Fire and flames, hot substances or object, caustic or corrosive, and steam",0.1
+"Caught accidentally in or between objects",0.1
+"Pedal cycle, nontraffic",0.1
+Machinery,0.1
+"Other transportation",0.1
+"Other mechanism2",0.2
+"Mechanism unspecified",0.1
+"Intentional injuries",0.2
+Assault,0.2
+"Unarmed fight or brawl, striking by blunt or thrown object",0.1
+"Cutting or piercing instrument",0.1
+"Other and unspecified mechanism3",0.1
+Self-inflicted,0.1
+"Poisoning by solid or liquid substances, gases, and vapors",0.1
+"Other and unspecified mechanism4",0.1
+"Other causes of violence",0
+"Injuries of undetermined intent",0.1
+"Adverse effects of medical treatment",0.3
+"Medical and surgical complications",0.2
+"Adverse drug effects",0.2
+"Alcohol and drug use5",0.3
+Unknown6,0.8

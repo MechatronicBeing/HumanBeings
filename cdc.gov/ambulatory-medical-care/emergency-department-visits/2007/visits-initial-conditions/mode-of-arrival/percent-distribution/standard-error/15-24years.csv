@@ -1,0 +1,5 @@
+"Mode of arrival","Standard error of percent"
+Walk-in,1.3
+Ambulance,0.7
+"Public service",0.9
+Unknown,0.9

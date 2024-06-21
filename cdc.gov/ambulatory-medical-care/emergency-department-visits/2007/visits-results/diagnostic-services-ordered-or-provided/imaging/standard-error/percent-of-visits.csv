@@ -1,0 +1,11 @@
+Imaging,"Standard error of percent"
+X-ray,0.8
+"Computed tomography scan",0.5
+Head,0.3
+"Other than head",0.4
+Ultrasound,0.2
+"Magnetic resonance imaging scan",0.1
+Head,0
+"Other than head",0
+"Other imaging",0.1
+"Any imaging",0.9

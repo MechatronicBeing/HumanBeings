@@ -1,4 +1,4 @@
-"Patient discharged from any hospital within the last 7 days","Mean length of stay in days","Standard error in days"
-"All admissions",5.3,0.1
-Yes,6.5,0.5
-"No, unknown, or blank",5.2,0.1
+"Patient discharged from any hospital within the last 7 days","Mean length of stay in days"
+"All admissions",5.3
+Yes,6.5
+"No, unknown, or blank",5.2

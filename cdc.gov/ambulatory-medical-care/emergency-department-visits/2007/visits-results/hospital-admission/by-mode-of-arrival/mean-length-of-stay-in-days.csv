@@ -1,4 +1,4 @@
-"Mode of arrival","Mean length of stay in days","Standard error in days"
-"All admissions",5.3,0.1
-Ambulance,6,0.2
-Other,4.9,0.1
+"Mode of arrival","Mean length of stay in days"
+"All admissions",5.3
+Ambulance,6
+Other,4.9

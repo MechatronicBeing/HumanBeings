@@ -1,0 +1,13 @@
+"Primary diagnosis","Standard error of percent"
+"All female visits, age 65 years and over",0.8
+"Chest pain",0.3
+"Contusion with intact skin surface",0.4
+"Heart disease, excluding ischemic ",0.3
+"Urinary tract infection, site not specified",0.3
+"Abdominal pain",0.2
+"Fractures, excluding lower limb",0.2
+"Cerebrovascular disease",0.2
+"Fracture of the lower limb",0.2
+Pneumonia,0.2
+"Spinal disorders",0.2
+"All other diagnoses",0.9

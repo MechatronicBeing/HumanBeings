@@ -1,21 +1,21 @@
-"Drug category","Number of mentions in thousands","Standard error in thousands"
-Analgesics3,77545,4631
-"Antiemetic/antivertigo agents",23234,1553
-Antihistamines,12100,775
-"Anxiolytics, sedatives, and hypnotics",9199,548
-Cephalosporins,8041,650
-"Minerals and electrolytes",7684,794
-Bronchodilators,7296,473
-Penicillins,7132,515
-"Adrenal cortical steroids",6267,419
-"Miscellaneous antibiotics",5899,403
-Anticonvulsants,5581,384
-Quinolones,5105,342
-"Miscellaneous respiratory agents",5047,720
-"Macrolide derivatives",4231,310
-"Muscle relaxants",4066,297
-"Antiplatelet agents",3838,317
-"Dermatological agents",3417,322
-"Antiparkinson agents",3108,212
-Sulfonamides,3053,266
-Toxoids,2730,192
+"Drug category","Number of mentions in thousands"
+Analgesics3,77545
+"Antiemetic/antivertigo agents",23234
+Antihistamines,12100
+"Anxiolytics, sedatives, and hypnotics",9199
+Cephalosporins,8041
+"Minerals and electrolytes",7684
+Bronchodilators,7296
+Penicillins,7132
+"Adrenal cortical steroids",6267
+"Miscellaneous antibiotics",5899
+Anticonvulsants,5581
+Quinolones,5105
+"Miscellaneous respiratory agents",5047
+"Macrolide derivatives",4231
+"Muscle relaxants",4066
+"Antiplatelet agents",3838
+"Dermatological agents",3417
+"Antiparkinson agents",3108
+Sulfonamides,3053
+Toxoids,2730

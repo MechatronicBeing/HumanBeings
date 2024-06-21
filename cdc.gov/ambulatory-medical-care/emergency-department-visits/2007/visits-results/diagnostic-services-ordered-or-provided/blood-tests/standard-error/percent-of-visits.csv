@@ -1,0 +1,14 @@
+"Blood tests","Standard error of percent"
+"Complete blood count",0.9
+"Blood urea nitrogen or creatinine",1.1
+Glucose,1
+Electrolytes,1.2
+"Cardiac enzymes",0.7
+"Liver function tests",0.6
+"Prothrombin time or international normalized ratio INR",0.4
+"Blood culture",0.2
+"Toxicology screen",0.2
+"Arterial blood gases",0.3
+"Blood alcohol concentration",0.2
+"Other blood test",0.8
+"Any blood test listed",0.9

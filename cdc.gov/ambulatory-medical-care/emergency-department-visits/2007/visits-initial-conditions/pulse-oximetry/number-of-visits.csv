@@ -1,6 +1,6 @@
-"Pulse oximetry1","Number of visits in thousands","Standard error in thousands"
-"All visits",116802,6293
-"95–100% ",78690,5133
-90–94%,5319,519
-"less than 90%",2789,603
-"Unknown or blank",30004,2485
+"Pulse oximetry1","Number of visits in thousands"
+"All visits",116802
+"95–100% ",78690
+90–94%,5319
+"less than 90%",2789
+"Unknown or blank",30004
