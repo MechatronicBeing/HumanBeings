@@ -1,0 +1,9 @@
+Poverty status was defined using the poverty income ratio (PIR) and categorized as :
+- below poverty level (poverty income ratio less than 1.30)
+- at or above poverty level (poverty income ratio of 1.30 or more).
+Poverty income ratio is a calculated variable based on income and family size using tables published each year by the U.S. Bureau of the Census (31). 
+This variable has been adjusted to account for inflation and other factors. 
+However, the manner in which it is calculated has changed slightly over time. 
+The cutoff point selected is consistent with that used to determine eligibility for the Food Stamp Program.
+
+extract from https://www.cdc.gov/nchs/data/series/sr_11/sr11_245.pdf
