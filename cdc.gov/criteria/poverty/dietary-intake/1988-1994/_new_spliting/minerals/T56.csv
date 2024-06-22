@@ -1,0 +1,95 @@
+"Table 56. Iron intake in milligrams by sex, age, and income level: United States, 1988–94",,,,
+"BOTH SEXES",,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",29105,15.2,0.14,12.8
+"Under 6 years",6871,11.9,0.12,10.2
+"6–11 years",3134,14.1,0.23,12.4
+"12–19 years",3121,16.2,0.49,13.5
+"20–59 years",10940,15.8,0.18,13.3
+"60 years and over",5039,14.8,0.24,12
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",10696,14.2,0.24,11.8
+"Under 6 years",3145,12.2,0.24,10.5
+"6–11 years",1446,14.5,0.37,12.5
+"12–19 years",1345,14.6,0.37,13.1
+"20–59 years",3329,15.1,0.41,12.3
+"60 years and over",1431,12.8,0.6,10
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15771,15.6,0.17,13
+"Under 6 years",3128,11.8,0.19,10.1
+"6–11 years",1439,14.1,0.28,12.6
+"12–19 years",1470,16.8,0.66,13.6
+"20–59 years",6710,16.1,0.22,13.6
+"60 years and over",3024,15.3,0.26,12.5
+,,,,
+"MALES --------------------------------",,,,
+,,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",13923,17.8,0.22,15.1
+"Under 6 years",3410,12.4,0.2,10.6
+"6–11 years",1581,15.2,0.34,13.3
+"12–19 years",1462,19.5,0.74,16.3
+"20–59 years",5019,18.8,0.25,16.3
+"60 years and over",2451,17.4,0.34,14
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",4929,16.4,0.38,13.8
+"Under 6 years",1564,12.7,0.34,10.6
+"6–11 years",713,15.4,0.61,13.7
+"12–19 years",634,16.4,0.45,14
+"20–59 years",1390,18.6,0.71,15.7
+"60 years and over",628,14.3,0.56,12.6
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",7770,18.2,0.26,15.5
+"Under 6 years",1548,12.5,0.31,10.8
+"6–11 years",746,15.4,0.38,13.5
+"12–19 years",674,20.7,1.02,17.1
+"20–59 years",3226,18.9,0.33,16.4
+"60 years and over",1576,17.8,0.43,14.4
+,,,,
+"FEMALES ------------------------------------------------",,,,
+,,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15182,12.8,0.17,11
+"Under 6 years",3461,11.3,0.14,9.7
+"6–11 years",1553,13,0.41,11.2
+"12–19 years",1659,12.9,0.42,11.1
+"20–59 years",5921,13,0.25,11.2
+"60 years and over",2588,12.9,0.27,10.5
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",5767,12.5,0.25,10.5
+"Under 6 years",1581,11.7,0.26,10.2
+"6–11 years",733,13.6,0.59,11.4
+"12–19 years",711,13.1,0.45,11.9
+"20–59 years",1939,12.4,0.33,10.4
+"60 years and over",803,12.1,0.76,9.3
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",8001,13,0.19,11.1
+"Under 6 years",1580,11.2,0.21,9.5
+"6–11 years",693,12.7,0.47,11.1
+"12–19 years",796,12.7,0.53,10.6
+"20–59 years",3484,13.2,0.29,11.3
+"60 years and over",1448,13.2,0.28,11.1

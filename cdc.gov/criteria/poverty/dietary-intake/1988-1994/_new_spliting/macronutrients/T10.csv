@@ -1,0 +1,95 @@
+"Table 10. Total fat intake in grams by sex, age, and income level: United States, 1988–94",,,,
+,,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",29105,81,0.9,71
+"Under 6 years",6871,53,0.7,48
+"6–11 years",3134,75,1.2,69
+"12–19 years",3121,92,1.7,83
+"20–59 years",10940,90,1.3,79
+"60 years and over",5039,63,0.8,56
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",10696,77,0.9,66
+"Under 6 years",3145,56,1.1,52
+"6–11 years",1446,76,1.7,70
+"12–19 years",1345,92,2.4,80
+"20–59 years",3329,85,1.8,73
+"60 years and over",1431,54,1.5,48
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15771,83,1.1,73
+"Under 6 years",3128,51,0.9,47
+"6–11 years",1439,75,1.5,69
+"12–19 years",1470,93,2.3,83
+"20–59 years",6710,91,1.4,81
+"60 years and over",3024,66,0.9,59
+,,,,
+"MALES ---------------------------------------",,,,
+,,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",13923,97,1.3,85
+"Under 6 years",3410,55,1,50
+"6–11 years",1581,82,2.1,77
+"12–19 years",1462,108,2.4,99
+"20–59 years",5019,108,1.9,98
+"60 years and over",2451,76,1,69
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",4929,89,1.7,78
+"Under 6 years",1564,59,1.4,54
+"6–11 years",713,85,2.9,80
+"12–19 years",634,103,3.2,93
+"20–59 years",1390,103,2.9,89
+"60 years and over",628,66,2.5,57
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",7770,99,1.5,88
+"Under 6 years",1548,53,1.1,48
+"6–11 years",746,81,2.6,76
+"12–19 years",674,110,3.1,101
+"20–59 years",3226,110,1.9,101
+"60 years and over",1576,78,1.2,72
+,,,,
+"FEMALES ---------------------------------------------",,,,
+,,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15182,67,0.6,60
+"Under 6 years",3461,51,0.8,46
+"6–11 years",1553,68,1.2,64
+"12–19 years",1659,76,2,66
+"20–59 years",5921,72,0.9,65
+"60 years and over",2588,54,0.8,49
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",5767,67,1,57
+"Under 6 years",1581,54,1.6,48
+"6–11 years",733,68,2.4,64
+"12–19 years",711,81,4.1,67
+"20–59 years",1939,71,2,63
+"60 years and over",803,48,1.9,43
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",8001,68,0.8,61
+"Under 6 years",1580,50,0.9,45
+"6–11 years",693,68,1.5,64
+"12–19 years",796,74,2,66
+"20–59 years",3484,73,1.1,66
+"60 years and over",1448,55,1.1,51

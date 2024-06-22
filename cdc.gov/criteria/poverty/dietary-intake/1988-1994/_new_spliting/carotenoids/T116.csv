@@ -1,0 +1,93 @@
+"Table 116. Alpha-Carotene intake in micrograms by sex, age, and income level: United States, 1988–94",,,,
+"BOTH SEXES",,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",29103,417,15.3,37
+"Under 6 years",6871,250,16.6,18
+"6–11 years",3134,249,29.7,23
+"12–19 years",3119,299,35.4,23
+"20–59 years",10940,440,21.9,45
+"60 years and over",5039,608,31.2,59
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",10696,298,25.2,27
+"Under 6 years",3145,206,21.5,18
+"6–11 years",1446,198,32.6,27
+"12–19 years",1345,186,35.7,26
+"20–59 years",3329,337,41.8,30
+"60 years and over",1431,477,65.7,30
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15770,454,18.4,41
+"Under 6 years",3128,271,21.7,18
+"6–11 years",1439,275,39,22
+"12–19 years",1469,348,47.6,22
+"20–59 years",6710,465,27.4,47
+"60 years and over",3024,653,32.3,71
+,,,,
+"MALE ------------------------------",,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",13922,427,19.5,39
+"Under 6 years",3410,257,23.3,18
+"6–11 years",1581,247,37.5,23
+"12–19 years",1461,*312,*92.6,27
+"20–59 years",5019,464,36.3,48
+"60 years and over",2451,604,40.1,55
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",4929,332,38.5,27
+"Under 6 years",1564,219,33.4,18
+"6–11 years",713,*204,*54.8,28
+"12–19 years",634,137,23.1,29
+"20–59 years",1390,450,79.7,32
+"60 years and over",628,488,97.3,26
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",7769,455,23.9,43
+"Under 6 years",1548,269,27.7,18
+"6–11 years",746,264,40.9,23
+"12–19 years",673,372,142.8,27
+"20–59 years",3226,473,45.7,52
+"60 years and over",1576,640,37.6,63
+,,,,
+"FEMALE -------------------------------------",,,,
+"Total : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",15181,408,20.5,35
+"Under 6 years",3461,243,15.5,19
+"6–11 years",1553,251,44.3,22
+"12–19 years",1658,*287,*79.0,20
+"20–59 years",5921,416,23.9,41
+"60 years and over",2588,611,36.4,62
+,,,,
+"Poverty income ratio ≤ 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",5767,270,24.1,27
+"Under 6 years",1581,193,20.3,18
+"6–11 years",733,193,34.8,25
+"12–19 years",711,*229,*61.4,24
+"20–59 years",1939,251,35.2,29
+"60 years and over",803,472,83.7,33
+,,,,
+"Poverty income ratio > 1.300 : Sample size",,,,
+,,,,
+Age,"Sample size",Mean,"Standard error of the mean",Median
+"All ages",8001,453,27.3,39
+"Under 6 years",1580,274,21.9,20
+"6–11 years",693,288,66.6,19
+"12–19 years",796,*324,*112.9,18
+"20–59 years",3484,457,29.7,45
+"60 years and over",1448,664,43.2,78
