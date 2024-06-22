@@ -1,33 +1,33 @@
 "Body site","Percent distribution"
 "All injury visits",100
 "Head and neck",13.7
-"Traumatic brain injury",0.9
-"Other head",3.5
-Face,4.7
-Eye,1.2
-"Head, face, and neck unspecified",3.4
+"- Traumatic brain injury",0.9
+"- Other head",3.5
+"- Face",4.7
+"- Eye",1.2
+"- Head, face, and neck unspecified",3.4
 "Vertebral column",5.3
 Cervical,2.8
-"Thoracic and dorsal",0.5
-Lumbar,1.9
+"- Thoracic and dorsal",0.5
+"- Lumbar",1.9
 Torso,4.6
-Chest,1.9
-Abdomen,0.4
-"Pelvis and urogenital",0.6
-Trunk,0.4
-"Back and buttocks",1.3
+"- Chest",1.9
+"- Abdomen",0.4
+"- Pelvis and urogenital",0.6
+"- Trunk",0.4
+"- Back and buttocks",1.3
 "Upper extremity",18.6
-"Shoulder and upper arm",3.4
-"Forearm and elbow",2.6
-"Wrist, hand, and fingers",11.6
-"Other and unspecified upper extremity",1.1
+"- Shoulder and upper arm",3.4
+"- Forearm and elbow",2.6
+"- Wrist, hand, and fingers",11.6
+"- Other and unspecified upper extremity",1.1
 "Lower extremity",14.6
-Hip,1.2
-"Upper leg and thigh",0.5
-Knee,1.3
-"Lower leg and ankle",4.1
-"Foot and toes",3.3
-"Other and unspecified lower extremity",4.2
+"- Hip",1.2
+"- Upper leg and thigh",0.5
+"- Knee",1.3
+"- Lower leg and ankle",4.1
+"- Foot and toes",3.3
+"- Other and unspecified lower extremity",4.2
 Systemwide,3.3
 "Other and unspecified body site injuries",4.7
 "Adverse effects and medical complications",3.1
