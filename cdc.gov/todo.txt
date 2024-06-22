@@ -1,4 +1,4 @@
-- ambulatory-medical-care
++ ambulatory-medical-care
   + emergency-department-visits
   + utilization-estimates
 + births
@@ -7,13 +7,13 @@
   + composition
   + hand-preference
   + measurements
-- criteria
-  - education
-  - geographic-region
-  - income
-  - marital-status
-  - population-density
-  - poverty
++ criteria
+  + education
+  + geographic-region
+  + income
+  + marital-status
+  + population-density
+  + poverty
 + deaths
   + 1900
   + 2000
@@ -30,5 +30,5 @@
 
 -----------------
 Legends :
-- : todo (spliting)
-+ : done (spliting)
+- : todo
++ : done
