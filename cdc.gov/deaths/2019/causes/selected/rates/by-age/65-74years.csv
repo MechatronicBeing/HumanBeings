@@ -5,24 +5,24 @@ Septicemia,28
 "Viral hepatitis",3.9
 "Human immunodeficiency virus (HIV) disease",2.4
 "Malignant neoplasms",543.3
-"  Malignant neoplasms of lip, oral cavity and pharynx",10
-"  Malignant neoplasm of esophagus",16.5
-"  Malignant neoplasm of stomach",9.3
-"  Malignant neoplasms of colon, rectum and anus",41.5
-"  Malignant neoplasms of liver and intrahepatic bile ducts",30.4
-"  Malignant neoplasm of pancreas",45.8
-"  Malignant neoplasms of trachea, bronchus and lung",144.3
-"  Malignant melanoma of skin",6.6
-"  Malignant neoplasm of breast",33.6
-"  Malignant neoplasm of cervix uteri",2.6
-"  Malignant neoplasm of ovary",12.5
-"  Malignant neoplasm of prostate",24.1
-"  Malignant neoplasms of kidney and renal pelvis",12.9
-"  Malignant neoplasm of bladder",12
-"  Malignant neoplasms of meninges, brain and other parts of central nervous system",15.9
-"  Non-Hodgkin lymphoma",15.9
-"  Multiple myeloma and immunoproliferative neoplasms",11.5
-"  Leukemia",17.6
+"- Malignant neoplasms of lip, oral cavity and pharynx",10
+"- Malignant neoplasm of esophagus",16.5
+"- Malignant neoplasm of stomach",9.3
+"- Malignant neoplasms of colon, rectum and anus",41.5
+"- Malignant neoplasms of liver and intrahepatic bile ducts",30.4
+"- Malignant neoplasm of pancreas",45.8
+"- Malignant neoplasms of trachea, bronchus and lung",144.3
+"- Malignant melanoma of skin",6.6
+"- Malignant neoplasm of breast",33.6
+"- Malignant neoplasm of cervix uteri",2.6
+"- Malignant neoplasm of ovary",12.5
+"- Malignant neoplasm of prostate",24.1
+"- Malignant neoplasms of kidney and renal pelvis",12.9
+"- Malignant neoplasm of bladder",12
+"- Malignant neoplasms of meninges, brain and other parts of central nervous system",15.9
+"- Non-Hodgkin lymphoma",15.9
+"- Multiple myeloma and immunoproliferative neoplasms",11.5
+"- Leukemia",17.6
 "In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",9.8
 Anemias,2.7
 "Diabetes mellitus",73.3
@@ -31,16 +31,16 @@ Obesity,6
 "Parkinson disease",16.8
 "Alzheimer disease",24.9
 "Major cardiovascular diseases",502.1
-"  Diseases of heart",388.8
-"  Essential hypertension and hypertensive renal disease",20.9
-"  Cerebrovascular diseases",76.4
-"  Atherosclerosis",2.1
-"  Aortic aneurysm and dissection",7
+"- Diseases of heart",388.8
+"- Essential hypertension and hypertensive renal disease",20.9
+"- Cerebrovascular diseases",76.4
+"- Atherosclerosis",2.1
+"- Aortic aneurysm and dissection",7
 "Influenza and pneumonia",27.3
 "Chronic lower respiratory diseases",124.6
 "Pneumonitis due to solids and liquids",9.7
 "Chronic liver disease and cirrhosis",33.1
-"  Alcoholic liver disease",14.4
+"- Alcoholic liver disease",14.4
 "Cholelithiasis and other disorders of gallbladder",2.2
 "Nephritis, nephrotic syndrome and nephrosis",34.7
 "Pregnancy, childbirth and the puerperium",*
@@ -48,24 +48,24 @@ Obesity,6
 "Congenital malformations, deformations and chromosomal abnormalities",2.1
 "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",13.3
 "Accidents (unintentional injuries)",54.5
-"  Motor vehicle accidents",13.1
-"  Falls",17.1
-"  Accidental discharge of firearms",0.1
-"  Accidental drowning and submersion",1.3
-"  Accidental hanging, strangulation, and suffocation",3.6
-"  Accidental exposure to smoke, fire and flames",2
-"  Accidental poisoning and exposure to noxious substances",9.7
+"- Motor vehicle accidents",13.1
+"- Falls",17.1
+"- Accidental discharge of firearms",0.1
+"- Accidental drowning and submersion",1.3
+"- Accidental hanging, strangulation, and suffocation",3.6
+"- Accidental exposure to smoke, fire and flames",2
+"- Accidental poisoning and exposure to noxious substances",9.7
 "Intentional self–harm (suicide)",15.5
-"  Intentional self–harm (suicide) by poisoning",2.2
-"  Intentional self–harm (suicide) by hanging, strangulation and suffocation",2.2
-"  Intentional self–harm (suicide) by discharge of firearms",9.9
+"- Intentional self–harm (suicide) by poisoning",2.2
+"- Intentional self–harm (suicide) by hanging, strangulation and suffocation",2.2
+"- Intentional self–harm (suicide) by discharge of firearms",9.9
 "Assault (homicide)",2.2
-"  Assault (homicide) by discharge of firearms",1
+"- Assault (homicide) by discharge of firearms",1
 "Legal intervention",*
 "Complications of medical and surgical care",4.5
 "Dementia-related causes",59.3
 "Drug-induced deaths",12.6
-"  Drug overdose deaths",11.3
+"- Drug overdose deaths",11.3
 "Alcohol-induced deaths",22.5
 "Injury by firearms",11.1
 

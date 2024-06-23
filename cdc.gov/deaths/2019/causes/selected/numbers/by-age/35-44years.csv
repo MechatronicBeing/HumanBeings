@@ -5,24 +5,24 @@ Septicemia,812
 "Viral hepatitis",177
 "Human immunodeficiency virus (HIV) disease",694
 "Malignant neoplasms",10695
-"  Malignant neoplasms of lip, oral cavity and pharynx",182
-"  Malignant neoplasm of esophagus",233
-"  Malignant neoplasm of stomach",430
-"  Malignant neoplasms of colon, rectum and anus",1428
-"  Malignant neoplasms of liver and intrahepatic bile ducts",319
-"  Malignant neoplasm of pancreas",479
-"  Malignant neoplasms of trachea, bronchus and lung",771
-"  Malignant melanoma of skin",295
-"  Malignant neoplasm of breast",1916
-"  Malignant neoplasm of cervix uteri",550
-"  Malignant neoplasm of ovary",297
-"  Malignant neoplasm of prostate",23
-"  Malignant neoplasms of kidney and renal pelvis",196
-"  Malignant neoplasm of bladder",76
-"  Malignant neoplasms of meninges, brain and other parts of central nervous system",794
-"  Non-Hodgkin lymphoma",319
-"  Multiple myeloma and immunoproliferative neoplasms",97
-"  Leukemia",536
+"- Malignant neoplasms of lip, oral cavity and pharynx",182
+"- Malignant neoplasm of esophagus",233
+"- Malignant neoplasm of stomach",430
+"- Malignant neoplasms of colon, rectum and anus",1428
+"- Malignant neoplasms of liver and intrahepatic bile ducts",319
+"- Malignant neoplasm of pancreas",479
+"- Malignant neoplasms of trachea, bronchus and lung",771
+"- Malignant melanoma of skin",295
+"- Malignant neoplasm of breast",1916
+"- Malignant neoplasm of cervix uteri",550
+"- Malignant neoplasm of ovary",297
+"- Malignant neoplasm of prostate",23
+"- Malignant neoplasms of kidney and renal pelvis",196
+"- Malignant neoplasm of bladder",76
+"- Malignant neoplasms of meninges, brain and other parts of central nervous system",794
+"- Non-Hodgkin lymphoma",319
+"- Multiple myeloma and immunoproliferative neoplasms",97
+"- Leukemia",536
 "In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",227
 Anemias,209
 "Diabetes mellitus",2228
@@ -31,16 +31,16 @@ Obesity,909
 "Parkinson disease",10
 "Alzheimer disease",10
 "Major cardiovascular diseases",13282
-"  Diseases of heart",10499
-"  Essential hypertension and hypertensive renal disease",496
-"  Cerebrovascular diseases",1741
-"  Atherosclerosis",16
-"  Aortic aneurysm and dissection",398
+"- Diseases of heart",10499
+"- Essential hypertension and hypertensive renal disease",496
+"- Cerebrovascular diseases",1741
+"- Atherosclerosis",16
+"- Aortic aneurysm and dissection",398
 "Influenza and pneumonia",951
 "Chronic lower respiratory diseases",659
 "Pneumonitis due to solids and liquids",210
 "Chronic liver disease and cirrhosis",3417
-"  Alcoholic liver disease",2653
+"- Alcoholic liver disease",2653
 "Cholelithiasis and other disorders of gallbladder",51
 "Nephritis, nephrotic syndrome and nephrosis",761
 "Pregnancy, childbirth and the puerperium",398
@@ -48,23 +48,23 @@ Obesity,909
 "Congenital malformations, deformations and chromosomal abnormalities",434
 "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1365
 "Accidents (unintentional injuries)",24070
-"  Motor vehicle accidents",5397
-"  Falls",537
-"  Accidental discharge of firearms",57
-"  Accidental drowning and submersion",415
-"  Accidental hanging, strangulation, and suffocation",224
-"  Accidental exposure to smoke, fire and flames",191
-"  Accidental poisoning and exposure to noxious substances",16063
+"- Motor vehicle accidents",5397
+"- Falls",537
+"- Accidental discharge of firearms",57
+"- Accidental drowning and submersion",415
+"- Accidental hanging, strangulation, and suffocation",224
+"- Accidental exposure to smoke, fire and flames",191
+"- Accidental poisoning and exposure to noxious substances",16063
 "Intentional self–harm (suicide)",7525
-"  Intentional self–harm (suicide) by poisoning",958
-"  Intentional self–harm (suicide) by hanging, strangulation and suffocation",2782
-"  Intentional self–harm (suicide) by discharge of firearms",3187
+"- Intentional self–harm (suicide) by poisoning",958
+"- Intentional self–harm (suicide) by hanging, strangulation and suffocation",2782
+"- Intentional self–harm (suicide) by discharge of firearms",3187
 "Assault (homicide)",3446
-"  Assault (homicide) by discharge of firearms",2660
+"- Assault (homicide) by discharge of firearms",2660
 "Legal intervention",153
 "Complications of medical and surgical care",199
 "Dementia-related causes",48
 "Drug-induced deaths",17607
-"  Drug overdose deaths",16859
+"- Drug overdose deaths",16859
 "Alcohol-induced deaths",4614
 "Injury by firearms",6071
