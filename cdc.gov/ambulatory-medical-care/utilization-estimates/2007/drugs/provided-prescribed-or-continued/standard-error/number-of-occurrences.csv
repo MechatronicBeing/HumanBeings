@@ -189,9 +189,9 @@ Expectorants,1177
 "Ophthalmic lubricants and irrigations",262
 "Miscellaneous ophthalmic agents",855
 "Ophthalmic antihistamines and decongestants",931
-Mydriatics,"*4,2468
-"Ophthalmic anesthetics","*1,1726
-"Ophthalmic diagnostic agents","*2,2174
+Mydriatics,2468
+"Ophthalmic anesthetics",1726
+"Ophthalmic diagnostic agents",2174
 "Otic preparations",432
 "Miscellaneous otic agents",429
 "Vaginal preparations",816
@@ -220,7 +220,7 @@ Antipsychotics,1971
 "Immune globulins",232
 Toxoids,1673
 "Viral vaccines",6024
-"Miscellaneous biologicals","*6,2718
+"Miscellaneous biologicals",2718
 "Immunosuppressive agents",509
 Interferons,113
 "Immunosuppressive monoclonal antibodies",661
