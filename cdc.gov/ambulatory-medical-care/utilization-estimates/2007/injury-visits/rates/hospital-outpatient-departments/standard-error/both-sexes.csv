@@ -1,4 +1,4 @@
-"Patient age","Standard error of rate"
+Age,"Standard error of rate"
 "All visits",0.5
 "Under 15 years",0.4
 "15–24 years",0.6

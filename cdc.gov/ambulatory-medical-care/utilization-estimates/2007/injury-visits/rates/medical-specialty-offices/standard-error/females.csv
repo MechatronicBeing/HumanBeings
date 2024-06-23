@@ -1,5 +1,5 @@
-"Patient age","Standard error of rate"
-"All female visits",1
+Age,"Standard error of rate"
+"All age",1
 "Under 15 years",-
 "15–24 years",-
 "25–44 years",1.3

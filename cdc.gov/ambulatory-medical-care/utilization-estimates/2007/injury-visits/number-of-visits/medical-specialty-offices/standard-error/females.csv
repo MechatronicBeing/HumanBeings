@@ -1,5 +1,5 @@
-"Patient age","Standard error in thousands"
-"All female visits",1538
+Age,"Standard error in thousands"
+"All age",1538
 "Under 15 years",-
 "15–24 years",-
 "25–44 years",529

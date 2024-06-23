@@ -1,5 +1,5 @@
-"Patient age","Number of visits per 100 persons"
-"All female visits",12.2
+Age,"Number of visits per 100 persons"
+"All age",12.2
 "Under 15 years",10.4
 "15–24 years",15.1
 "25–44 years",12.3

@@ -1,6 +1,6 @@
-"Patient age","Number of visits in thousands"
-"All female visits",16165
-"Under 15 years","*1,229"
+Age,"Number of visits in thousands"
+"All age",16165
+"Under 15 years",*1229
 "15–24 years",1079
 "25–44 years",3423
 "45–64 years",5882
