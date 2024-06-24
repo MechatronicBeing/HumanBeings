@@ -1,15 +1,15 @@
-| Diseases                   | 65AndOver |
-| -------------------------- | --------- |
-| Consumption (Tuberculosis) | 3.7       |
-| Pneumonia                  | 9.8       |
-| Diseases of the heart      | 12.1      |
-| Cancer                     | 5.5       |
-| Typhoid fever              | 0.7       |
-| Old age                    | 15.5      |
-| Bright’s disease           | 3.8       |
-| Apoplexy (nervous system)  | 6.5       |
-| Cholera infantum           |           |
-| Paralysis (nervous system) | 6.6       |
-| Bronchitis                 | 3         |
-| Enteritis                  | 0.9       |
-| Meningitis                 | 0.2       |
+| Diseases                   | Percent |
+| -------------------------- | ------- |
+| Consumption (Tuberculosis) | 3.7     |
+| Pneumonia                  | 9.8     |
+| Diseases of the heart      | 12.1    |
+| Cancer                     | 5.5     |
+| Typhoid fever              | 0.7     |
+| Old age                    | 15.5    |
+| Bright's disease           | 3.8     |
+| Apoplexy (nervous system)  | 6.5     |
+| Cholera infantum           |         |
+| Paralysis (nervous system) | 6.6     |
+| Bronchitis                 | 3       |
+| Enteritis                  | 0.9     |
+| Meningitis                 | 0.2     |

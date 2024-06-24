@@ -1,9 +1,9 @@
-| Diseases                   | Under 1 |
+| Diseases                   | Percent |
 | -------------------------- | ------- |
 | Pneumonia                  | 10.1    |
 | Consumption (Tuberculosis) | 0.9     |
 | Diseases of the heart      | 1.5     |
-| Bright’s disease           |         |
+| Bright's disease           |         |
 | Typhoid fever              | 0.5     |
 | Apoplexy (nervous system)  | 0.1     |
 | Cholera infantum           | 9       |

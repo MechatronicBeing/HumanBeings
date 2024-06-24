@@ -1,15 +1,15 @@
-| Diseases                   | 55–64 |
-| -------------------------- | ----- |
-| Pneumonia                  | 10.4  |
-| Consumption (Tuberculosis) | 9.3   |
-| Diseases of the heart      | 13.5  |
-| Bright’s disease           | 7.9   |
-| Typhoid fever              | 1.5   |
-| Apoplexy (nervous system)  | 6.1   |
-| Cholera infantum           |       |
-| Old age                    | 0.4   |
-| Paralysis (nervous system) | 3.9   |
-| Cancer                     | 5.8   |
-| Meningitis                 | 0.4   |
-| Enteritis                  | 0.5   |
-| Bronchitis                 | 1.2   |
+| Diseases                   | Percent |
+| -------------------------- | ------- |
+| Pneumonia                  | 10.4    |
+| Consumption (Tuberculosis) | 9.3     |
+| Diseases of the heart      | 13.5    |
+| Bright's disease           | 7.9     |
+| Typhoid fever              | 1.5     |
+| Apoplexy (nervous system)  | 6.1     |
+| Cholera infantum           |         |
+| Old age                    | 0.4     |
+| Paralysis (nervous system) | 3.9     |
+| Cancer                     | 5.8     |
+| Meningitis                 | 0.4     |
+| Enteritis                  | 0.5     |
+| Bronchitis                 | 1.2     |

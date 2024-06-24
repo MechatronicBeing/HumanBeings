@@ -1,10 +1,10 @@
-| Diseases                   | 10-14 |
+| Diseases                   | Rate  |
 | -------------------------- | ----- |
 | Consumption (Tuberculosis) | 127.1 |
 | Pneumonia                  | 112.3 |
 | Diseases of the heart      | 70.3  |
 | Typhoid fever              | 164.2 |
-| Bright’s disease           | 24.8  |
+| Bright's disease           | 24.8  |
 | Cancer                     | 3.6   |
 | Old age                    |       |
 | Apoplexy (nervous system)  | 3.9   |

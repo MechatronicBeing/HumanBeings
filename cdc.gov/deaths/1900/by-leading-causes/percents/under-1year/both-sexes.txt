@@ -1,10 +1,10 @@
-| Diseases                   | Under 1 |
+| Diseases                   | Percent |
 | -------------------------- | ------- |
 | Consumption (Tuberculosis) | 1       |
 | Pneumonia                  | 9.8     |
 | Diseases of the heart      | 1.5     |
 | Typhoid fever              | 0.5     |
-| Bright’s disease           |         |
+| Bright's disease           |         |
 | Cancer                     | 0       |
 | Old age                    |         |
 | Apoplexy (nervous system)  | 0.1     |

@@ -1,4 +1,4 @@
-| Diseases                   | 5-9   |
+| Diseases                   | Rate  |
 | -------------------------- | ----- |
 | Consumption (Tuberculosis) | 77.3  |
 | Pneumonia                  | 167.5 |
@@ -6,7 +6,7 @@
 | Cancer                     | 3.3   |
 | Typhoid fever              | 136.5 |
 | Old age                    |       |
-| Bright’s disease           | 24.8  |
+| Bright's disease           | 24.8  |
 | Apoplexy (nervous system)  | 3.6   |
 | Cholera infantum           |       |
 | Paralysis (nervous system) | 7.8   |

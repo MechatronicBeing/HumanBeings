@@ -1,15 +1,15 @@
-| Diseases                   | 1-4  |
-| -------------------------- | ---- |
-| Pneumonia                  | 9289 |
-| Consumption (Tuberculosis) | 1268 |
-| Diseases of the heart      | 457  |
-| Bright’s disease           |      |
-| Typhoid fever              | 1438 |
-| Apoplexy (nervous system)  | 72   |
-| Cholera infantum           | 3733 |
-| Old age                    |      |
-| Paralysis (nervous system) | 141  |
-| Cancer                     | 48   |
-| Meningitis                 | 3122 |
-| Enteritis                  | 2239 |
-| Bronchitis                 | 1912 |
+| Diseases                   | Number |
+| -------------------------- | ------ |
+| Pneumonia                  | 9289   |
+| Consumption (Tuberculosis) | 1268   |
+| Diseases of the heart      | 457    |
+| Bright's disease           |        |
+| Typhoid fever              | 1438   |
+| Apoplexy (nervous system)  | 72     |
+| Cholera infantum           | 3733   |
+| Old age                    |        |
+| Paralysis (nervous system) | 141    |
+| Cancer                     | 48     |
+| Meningitis                 | 3122   |
+| Enteritis                  | 2239   |
+| Bronchitis                 | 1912   |

@@ -1,9 +1,9 @@
-| Diseases                   | 35–44 |
+| Diseases                   | Rate  |
 | -------------------------- | ----- |
 | Pneumonia                  | 383.9 |
 | Consumption (Tuberculosis) | 721.1 |
 | Diseases of the heart      | 207.5 |
-| Bright’s disease           | 150.1 |
+| Bright's disease           | 150.1 |
 | Typhoid fever              | 157.3 |
 | Apoplexy (nervous system)  | 70.5  |
 | Cholera infantum           |       |
