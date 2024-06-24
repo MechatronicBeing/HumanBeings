@@ -1,0 +1,18 @@
+| Age                                                             | Rate   |
+| --------------------------------------------------------------- | ------ |
+| All causes                                                      | 1004.6 |
+| Diseases of heart                                               | 264.5  |
+| Malignant neoplasms                                             | 371.3  |
+| Cerebrovascular diseases                                        | 41.5   |
+| Chronic lower respiratory diseases                              | 44.8   |
+| Accidents (unintentional injuries)                              | 31.3   |
+| Diabetes mellitus                                               | 38.3   |
+| Influenza and pneumonia                                         | 12     |
+| Alzheimer's disease                                             | 2      |
+| Nephritis, nephrotic syndrome and nephrosis                     | 12.9   |
+| Septicemia                                                      | 12.1   |
+| Intentional self-harm (suicide)                                 | 12.3   |
+| Chronic liver disease and cirrhosis                             | 24.1   |
+| Essential (primary) hypertension and hypertensive renal disease | 6      |
+| Assault (homicide)                                              | 3.1    |
+| Pneumonitis due to solids and liquids                           | 2.5    |

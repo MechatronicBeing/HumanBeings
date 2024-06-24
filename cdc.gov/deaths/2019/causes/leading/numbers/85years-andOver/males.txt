@@ -1,0 +1,14 @@
+| Cause of death                              | Number |
+| ------------------------------------------- | ------ |
+| All causes                                  | 338165 |
+| Diseases of heart                           | 102245 |
+| Malignant neoplasms                         | 49866  |
+| Alzheimer disease                           | 21510  |
+| Cerebrovascular diseases                    | 20710  |
+| Chronic lower respiratory diseases          | 17543  |
+| Accidents (unintentional injuries)          | 10512  |
+| Influenza and pneumonia                     | 8010   |
+| Parkinson disease                           | 7846   |
+| Diabetes mellitus                           | 7584   |
+| Nephritis, nephrotic syndrome and nephrosis | 7514   |
+| All other causes                            | 84825  |

@@ -1,0 +1,14 @@
+| Cause of death                                                    | Rate (per 100000) |
+| ----------------------------------------------------------------- | ----------------- |
+| All causes                                                        | 29.1              |
+| Accidents (unintentional injuries)                                | 9.8               |
+| Congenital malformations, deformations, chromosomal abnormalities | 3.2               |
+| Malignant neoplasms                                               | 2.5               |
+| Assault (homicide)                                                | 2.1               |
+| Diseases of heart                                                 | 1                 |
+| Influenza and pneumonia                                           | 0.7               |
+| Septicemia                                                        | 0.6               |
+| Cerebrovascular diseases                                          | 0.4               |
+| Certain conditions originating in the perinatal period            | 0.4               |
+| Chronic lower respiratory diseases                                | 0.3               |
+| All other causes                                                  | 8.1               |

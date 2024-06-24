@@ -1,0 +1,14 @@
+| Cause of death                      | Percent |
+| ----------------------------------- | ------- |
+| All causes                          | 100     |
+| Accidents (unintentional injuries)  | 29      |
+| Malignant neoplasms                 | 12.9    |
+| Diseases of heart                   | 12.7    |
+| Intentional self-harm (suicide)     | 9.1     |
+| Assault (homicide)                  | 4.2     |
+| Chronic liver disease and cirrhosis | 4.1     |
+| Diabetes mellitus                   | 2.7     |
+| Cerebrovascular diseases            | 2.1     |
+| Influenza and pneumonia             | 1.1     |
+| Septicemia                          | 1       |
+| All other causes                    | 21.2    |

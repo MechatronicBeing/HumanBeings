@@ -1,0 +1,4 @@
+| Causes          | Age-adjusted |
+| --------------- | ------------ |
+| drug-induced    | 7.1          |
+| alcohol-induced | 7            |

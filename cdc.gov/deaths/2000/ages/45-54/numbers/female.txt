@@ -1,0 +1,14 @@
+| Cause of death                             | Number |
+| ------------------------------------------ | ------ |
+| All causes                                 | 59943  |
+| Malignant neoplasms                        | 23819  |
+| Diseases of heart                          | 9553   |
+| Accidents (unintentional injuries)         | 3215   |
+| Cerebrovascular diseases                   | 2776   |
+| Diabetes mellitus                          | 2133   |
+| Chronic liver disease and cirrhosis        | 1679   |
+| Chronic lower respiratory diseases         | 1590   |
+| Intentional self-harm (suicide)            | 1288   |
+| Human immunodeficiency virus (HIV) disease | 846    |
+| Septicemia                                 | 806    |
+| All other causes                           | 12238  |

@@ -1,0 +1,14 @@
+| Cause of death                                                    |
+| ----------------------------------------------------------------- |
+| All causes                                                        |
+| Congenital malformations, deformations, chromosomal abnormalities |
+| Disorders related to short gestation and low birth weight, N.E.C. |
+| Accidents (unintentional injuries)                                |
+| Sudden infant death syndrome                                      |
+| Newborn affected by maternal complications of pregnancy           |
+| Newborn affected by complications of placenta, cord and membranes |
+| Bacterial sepsis of newborn                                       |
+| Respiratory distress of newborn                                   |
+| Diseases of the circulatory system.                               |
+| Necrotizing enterocolitis of newborn                              |
+| All other causes                                                  |

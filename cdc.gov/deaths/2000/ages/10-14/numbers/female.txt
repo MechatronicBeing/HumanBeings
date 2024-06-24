@@ -1,0 +1,14 @@
+| Cause of death                                                        | Number |
+| --------------------------------------------------------------------- | ------ |
+| All causes                                                            | 1609   |
+| Accidents (unintentional injuries)                                    | 551    |
+| Malignant neoplasms                                                   | 225    |
+| Congenital malformations, deformations, chromosomal abnormalities     | 99     |
+| Assault (homicide)                                                    | 81     |
+| Diseases of heart                                                     | 66     |
+| Intentional self-harm (suicide)                                       | 62     |
+| Chronic lower respiratory diseases                                    | 37     |
+| Cerebrovascular diseases                                              | 30     |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior | 20     |
+| Influenza and pneumonia                                               | 19     |
+| All other causes                                                      | 419    |

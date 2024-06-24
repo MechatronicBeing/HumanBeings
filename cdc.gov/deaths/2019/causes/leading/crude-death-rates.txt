@@ -1,0 +1,19 @@
+| Cause of death                                        | Crude rate |
+| ----------------------------------------------------- | ---------- |
+| All causes                                            | 869.7      |
+| Diseases of heart                                     | 200.8      |
+| Malignant neoplasms                                   | 182.7      |
+| Accidents (unintentional injuries)                    | 52.7       |
+| Chronic lower respiratory diseases                    | 47.8       |
+| Cerebrovascular diseases                              | 45.7       |
+| Alzheimer disease                                     | 37         |
+| Diabetes mellitus                                     | 26.7       |
+| Nephritis, nephrotic syndrome and nephrosis           | 15.7       |
+| Influenza and pneumonia                               | 15.2       |
+| Intentional self–harm (suicide)                       | 14.5       |
+| Chronic liver disease and cirrhosis                   | 13.5       |
+| Septicemia                                            | 11.7       |
+| Essential hypertension and hypertensive renal disease | 11.1       |
+| Parkinson disease                                     | 10.8       |
+| Pneumonitis due to solids and liquids                 | 5.8        |
+| All other causes                                      | 178        |

@@ -1,0 +1,19 @@
+| Cause of death                                        | Number  |
+| ----------------------------------------------------- | ------- |
+| All causes                                            | 2854838 |
+| Diseases of heart                                     | 659041  |
+| Malignant neoplasms                                   | 599601  |
+| Accidents (unintentional injuries)                    | 173040  |
+| Chronic lower respiratory diseases                    | 156979  |
+| Cerebrovascular diseases                              | 150005  |
+| Alzheimer disease                                     | 121499  |
+| Diabetes mellitus                                     | 87647   |
+| Nephritis, nephrotic syndrome and nephrosis           | 51565   |
+| Influenza and pneumonia                               | 49783   |
+| Intentional self–harm (suicide)                       | 47511   |
+| Chronic liver disease and cirrhosis                   | 44358   |
+| Septicemia                                            | 38431   |
+| Essential hypertension and hypertensive renal disease | 36524   |
+| Parkinson disease                                     | 35311   |
+| Pneumonitis due to solids and liquids                 | 19184   |
+| All other causes                                      | 584359  |

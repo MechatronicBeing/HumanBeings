@@ -1,0 +1,14 @@
+| Cause of death                                        |
+| ----------------------------------------------------- |
+| All causes                                            |
+| Diseases of heart                                     |
+| Malignant neoplasms                                   |
+| Alzheimer disease                                     |
+| Cerebrovascular diseases                              |
+| Chronic lower respiratory diseases                    |
+| Diabetes mellitus                                     |
+| Accidents (unintentional injuries)                    |
+| Nephritis, nephrotic syndrome and nephrosis           |
+| Influenza and pneumonia                               |
+| Essential hypertension and hypertensive renal disease |
+| All other causes                                      |

@@ -1,0 +1,14 @@
+| Cause of death                              | Rate (per 100000) |
+| ------------------------------------------- | ----------------- |
+| All causes                                  | 873.1             |
+| Diseases of heart                           | 258.2             |
+| Malignant neoplasms                         | 200.9             |
+| Cerebrovascular diseases                    | 60.9              |
+| Chronic lower respiratory diseases          | 44.3              |
+| Accidents (unintentional injuries)          | 35.6              |
+| Diabetes mellitus                           | 25.2              |
+| Influenza and pneumonia                     | 23.7              |
+| Alzheimer's disease                         | 18                |
+| Nephritis, nephrotic syndrome and nephrosis | 13.5              |
+| Septicemia                                  | 11.3              |
+| All other causes                            | 181.4             |

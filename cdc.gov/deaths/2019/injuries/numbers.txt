@@ -1,0 +1,32 @@
+| Mechanism and intent of death | Number |
+| ----------------------------- | ------ |
+| All injury                    | 246041 |
+| \- Unintentional              | 173040 |
+| \- Suicide                    | 47511  |
+| \- Homicide                   | 19141  |
+| \- Undetermined               | 5683   |
+| \- Legal intervention/war     | 666    |
+| Poisoning                     | 75795  |
+| \- Unintentional              | 65773  |
+| \- Suicide                    | 6125   |
+| \- Homicide                   | 159    |
+| \- Undetermined               | 3736   |
+| \- Legal intervention/war     | 2      |
+| Motor vehicle traffic         | 37595  |
+| \- Occupant                   | 8760   |
+| \- Motorcyclist               | 4576   |
+| \- Pedal cyclist              | 712    |
+| \- Pedestrian                 | 6681   |
+| \- Other                      | 10     |
+| \- Unspecified                | 16856  |
+| Firearm                       | 39707  |
+| \- Unintentional              | 486    |
+| \- Suicide                    | 23941  |
+| \- Homicide                   | 14414  |
+| \- Undetermined               | 346    |
+| \- Legal intervention/war     | 520    |
+| Fall                          | 40727  |
+| \- Unintentional              | 39443  |
+| \- Suicide                    | 1183   |
+| \- Homicide                   | 12     |
+| \- Undetermined               | 89     |

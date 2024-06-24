@@ -1,0 +1,14 @@
+| Cause of death                                                    | Rate (per 100000) |
+| ----------------------------------------------------------------- | ----------------- |
+| All causes                                                        | 506.1             |
+| Disorders related to short gestation and low birth weight, N.E.C. | 113.4             |
+| Congenital malformations, deformations, chromosomal abnormalities | 107.2             |
+| Newborn affected by maternal complications of pregnancy           | 37.8              |
+| Respiratory distress of newborn                                   | 28.6              |
+| Newborn affected by complications of placenta, cord and membranes | 27.2              |
+| Bacterial sepsis of newborn                                       | 20.8              |
+| Neonatal hemorrhage                                               | 16.5              |
+| Intrauterine hypoxia and birth asphyxia                           | 15.9              |
+| Atelectasis                                                       | 14.1              |
+| Necrotizing enterocolitis of newborn                              | 9                 |
+| All other causes                                                  | 115.6             |

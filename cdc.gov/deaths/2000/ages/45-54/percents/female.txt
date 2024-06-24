@@ -1,0 +1,14 @@
+| Cause of death                             | Percent of total deaths |
+| ------------------------------------------ | ----------------------- |
+| All causes                                 | 100                     |
+| Malignant neoplasms                        | 39.7                    |
+| Diseases of heart                          | 15.9                    |
+| Accidents (unintentional injuries)         | 5.4                     |
+| Cerebrovascular diseases                   | 4.6                     |
+| Diabetes mellitus                          | 3.6                     |
+| Chronic liver disease and cirrhosis        | 2.8                     |
+| Chronic lower respiratory diseases         | 2.7                     |
+| Intentional self-harm (suicide)            | 2.1                     |
+| Human immunodeficiency virus (HIV) disease | 1.4                     |
+| Septicemia                                 | 1.3                     |
+| All other causes                           | 20.4                    |

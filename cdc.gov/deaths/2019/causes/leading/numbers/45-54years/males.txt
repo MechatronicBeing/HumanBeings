@@ -1,0 +1,14 @@
+| Cause of death                              | Number |
+| ------------------------------------------- | ------ |
+| All causes                                  | 98847  |
+| Diseases of heart                           | 21997  |
+| Malignant neoplasms                         | 17058  |
+| Accidents (unintentional injuries)          | 16547  |
+| Intentional self-harm (suicide)             | 5856   |
+| Chronic liver disease and cirrhosis         | 5220   |
+| Diabetes mellitus                           | 4091   |
+| Cerebrovascular diseases                    | 2955   |
+| Chronic lower respiratory diseases          | 1615   |
+| Assault (homicide)                          | 1553   |
+| Nephritis, nephrotic syndrome and nephrosis | 1349   |
+| All other causes                            | 20606  |

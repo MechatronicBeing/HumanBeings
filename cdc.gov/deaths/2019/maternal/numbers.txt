@@ -1,0 +1,21 @@
+| Cause of death                                                     | Number |
+| ------------------------------------------------------------------ | ------ |
+| Maternal causes                                                    | 754    |
+| \- Direct obstetric causes                                         | 530    |
+| \- Pregnancy with abortive outcome                                 | 26     |
+| \- Ectopic pregnancy                                               | 13     |
+| \- Spontaneous abortion                                            | 6      |
+| \- Medical abortion                                                | –      |
+| \- Other abortion                                                  | 3      |
+| \- Other and unspecified pregnancy with abortive outcome           | 4      |
+| \- Other direct obstetric causes                                   | 474    |
+| \- Eclampsia and pre-eclampsia                                     | 46     |
+| \- Hemorrhage of pregnancy and childbirth and placenta previa      | 32     |
+| \- Complications predominantly related to the puerperium           | 76     |
+| \- Obstetrical tetanus                                             | –      |
+| \- Obstetric embolism                                              | 37     |
+| \- Other complications predominantly related to the puerperium     | 39     |
+| \- All other direct obstetric causes                               | 320    |
+| \- Obstetric death of unspecified cause                            | 30     |
+| \- Indirect obstetric causes                                       | 224    |
+| Any Obstetric cause occurring 42+ days after delivery, less 1 year | 322    |

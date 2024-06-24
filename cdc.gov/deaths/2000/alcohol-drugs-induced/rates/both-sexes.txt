@@ -1,0 +1,4 @@
+| Causes          | Rate (per 100000) |
+| --------------- | ----------------- |
+| drug-induced    | 7.2               |
+| alcohol-induced | 7                 |

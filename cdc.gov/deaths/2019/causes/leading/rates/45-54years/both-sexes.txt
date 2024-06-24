@@ -1,0 +1,14 @@
+| Cause of death                              |
+| ------------------------------------------- |
+| All causes                                  |
+| Malignant neoplasms                         |
+| Diseases of heart                           |
+| Accidents (unintentional injuries)          |
+| Chronic liver disease and cirrhosis         |
+| Intentional self-harm (suicide)             |
+| Diabetes mellitus                           |
+| Cerebrovascular diseases                    |
+| Chronic lower respiratory diseases          |
+| Nephritis, nephrotic syndrome and nephrosis |
+| Septicemia                                  |
+| All other causes                            |

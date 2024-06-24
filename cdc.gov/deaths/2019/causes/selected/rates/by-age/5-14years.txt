@@ -1,0 +1,71 @@
+| Cause of death                                                                      | Rate |
+| ----------------------------------------------------------------------------------- | ---- |
+| All causes                                                                          | 13.4 |
+| Enterocolitis due to Clostridium difficile                                          | \*   |
+| Septicemia                                                                          | 0.2  |
+| Viral hepatitis                                                                     | \*   |
+| Human immunodeficiency virus (HIV) disease                                          | \*   |
+| Malignant neoplasms                                                                 | 1.9  |
+| \- Malignant neoplasms of lip, oral cavity and pharynx                              | \*   |
+| \- Malignant neoplasm of esophagus                                                  | \*   |
+| \- Malignant neoplasm of stomach                                                    | \*   |
+| \- Malignant neoplasms of colon, rectum and anus                                    | \*   |
+| \- Malignant neoplasms of liver and intrahepatic bile ducts                         | \*   |
+| \- Malignant neoplasm of pancreas                                                   | \*   |
+| \- Malignant neoplasms of trachea, bronchus and lung                                | \*   |
+| \- Malignant melanoma of skin                                                       | \*   |
+| \- Malignant neoplasm of breast                                                     | \*   |
+| \- Malignant neoplasm of cervix uteri                                               | \*   |
+| \- Malignant neoplasm of ovary                                                      | \*   |
+| \- Malignant neoplasm of prostate                                                   | \*   |
+| \- Malignant neoplasms of kidney and renal pelvis                                   | 0.1  |
+| \- Malignant neoplasm of bladder                                                    | \*   |
+| \- Malignant neoplasms of meninges, brain and other parts of central nervous system | 0.7  |
+| \- Non-Hodgkin lymphoma                                                             | \*   |
+| \- Multiple myeloma and immunoproliferative neoplasms                               | \*   |
+| \- Leukemia                                                                         | 0.5  |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior               | 0.2  |
+| Anemias                                                                             | 0.1  |
+| Diabetes mellitus                                                                   | 0.1  |
+| Nutritional deficiencies                                                            | \*   |
+| Obesity                                                                             | \*   |
+| Parkinson disease                                                                   | \*   |
+| Alzheimer disease                                                                   | \*   |
+| Major cardiovascular diseases                                                       | 0.7  |
+| \- Diseases of heart                                                                | 0.4  |
+| \- Essential hypertension and hypertensive renal disease                            | \*   |
+| \- Cerebrovascular diseases                                                         | 0.2  |
+| \- Atherosclerosis                                                                  | \*   |
+| \- Aortic aneurysm and dissection                                                   | \*   |
+| Influenza and pneumonia                                                             | 0.3  |
+| Chronic lower respiratory diseases                                                  | 0.4  |
+| Pneumonitis due to solids and liquids                                               | \*   |
+| Chronic liver disease and cirrhosis                                                 | \*   |
+| \- Alcoholic liver disease                                                          | \*   |
+| Cholelithiasis and other disorders of gallbladder                                   | \*   |
+| Nephritis, nephrotic syndrome and nephrosis                                         | \*   |
+| Pregnancy, childbirth and the puerperium                                            | \*   |
+| Certain conditions originating in the perinatal period                              | 0.1  |
+| Congenital malformations, deformations, chromosomal abnormalities                   | 0.9  |
+| Symptoms, signs and abnormal clinical and laboratory findings, N.E.C.               | 0.3  |
+| Accidents (unintentional injuries)                                                  | 3.6  |
+| \- Motor vehicle accidents                                                          | 2.1  |
+| \- Falls                                                                            | 0.1  |
+| \- Accidental discharge of firearms                                                 | 0.1  |
+| \- Accidental drowning and submersion                                               | 0.6  |
+| \- Accidental hanging, strangulation, and suffocation                               | 0.1  |
+| \- Accidental exposure to smoke, fire and flames                                    | 0.3  |
+| \- Accidental poisoning and exposure to noxious substances                          | 0.1  |
+| Intentional self–harm (suicide)                                                     | 1.3  |
+| \- Intentional self–harm (suicide) by poisoning                                     | 0.1  |
+| \- Intentional self–harm (suicide) by hanging, strangulation and suffocation        | 0.8  |
+| \- Intentional self–harm (suicide) by discharge of firearms                         | 0.4  |
+| Assault (homicide)                                                                  | 0.8  |
+| \- Assault (homicide) by discharge of firearms                                      | 0.5  |
+| Legal intervention                                                                  | \*   |
+| Complications of medical and surgical care                                          | 0.1  |
+| Dementia-related causes                                                             | 0.1  |
+| Drug-induced deaths                                                                 | 0.2  |
+| \- Drug overdose deaths                                                             | 0.2  |
+| Alcohol-induced deaths                                                              | \*   |
+| Injury by firearms                                                                  | 1    |

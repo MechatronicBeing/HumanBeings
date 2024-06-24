@@ -1,0 +1,22 @@
+| Cause of death                                                          | Rate |
+| ----------------------------------------------------------------------- | ---- |
+| Maternal causes                                                         | 9.8  |
+| Pregnancy with abortive outcome                                         | 0.9  |
+| Ectopic pregnancy                                                       | 0.6  |
+| Spontaneous abortion                                                    | \*   |
+| Medical abortion                                                        | \*   |
+| Other abortion                                                          | \*   |
+| Other and unspecified pregnancy with abortive outcome                   | \*   |
+| Other direct obstetric causes                                           | 7.4  |
+| Eclampsia and pre-eclampsia                                             | 1.8  |
+| Hemorrhage of pregnancy and childbirth and placenta previa              | 0.7  |
+| Complications predominantly related to the puerperium                   | 2.3  |
+| Obstetrical tetanus                                                     | \*   |
+| Obstetric embolism                                                      | 1.4  |
+| Other complications predominantly related to the puerperium             | 0.9  |
+| All other direct obstetric causes                                       | 2.6  |
+| Obstetric death of unspecifed cause                                     | \*   |
+| Indirect obstetric causes                                               | 1.4  |
+| Maternal causes, 42+ days after delivery or termination of pregnancy    | \*   |
+| Any Obstetric cause occurring 42+ days after delivery, less than 1 year | \*   |
+| Death from sequelae of direct obstetric causes                          | \*   |

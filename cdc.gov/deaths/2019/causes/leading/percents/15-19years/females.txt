@@ -1,0 +1,14 @@
+| Cause of death                                                    | Percent |
+| ----------------------------------------------------------------- | ------- |
+| All causes                                                        | 100     |
+| Accidents (unintentional injuries)                                | 37      |
+| Intentional self-harm (suicide)                                   | 17.6    |
+| Assault (homicide)                                                | 9       |
+| Malignant neoplasms                                               | 8.2     |
+| Diseases of heart                                                 | 4.1     |
+| Congenital malformations, deformations, chromosomal abnormalities | 2.6     |
+| Influenza and pneumonia                                           | 1.2     |
+| Diabetes mellitus                                                 | 1.1     |
+| Pregnancy, childbirth and the puerperium                          | 0.8     |
+| Cerebrovascular diseases                                          | 0.8     |
+| All other causes                                                  | 17.5    |

@@ -1,0 +1,14 @@
+| Cause of death                                                    | Number |
+| ----------------------------------------------------------------- | ------ |
+| All causes                                                        | 9247   |
+| Congenital malformations, deformations, chromosomal abnormalities | 2053   |
+| Disorders related to short gestation and low birth weight, N.E.C. | 1481   |
+| Newborn affected by maternal complications of pregnancy.          | 541    |
+| Sudden infant death syndrome                                      | 539    |
+| Accidents (unintentional injuries).                               | 513    |
+| Newborn affected by complications of placenta, cord and membranes | 338    |
+| Bacterial sepsis of newborn                                       | 259    |
+| Diseases of the circulatory system.                               | 179    |
+| Respiratory distress of newborn                                   | 177    |
+| Necrotizing enterocolitis of newborn                              | 163    |
+| All other causes                                                  | 3004   |

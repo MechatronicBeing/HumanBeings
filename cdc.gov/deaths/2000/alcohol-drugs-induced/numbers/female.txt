@@ -1,0 +1,4 @@
+| Causes          | Number |
+| --------------- | ------ |
+| drug-induced    | 6573   |
+| alcohol-induced | 4588   |

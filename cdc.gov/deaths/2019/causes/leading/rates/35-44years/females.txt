@@ -1,0 +1,14 @@
+| Cause of death                           |
+| ---------------------------------------- |
+| All causes                               |
+| Accidents (unintentional injuries)       |
+| Malignant neoplasms                      |
+| Diseases of heart                        |
+| Intentional self-harm (suicide)          |
+| Chronic liver disease and cirrhosis      |
+| Diabetes mellitus                        |
+| Cerebrovascular diseases                 |
+| Assault (homicide)                       |
+| Influenza and pneumonia                  |
+| Pregnancy, childbirth and the puerperium |
+| All other causes                         |

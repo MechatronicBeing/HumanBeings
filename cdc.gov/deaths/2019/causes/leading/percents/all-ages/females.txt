@@ -1,0 +1,14 @@
+| Cause of death                                        | Percent |
+| ----------------------------------------------------- | ------- |
+| All causes                                            | 100     |
+| Diseases of heart                                     | 21.8    |
+| Malignant neoplasms                                   | 20.5    |
+| Cerebrovascular diseases                              | 6.2     |
+| Alzheimer disease                                     | 6       |
+| Chronic lower respiratory diseases                    | 6       |
+| Accidents (unintentional injuries)                    | 4.4     |
+| Diabetes mellitus                                     | 2.8     |
+| Influenza and pneumonia                               | 1.8     |
+| Nephritis, nephrotic syndrome and nephrosis           | 1.8     |
+| Essential hypertension and hypertensive renal disease | 1.4     |
+| All other causes                                      | 27.2    |

@@ -1,0 +1,14 @@
+| Cause of death                                                    | Percent |
+| ----------------------------------------------------------------- | ------- |
+| All causes                                                        | 100     |
+| Congenital malformations, deformations, chromosomal abnormalities | 17.6    |
+| Accidents (unintentional injuries)                                | 15.8    |
+| Sudden infant death syndrome                                      | 15.6    |
+| Diseases of the circulatory system                                | 4.6     |
+| Assault (homicide)                                                | 3.5     |
+| Diarrhea and gastroenteritis of infectious origin                 | 2.5     |
+| Influenza and pneumonia                                           | 2.2     |
+| Chronic respiratory disease originating in the perinatal period   | 2.1     |
+| Septicemia                                                        | 1.8     |
+| Disorders related to short gestation and low birth weight, N.E.C. | 1       |
+| All other causes                                                  | 33.3    |

@@ -1,0 +1,14 @@
+| Cause of death                           | Number |
+| ---------------------------------------- | ------ |
+| All causes                               | 29550  |
+| Accidents (unintentional injuries)       | 6594   |
+| Malignant neoplasms                      | 6174   |
+| Diseases of heart                        | 3309   |
+| Intentional self-harm (suicide)          | 1710   |
+| Chronic liver disease and cirrhosis      | 1257   |
+| Diabetes mellitus                        | 833    |
+| Cerebrovascular diseases                 | 782    |
+| Assault (homicide)                       | 688    |
+| Influenza and pneumonia                  | 427    |
+| Pregnancy, childbirth and the puerperium | 398    |
+| All other causes                         | 7378   |

@@ -1,0 +1,77 @@
+| Cause of death                                                                                      | Rate (per 100000 live births) |
+| --------------------------------------------------------------------------------------------------- | ----------------------------- |
+| All causes                                                                                          | 558.3                         |
+| Certain intestinal infectious diseases                                                              | \*                            |
+| Diarrhea and gastroenteritis of infectious origin                                                   | 4.9                           |
+| Tuberculosis                                                                                        | \*                            |
+| Tetanus                                                                                             | \*                            |
+| Diphtheria                                                                                          | \*                            |
+| Whooping cough                                                                                      | \*                            |
+| Meningococcal infection                                                                             | \*                            |
+| Septicemia                                                                                          | 3.5                           |
+| Congenital syphilis                                                                                 | \*                            |
+| Gonococcal infection                                                                                | \*                            |
+| Acute poliomyelitis                                                                                 | \*                            |
+| Varicella (chickenpox)                                                                              | \*                            |
+| Measles                                                                                             | \*                            |
+| Human immunodeficiency virus (HIV) disease                                                          | \*                            |
+| Mumps                                                                                               | \*                            |
+| Candidiasis                                                                                         | \*                            |
+| Malaria                                                                                             | \*                            |
+| Pneumocystosis                                                                                      | \*                            |
+| Malignant neoplasms                                                                                 | 1.5                           |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior                               | 1.1                           |
+| Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism | 2.3                           |
+| Short stature, N.E.C.                                                                               | \*                            |
+| Nutritional deficiencies                                                                            | \*                            |
+| Cystic fibrosis                                                                                     | \*                            |
+| Volume depletion, disorders of fluid, electrolyte and acid-base balance                             | 1                             |
+| Meningitis                                                                                          | 1.1                           |
+| Infantile spinal muscular atrophy, type I (Werdnig-Hoffman)                                         | \*                            |
+| Infantile cerebral palsy                                                                            | \*                            |
+| Anoxic brain damage, N.E.C.                                                                         | 0.6                           |
+| Diseases of the ear and mastoid process                                                             | \*                            |
+| Diseases of the circulatory system                                                                  | 10.8                          |
+| Acute upper respiratory infections                                                                  | \*                            |
+| Influenza and pneumonia                                                                             | 4.2                           |
+| Acute bronchitis and acute bronchiolitis                                                            | 1.1                           |
+| Bronchitis, chronic and unspecified                                                                 | \*                            |
+| Asthma                                                                                              | \*                            |
+| Pneumonitis due to solids and liquids                                                               | \*                            |
+| Gastritis, duodenitis, and noninfective enteritis and colitis                                       | 1                             |
+| Hernia of abdominal cavity and intestinal obstruction without hernia                                | 1                             |
+| Renal failure and other disorders of kidney                                                         | 1.5                           |
+| Newborn affected by maternal hypertensive disorders                                                 | 1.8                           |
+| Newborn affected by other maternal conditions which may be unrelated to present pregnancy           | 1.9                           |
+| Newborn affected by maternal complications of pregnancy                                             | 33.2                          |
+| Newborn affected by complications of placenta, cord and membranes                                   | 19.8                          |
+| Newborn affected by other complications of labor and delivery                                       | 2.1                           |
+| Newborn affected by noxious influences transmitted via placenta or breast milk                      | 1                             |
+| Slow fetal growth and fetal malnutrition                                                            | 2.9                           |
+| Disorders related to short gestation and low birth weight, N.E.C.                                   | 91.9                          |
+| Disorders related to long gestation and high birth weight                                           | \*                            |
+| Birth trauma                                                                                        | \*                            |
+| Intrauterine hypoxia and birth asphyxia                                                             | 9                             |
+| Respiratory distress of newborn                                                                     | 11.3                          |
+| Other respiratory conditions originating in the perinatal period                                    | 21                            |
+| Congenital pneumonia                                                                                | 1.3                           |
+| Neonatal aspiration syndromes                                                                       | 1                             |
+| Interstitial emphysema and related conditions originating in the perinatal period                   | 2.4                           |
+| Pulmonary hemorrhage originating in the perinatal period                                            | 3.6                           |
+| Chronic respiratory disease originating in the perinatal period                                     | 4.2                           |
+| Atelectasis                                                                                         | 6.6                           |
+| Bacterial sepsis of newborn                                                                         | 16.1                          |
+| Omphalitis of newborn with or without mild hemorrhage                                               | \*                            |
+| Neonatal hemorrhage                                                                                 | 9.3                           |
+| Hemorrhagic disease of newborn                                                                      | \*                            |
+| Hemolytic disease of newborn due to isoimmunization and other perinatal jaundice                    | \*                            |
+| Hematological disorders                                                                             | 2.5                           |
+| Syndrome of infant of a diabetic mother and neonatal diabetes mellitus                              | \*                            |
+| Necrotizing enterocolitis of newborn                                                                | 9.4                           |
+| Hydrops fetalis not due to hemolytic disease                                                        | 4.6                           |
+| Congenital malformations, deformations, chromosomal abnormalities                                   | 114.8                         |
+| Symptoms, signs and abnormal clinical and laboratory findings, N.E.C.                               | 65.5                          |
+| Sudden infant death syndrome                                                                        | 33.3                          |
+| Accidents (unintentional injuries)                                                                  | 33.8                          |
+| Assault (homicide)                                                                                  | 7                             |
+| Complications of medical and surgical care                                                          | 0.8                           |

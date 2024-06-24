@@ -1,0 +1,14 @@
+| Cause of death                                                    |
+| ----------------------------------------------------------------- |
+| All causes                                                        |
+| Disorders related to short gestation and low birth weight, N.E.C. |
+| Congenital malformations, deformations, chromosomal abnormalities |
+| Newborn affected by maternal complications of pregnancy           |
+| Newborn affected by complications of placenta, cord and membranes |
+| Bacterial sepsis of newborn                                       |
+| Respiratory distress of newborn                                   |
+| Neonatal hemorrhage                                               |
+| Intrauterine hypoxia and birth asphyxia                           |
+| Necrotizing enterocolitis of newborn                              |
+| Atelectasis                                                       |
+| All other causes                                                  |

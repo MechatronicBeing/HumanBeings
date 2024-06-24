@@ -1,0 +1,14 @@
+| Cause of death                                                        | Percent |
+| --------------------------------------------------------------------- | ------- |
+| All causes                                                            | 100     |
+| Accidents (unintentional injuries)                                    | 28.5    |
+| Malignant neoplasms                                                   | 17.1    |
+| Congenital malformations, deformations, chromosomal abnormalities     | 8.2     |
+| Assault (homicide)                                                    | 5.6     |
+| Diseases of heart                                                     | 4.6     |
+| Influenza and pneumonia                                               | 2.7     |
+| Chronic lower respiratory diseases                                    | 2.2     |
+| Septicemia                                                            | 2.1     |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior | 1.8     |
+| Cerebrovascular diseases                                              | 1.6     |
+| All other causes                                                      | 25.6    |

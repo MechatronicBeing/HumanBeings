@@ -1,0 +1,14 @@
+| Cause of death                                                        |
+| --------------------------------------------------------------------- |
+| All causes                                                            |
+| Accidents (unintentional injuries)                                    |
+| Congenital malformations, deformations, chromosomal abnormalities     |
+| Assault (homicide)                                                    |
+| Malignant neoplasms                                                   |
+| Diseases of heart                                                     |
+| Influenza and pneumonia                                               |
+| Cerebrovascular diseases                                              |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior |
+| Certain conditions originating in the perinatal period                |
+| Septicemia                                                            |
+| All other causes                                                      |

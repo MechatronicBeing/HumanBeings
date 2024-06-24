@@ -1,0 +1,14 @@
+| Cause of death                                                    | Percent of total deaths |
+| ----------------------------------------------------------------- | ----------------------- |
+| All causes                                                        | 100                     |
+| Congenital malformations, deformations, chromosomal abnormalities | 22                      |
+| Disorders related to short gestation and low birth weight, N.E.C. | 16.3                    |
+| Sudden infant death syndrome                                      | 8.2                     |
+| Newborn affected by maternal complications of pregnancy           | 5                       |
+| Newborn affected by complications of placenta, cord and membranes | 4                       |
+| Accidents (unintentional injuries)                                | 3.1                     |
+| Respiratory distress of newborn                                   | 2.9                     |
+| Bacterial sepsis of newborn                                       | 2.6                     |
+| Diseases of the circulatory system                                | 2.5                     |
+| Intrauterine hypoxia and birth asphyxia                           | 2.3                     |
+| All other causes                                                  | 31.1                    |

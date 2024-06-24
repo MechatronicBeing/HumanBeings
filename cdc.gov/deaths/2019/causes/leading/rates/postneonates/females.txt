@@ -1,0 +1,14 @@
+| Cause of death                                                    |
+| ----------------------------------------------------------------- |
+| All causes                                                        |
+| Congenital malformations, deformations, chromosomal abnormalities |
+| Sudden infant death syndrome                                      |
+| Accidents (unintentional injuries)                                |
+| Diseases of the circulatory system                                |
+| Assault (homicide)                                                |
+| Diarrhea and gastroenteritis of infectious origin                 |
+| Influenza and pneumonia                                           |
+| Septicemia                                                        |
+| Chronic respiratory disease originating in the perinatal period   |
+| Disorders related to short gestation and low birth weight, N.E.C. |
+| All other causes                                                  |

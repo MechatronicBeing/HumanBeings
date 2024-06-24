@@ -1,0 +1,14 @@
+| Cause of death                                                        |
+| --------------------------------------------------------------------- |
+| All causes                                                            |
+| Accidents (unintentional injuries)                                    |
+| Intentional self-harm (suicide)                                       |
+| Malignant neoplasms                                                   |
+| Congenital malformations, deformations, chromosomal abnormalities     |
+| Assault (homicide)                                                    |
+| Diseases of heart                                                     |
+| Influenza and pneumonia                                               |
+| Chronic lower respiratory diseases                                    |
+| Cerebrovascular diseases                                              |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior |
+| All other causes                                                      |

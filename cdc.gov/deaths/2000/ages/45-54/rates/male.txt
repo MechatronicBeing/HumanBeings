@@ -1,0 +1,14 @@
+| Cause of death                             | Rate (per 100000) |
+| ------------------------------------------ | ----------------- |
+| All causes                                 | 552.5             |
+| Diseases of heart                          | 142.7             |
+| Malignant neoplasms                        | 133.3             |
+| Accidents (unintentional injuries)         | 49.9              |
+| Chronic liver disease and cirrhosis        | 27.4              |
+| Intentional self-harm (suicide)            | 22.8              |
+| Human immunodeficiency virus (HIV) disease | 18.1              |
+| Cerebrovascular diseases                   | 17.8              |
+| Diabetes mellitus                          | 15.5              |
+| Chronic lower respiratory diseases         | 9.1               |
+| Viral hepatitis                            | 7.8               |
+| All other causes                           | 108               |

@@ -1,0 +1,71 @@
+| Cause of death                                                                      | Number |
+| ----------------------------------------------------------------------------------- | ------ |
+| All causes                                                                          | 20921  |
+| Enterocolitis due to Clostridium difficile                                          | 3      |
+| Septicemia                                                                          | 133    |
+| Viral hepatitis                                                                     | –      |
+| Human immunodeficiency virus (HIV) disease                                          | 1      |
+| Malignant neoplasms                                                                 | 55     |
+| \- Malignant neoplasms of lip, oral cavity and pharynx                              | –      |
+| \- Malignant neoplasm of esophagus                                                  | –      |
+| \- Malignant neoplasm of stomach                                                    | –      |
+| \- Malignant neoplasms of colon, rectum and anus                                    | –      |
+| \- Malignant neoplasms of liver and intrahepatic bile ducts                         | 4      |
+| \- Malignant neoplasm of pancreas                                                   | –      |
+| \- Malignant neoplasms of trachea, bronchus and lung                                | 2      |
+| \- Malignant melanoma of skin                                                       | –      |
+| \- Malignant neoplasm of breast                                                     | –      |
+| \- Malignant neoplasm of cervix uteri                                               | –      |
+| \- Malignant neoplasm of ovary                                                      | –      |
+| \- Malignant neoplasm of prostate                                                   | –      |
+| \- Malignant neoplasms of kidney and renal pelvis                                   | –      |
+| \- Malignant neoplasm of bladder                                                    | –      |
+| \- Malignant neoplasms of meninges, brain and other parts of central nervous system | 17     |
+| \- Non-Hodgkin lymphoma                                                             | –      |
+| \- Multiple myeloma and immunoproliferative neoplasms                               | –      |
+| \- Leukemia                                                                         | 13     |
+| In situ and benign neoplasms, neoplasms of uncertain/unknown behavior               | 42     |
+| Anemias                                                                             | 11     |
+| Diabetes mellitus                                                                   | –      |
+| Nutritional deficiencies                                                            | 13     |
+| Obesity                                                                             | –      |
+| Parkinson disease                                                                   | –      |
+| Alzheimer disease                                                                   | –      |
+| Major cardiovascular diseases                                                       | 387    |
+| \- Diseases of heart                                                                | 268    |
+| \- Essential hypertension and hypertensive renal disease                            | 1      |
+| \- Cerebrovascular diseases                                                         | 102    |
+| \- Atherosclerosis                                                                  | 2      |
+| \- Aortic aneurysm and dissection                                                   | 1      |
+| Influenza and pneumonia                                                             | 156    |
+| Chronic lower respiratory diseases                                                  | 12     |
+| Pneumonitis due to solids and liquids                                               | 8      |
+| Chronic liver disease and cirrhosis                                                 | –      |
+| \- Alcoholic liver disease                                                          | –      |
+| Cholelithiasis and other disorders of gallbladder                                   | –      |
+| Nephritis, nephrotic syndrome and nephrosis                                         | 61     |
+| Pregnancy, childbirth and the puerperium                                            | …      |
+| Certain conditions originating in the perinatal period                              | 10294  |
+| Congenital malformations, deformations, chromosomal abnormalities                   | 4301   |
+| Symptoms, signs and abnormal clinical and laboratory findings, N.E.C.               | 2453   |
+| Accidents (unintentional injuries)                                                  | 1266   |
+| \- Motor vehicle accidents                                                          | 74     |
+| \- Falls                                                                            | 7      |
+| \- Accidental discharge of firearms                                                 | 2      |
+| \- Accidental drowning and submersion                                               | 34     |
+| \- Accidental hanging, strangulation, and suffocation                               | 1095   |
+| \- Accidental exposure to smoke, fire and flames                                    | 8      |
+| \- Accidental poisoning and exposure to noxious substances                          | 14     |
+| Intentional self–harm (suicide)                                                     | …      |
+| \- Intentional self–harm (suicide) by poisoning                                     | …      |
+| \- Intentional self–harm (suicide) by hanging, strangulation and suffocation        | …      |
+| \- Intentional self–harm (suicide) by discharge of firearms                         | …      |
+| Assault (homicide)                                                                  | 263    |
+| \- Assault (homicide) by discharge of firearms                                      | 10     |
+| Legal intervention                                                                  | –      |
+| Complications of medical and surgical care                                          | 29     |
+| Dementia-related causes                                                             | 10     |
+| Drug-induced deaths                                                                 | 50     |
+| \- Drug overdose deaths                                                             | 50     |
+| Alcohol-induced deaths                                                              | –      |
+| Injury by firearms                                                                  | 12     |

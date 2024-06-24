@@ -1,0 +1,17 @@
+| Cause of death                              | Death rates |
+| ------------------------------------------- | ----------- |
+| All causes                                  | 13228.6     |
+| Diseases of heart                           | 3798.3      |
+| Malignant neoplasms                         | 1571        |
+| Accidents (unintentional injuries)          | 377.4       |
+| Chronic lower respiratory diseases          | 654.3       |
+| Cerebrovascular diseases                    | 977.3       |
+| Alzheimer disease                           | 1191.3      |
+| Diabetes mellitus                           | 259.5       |
+| Nephritis, nephrotic syndrome and nephrosis | 250.9       |
+| Influenza and pneumonia                     | 294.7       |
+| Intentional self–harm (suicide)             | 20.1        |
+| Dementia-related causes                     | 2688.9      |
+| Drug-induced causes                         | 4.6         |
+| Alcohol-induced causes                      | 6.4         |
+| Injury by firearms                          | 16.1        |
