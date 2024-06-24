@@ -1,0 +1,17 @@
+| Diseases                            | Rate (per 100000) |
+| ----------------------------------- | ----------------- |
+| All diseases                        | 3127.7            |
+| Consumption (Tuberculosis)          | 700.2             |
+| Respiratory system                  | 387.8             |
+| Infectious                          | 365.8             |
+| Accidents and injuries              | 285.3             |
+| Nervous system                      | 250.6             |
+| Circulatory system                  | 248.4             |
+| Genitourinary system                | 211.6             |
+| Digestive system                    | 206.4             |
+| Cancer                              | 130.9             |
+| Affections connected with pregnancy | 84.1              |
+| Bones and joints                    | 8.2               |
+| Skin                                | 6.7               |
+| Absorbent system                    | 3.7               |
+| Other causes                        | 238.1             |

@@ -1,0 +1,17 @@
+| Diseases                            | Percent |
+| ----------------------------------- | ------- |
+| All diseases                        | 100     |
+| Infectious                          | 32.4    |
+| Accidents and injuries              | 11.1    |
+| Respiratory system                  | 10.4    |
+| Nervous system                      | 9.7     |
+| Consumption (Tuberculosis)          | 9.4     |
+| Digestive system                    | 8       |
+| Circulatory system                  | 5.6     |
+| Genitourinary system                | 2.5     |
+| Bones and joints                    | 0.8     |
+| Cancer                              | 0.3     |
+| Skin                                | 0.2     |
+| Affections connected with pregnancy | 0.1     |
+| Absorbent system                    | 0.1     |
+| Other causes                        | 9.3     |

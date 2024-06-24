@@ -1,0 +1,15 @@
+| Diseases                   | Percent |
+| -------------------------- | ------- |
+| All diseases               | 100     |
+| Nervous system             | 11.4    |
+| Respiratory system         | 11.1    |
+| Infectious                 | 10.4    |
+| Circulatory system         | 7.9     |
+| Accidents and injuries     | 2.8     |
+| Digestive system           | 2.6     |
+| Genitourinary system       | 2.3     |
+| Cancer                     | 2.2     |
+| Consumption (Tuberculosis) | 1.1     |
+| Skin                       | 0.1     |
+| Bones and joints           | 0.1     |
+| Other causes               | 48      |

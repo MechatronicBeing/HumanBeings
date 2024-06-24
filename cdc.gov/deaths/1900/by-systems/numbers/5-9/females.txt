@@ -1,0 +1,16 @@
+| Diseases                   | Number |
+| -------------------------- | ------ |
+| All diseases               | 18088  |
+| Infectious                 | 7880   |
+| Respiratory system         | 2737   |
+| Nervous system             | 1746   |
+| Accidents and injuries     | 1232   |
+| Digestive system           | 1046   |
+| Consumption (Tuberculosis) | 762    |
+| Circulatory system         | 619    |
+| Genitourinary system       | 311    |
+| Bones and joints           | 106    |
+| Cancer                     | 33     |
+| Skin                       | 22     |
+| Absorbent system           | 9      |
+| Other causes               | 1585   |

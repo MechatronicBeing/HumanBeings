@@ -1,0 +1,15 @@
+| Diseases                   | all ages |
+| -------------------------- | -------- |
+| Pneumonia                  | 10.6     |
+| Consumption (Tuberculosis) | 9.7      |
+| Diseases of the heart      | 6.6      |
+| Bright’s disease           | 3.4      |
+| Typhoid fever              | 3.4      |
+| Apoplexy (nervous system)  | 2.6      |
+| Cholera infantum           | 2.5      |
+| Old age                    | 2.4      |
+| Paralysis (nervous system) | 2.1      |
+| Cancer                     | 2.1      |
+| Meningitis                 | 2        |
+| Enteritis                  | 1.9      |
+| Bronchitis                 | 1.8      |

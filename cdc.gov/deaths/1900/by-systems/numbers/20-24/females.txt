@@ -1,0 +1,17 @@
+| Diseases                            | Number |
+| ----------------------------------- | ------ |
+| All diseases                        | 25752  |
+| Consumption (Tuberculosis)          | 9192   |
+| Infectious                          | 4522   |
+| Affections connected with pregnancy | 2185   |
+| Respiratory system                  | 2135   |
+| Digestive system                    | 1486   |
+| Circulatory system                  | 1179   |
+| Genitourinary system                | 1122   |
+| Nervous system                      | 1119   |
+| Accidents and injuries              | 901    |
+| Cancer                              | 120    |
+| Bones and joints                    | 62     |
+| Skin                                | 32     |
+| Absorbent system                    | 22     |
+| Other causes                        | 1675   |

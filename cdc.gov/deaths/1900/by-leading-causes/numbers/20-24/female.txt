@@ -1,0 +1,15 @@
+| Diseases                   | 20-24 |
+| -------------------------- | ----- |
+| Consumption (Tuberculosis) | 9192  |
+| Pneumonia                  | 1701  |
+| Diseases of the heart      | 1064  |
+| Cancer                     | 120   |
+| Typhoid fever              | 2165  |
+| Old age                    |       |
+| Bright’s disease           | 602   |
+| Apoplexy (nervous system)  | 102   |
+| Cholera infantum           |       |
+| Paralysis (nervous system) | 112   |
+| Bronchitis                 | 140   |
+| Enteritis                  | 118   |
+| Meningitis                 | 260   |
