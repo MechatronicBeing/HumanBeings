@@ -1,0 +1,6 @@
+| Hand preference | Percent |
+| --------------- | ------- |
+| Right           | 82.4    |
+| Left            | 9.4     |
+| Both            | 3.3     |
+| Not sure        | 4.9     |
