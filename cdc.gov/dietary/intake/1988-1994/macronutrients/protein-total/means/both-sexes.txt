@@ -1,0 +1,16 @@
+| Age               | Mean |
+| ----------------- | ---- |
+| All ages          | 79   |
+| 2–11 months       | 25   |
+| 1–2 years         | 49   |
+| 3–5 years         | 57   |
+| 6–11 years        | 70   |
+| 12–15 years       | 79   |
+| 16–19 years       | 89   |
+| 20–29 years       | 91   |
+| 30–39 years       | 89   |
+| 40–49 years       | 83   |
+| 50–59 years       | 81   |
+| 60–69 years       | 72   |
+| 70–79 years       | 65   |
+| 80 years and over | 60   |

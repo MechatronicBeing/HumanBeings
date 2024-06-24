@@ -1,0 +1,8 @@
+| Age               | Median |
+| ----------------- | ------ |
+| All ages          | 708    |
+| Under 6 years     | 751    |
+| 6–11 years        | 932    |
+| 12–19 years       | 784    |
+| 20–59 years       | 647    |
+| 60 years and over | 534    |

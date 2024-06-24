@@ -1,0 +1,8 @@
+| Age               | Sample size |
+| ----------------- | ----------- |
+| All ages          | 4929        |
+| Under 6 years     | 1564        |
+| 6–11 years        | 713         |
+| 12–19 years       | 634         |
+| 20–59 years       | 1390        |
+| 60 years and over | 628         |

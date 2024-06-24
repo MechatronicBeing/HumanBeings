@@ -1,0 +1,13 @@
+| Age                                             | Mean  |
+| ----------------------------------------------- | ----- |
+| 7-17 years (education : head of the household)  | 109.5 |
+| 7-11 years (education : head of the household)  | 103.9 |
+| 12-17 years (education : head of the household) | 113   |
+| 18-74 years                                     | 139.1 |
+| 18-24 years                                     | 118   |
+| 25-34 years                                     | 121.6 |
+| 35-44 years                                     | 129.7 |
+| 45-54 years                                     | 137.2 |
+| 55-64 years                                     | 145.6 |
+| 65-74 years                                     | 150.1 |
+| Age-adjusted value (18-74 years)                | 131.6 |

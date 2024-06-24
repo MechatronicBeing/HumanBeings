@@ -1,0 +1,10 @@
+| live-birth order   | birth rate |
+| ------------------ | ---------- |
+| All                | 12         |
+| 1st child          | 2.5        |
+| 2nd child          | 3.4        |
+| 3rd child          | 2.5        |
+| 4th child          | 1.6        |
+| 5th child          | 0.9        |
+| 6th and 7th child  | 0.7        |
+| 8th child and over | 0.5        |

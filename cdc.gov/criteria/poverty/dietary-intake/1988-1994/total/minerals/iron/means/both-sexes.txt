@@ -1,0 +1,8 @@
+| Age               | Mean |
+| ----------------- | ---- |
+| All ages          | 15.2 |
+| Under 6 years     | 11.9 |
+| 6–11 years        | 14.1 |
+| 12–19 years       | 16.2 |
+| 20–59 years       | 15.8 |
+| 60 years and over | 14.8 |

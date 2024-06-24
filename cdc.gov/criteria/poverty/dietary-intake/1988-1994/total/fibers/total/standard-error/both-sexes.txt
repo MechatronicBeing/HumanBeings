@@ -1,0 +1,8 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All ages          | 0.1            |
+| Under 6 years     | 0.2            |
+| 6–11 years        | 0.3            |
+| 12–19 years       | 0.3            |
+| 20–59 years       | 0.1            |
+| 60 years and over | 0.2            |

@@ -1,0 +1,12 @@
+| Age                                             | Standard error |
+| ----------------------------------------------- | -------------- |
+| 7-17 years (education : head of the household)  | 0.83           |
+| 7-11 years (education : head of the household)  | 1.26           |
+| 12-17 years (education : head of the household) | 0.82           |
+| 18-74 years                                     | 0.39           |
+| 18-24 years                                     | 0.66           |
+| 25-34 years                                     | 0.52           |
+| 35-44 years                                     | 0.93           |
+| 45-54 years                                     | 1.27           |
+| 55-64 years                                     | 1.45           |
+| 65-74 years                                     | 0.97           |

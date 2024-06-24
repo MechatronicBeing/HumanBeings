@@ -1,0 +1,9 @@
+| Age         | Percent of definite hypertension |
+| ----------- | -------------------------------- |
+| 18-74 years | 37.1                             |
+| 18-24 years | 34.6                             |
+| 25-34 years | 38.6                             |
+| 35-44 years | 40.8                             |
+| 45-54 years | 44.5                             |
+| 55-64 years | 34.5                             |
+| 65-74 years | 25                               |

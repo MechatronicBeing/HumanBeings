@@ -1,0 +1,16 @@
+| Age               | Median |
+| ----------------- | ------ |
+| All ages          | 60     |
+| 2–11 months       | 34     |
+| 1–2 years         | 44     |
+| 3–5 years         | 52     |
+| 6–11 years        | 64     |
+| 12–15 years       | 69     |
+| 16–19 years       | 65     |
+| 20–29 years       | 69     |
+| 30–39 years       | 67     |
+| 40–49 years       | 66     |
+| 50–59 years       | 56     |
+| 60–69 years       | 51     |
+| 70–79 years       | 47     |
+| 80 years and over | 46     |

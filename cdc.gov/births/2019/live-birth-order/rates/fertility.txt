@@ -1,0 +1,10 @@
+| live-birth order   | fertility rate |
+| ------------------ | -------------- |
+| All                | 58.3           |
+| 1st child          | 22             |
+| 2nd child          | 18.8           |
+| 3rd child          | 10             |
+| 4th child          | 4.4            |
+| 5th child          | 1.7            |
+| 6th and 7th child  | 1.1            |
+| 8th child and over | 0.4            |

@@ -1,0 +1,12 @@
+| live-birth order   | number |
+| ------------------ | ------ |
+| All                | 47473  |
+| 1st child          | 40598  |
+| 2nd child          | 6148   |
+| 3rd child          | 570    |
+| 4th child          | 41     |
+| 5th child          | 7      |
+| 6th child          | 1      |
+| 7th child          | 1      |
+| 8th child and over | 1      |
+| Not stated         | 106    |

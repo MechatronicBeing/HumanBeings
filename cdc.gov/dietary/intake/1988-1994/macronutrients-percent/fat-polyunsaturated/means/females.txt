@@ -1,0 +1,16 @@
+| Age               | Mean |
+| ----------------- | ---- |
+| All ages          | 7    |
+| 2–11 months       | 9.7  |
+| 1–2 years         | 5.3  |
+| 3–5 years         | 5.8  |
+| 6–11 years        | 6.3  |
+| 12–15 years       | 7.1  |
+| 16–19 years       | 7.1  |
+| 20–29 years       | 7.2  |
+| 30–39 years       | 7.3  |
+| 40–49 years       | 7.7  |
+| 50–59 years       | 7.1  |
+| 60–69 years       | 6.9  |
+| 70–79 years       | 6.9  |
+| 80 years and over | 6.7  |

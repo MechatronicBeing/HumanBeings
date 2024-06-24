@@ -1,0 +1,8 @@
+| Age               | Mean |
+| ----------------- | ---- |
+| All ages          | 2221 |
+| Under 6 years     | 1875 |
+| 6–11 years        | 2289 |
+| 12–19 years       | 2253 |
+| 20–59 years       | 2291 |
+| 60 years and over | 2207 |

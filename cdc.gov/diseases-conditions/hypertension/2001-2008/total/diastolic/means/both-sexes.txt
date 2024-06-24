@@ -1,0 +1,6 @@
+| Age                              | Mean |
+| -------------------------------- | ---- |
+| 18 years and over (age-adjusted) | 71   |
+| 18–39 years                      | 69   |
+| 40–59 years                      | 75   |
+| 60 years and over                | 68   |

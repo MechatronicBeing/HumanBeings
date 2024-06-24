@@ -1,0 +1,8 @@
+| Age               | Median |
+| ----------------- | ------ |
+| All ages          | 3.5    |
+| Under 6 years     | 2.3    |
+| 6–11 years        | 2.8    |
+| 12–19 years       | 3      |
+| 20–59 years       | 3.8    |
+| 60 years and over | 4      |

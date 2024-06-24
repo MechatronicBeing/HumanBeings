@@ -1,0 +1,8 @@
+| Plurality                             | Percent |
+| ------------------------------------- | ------- |
+| All births                            | 8.31    |
+| Singleton                             | 6.67    |
+| Twin                                  | 55.48   |
+| Triplet                               | 95.29   |
+| Quadruplet                            | 95.61   |
+| Quintuplet and higher-order multiples | 100     |

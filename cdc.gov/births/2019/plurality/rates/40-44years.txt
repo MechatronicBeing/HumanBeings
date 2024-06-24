@@ -1,0 +1,5 @@
+| plurality                                    | rate  |
+| -------------------------------------------- | ----- |
+| Multiple birth (Per 1,000)                   | 42.1  |
+| Twin birth (Per 1,000)                       | 40.5  |
+| Triplet and higher-order birth (Per 100,000) | 156.5 |

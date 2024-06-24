@@ -1,0 +1,12 @@
+| Age                                             | Standard deviation |
+| ----------------------------------------------- | ------------------ |
+| 7-17 years (education : head of the household)  | 10.4               |
+| 7-11 years (education : head of the household)  | 9.8                |
+| 12-17 years (education : head of the household) | 10.4               |
+| 18-74 years                                     | 13.5               |
+| 18-24 years                                     | 10.5               |
+| 25-34 years                                     | 9.6                |
+| 35-44 years                                     | 12.2               |
+| 45-54 years                                     | 14                 |
+| 55-64 years                                     | 13.2               |
+| 65-74 years                                     | 13.5               |

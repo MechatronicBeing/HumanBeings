@@ -1,0 +1,8 @@
+| Age               | Mean |
+| ----------------- | ---- |
+| All ages          | 324  |
+| Under 6 years     | 180  |
+| 6–11 years        | 240  |
+| 12–19 years       | 336  |
+| 20–59 years       | 368  |
+| 60 years and over | 288  |

@@ -1,0 +1,8 @@
+| Age               | Median |
+| ----------------- | ------ |
+| All ages          | 1968   |
+| Under 6 years     | 1327   |
+| 6–11 years        | 1838   |
+| 12–19 years       | 2236   |
+| 20–59 years       | 2161   |
+| 60 years and over | 1657   |

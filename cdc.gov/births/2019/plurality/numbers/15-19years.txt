@@ -1,0 +1,6 @@
+| plurality                       | number |
+| ------------------------------- | ------ |
+| Total births                    | 171674 |
+| Singleton                       | 168898 |
+| Twin births                     | 2764   |
+| Triplet and higher-order births | 12     |

@@ -1,0 +1,6 @@
+| Age                              | Mean |
+| -------------------------------- | ---- |
+| 18 years and over (age-adjusted) | 121  |
+| 18–39 years                      | 110  |
+| 40–59 years                      | 122  |
+| 60 years and over                | 139  |

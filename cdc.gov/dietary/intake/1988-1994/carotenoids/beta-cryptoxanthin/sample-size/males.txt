@@ -1,0 +1,16 @@
+| Age               | Sample size |
+| ----------------- | ----------- |
+| All ages          | 13922       |
+| 2–11 months       | 815         |
+| 1–2 years         | 1171        |
+| 3–5 years         | 1424        |
+| 6–11 years        | 1581        |
+| 12–15 years       | 750         |
+| 16–19 years       | 711         |
+| 20–29 years       | 1587        |
+| 30–39 years       | 1424        |
+| 40–49 years       | 1188        |
+| 50–59 years       | 820         |
+| 60–69 years       | 1111        |
+| 70–79 years       | 783         |
+| 80 years and over | 557         |

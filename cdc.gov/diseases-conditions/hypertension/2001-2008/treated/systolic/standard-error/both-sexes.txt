@@ -1,0 +1,6 @@
+| Age                              | Standard error |
+| -------------------------------- | -------------- |
+| 18 years and over (age-adjusted) | 0.5            |
+| 18–39 years                      | 0.9            |
+| 40–59 years                      | 0.6            |
+| 60 years and over                | 0.5            |

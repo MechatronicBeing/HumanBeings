@@ -1,0 +1,8 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All ages          | 215.6          |
+| Under 6 years     | 216.8          |
+| 6–11 years        | 622            |
+| 12–19 years       | 550.7          |
+| 20–59 years       | 285.2          |
+| 60 years and over | 421.6          |

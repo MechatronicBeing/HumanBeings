@@ -1,0 +1,16 @@
+| Age               | Median |
+| ----------------- | ------ |
+| All ages          | 1003   |
+| 2–11 months       | 503    |
+| 1–2 years         | 867    |
+| 3–5 years         | 954    |
+| 6–11 years        | 1068   |
+| 12–15 years       | 1054   |
+| 16–19 years       | 1056   |
+| 20–29 years       | 1059   |
+| 30–39 years       | 1067   |
+| 40–49 years       | 1021   |
+| 50–59 years       | 958    |
+| 60–69 years       | 931    |
+| 70–79 years       | 896    |
+| 80 years and over | 871    |

@@ -1,0 +1,7 @@
+| Trimester prenatal care began | Percent |
+| ----------------------------- | ------- |
+| First trimester               | 78.3    |
+| Second trimester              | 15.7    |
+| Late or no care               | 5.9     |
+| Third trimester               | 4.2     |
+| No care                       | 1.7     |

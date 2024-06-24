@@ -1,0 +1,16 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All ages          | 3.2            |
+| 2–11 months       | 3.7            |
+| 1–2 years         | 5.3            |
+| 3–5 years         | 4.5            |
+| 6–11 years        | 7.7            |
+| 12–15 years       | 7.5            |
+| 16–19 years       | 12.5           |
+| 20–29 years       | 8.1            |
+| 30–39 years       | 5.5            |
+| 40–49 years       | 10.3           |
+| 50–59 years       | 6.8            |
+| 60–69 years       | 6.9            |
+| 70–79 years       | 6.6            |
+| 80 years and over | 9.6            |
