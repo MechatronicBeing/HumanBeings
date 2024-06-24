@@ -1,0 +1,9 @@
+Files with 80chars+ wide :
+./percent/systolic-diastolic/25-34/females.csv : 86
+./percent/systolic-diastolic/25-34/males.csv : 86
+./percent/systolic-diastolic/35-44/males.csv : 88
+./percent/systolic-diastolic/45-54/females.csv : 88
+./percent/systolic-diastolic/45-54/males.csv : 88
+./percent/systolic-diastolic/55-64/males.csv : 88
+./percent/systolic-diastolic/65-74/females.csv : 88
+./percent/systolic-diastolic/65-74/males.csv : 88
