@@ -1,12 +1,12 @@
-- ambulatory-medical-care
-  - emergency-department-visits
-  - utilization-estimates
++ ambulatory-medical-care
+  + emergency-department-visits
+  + utilization-estimates
 + births
   + 2019
-- body
-  - composition
++ body
+  + composition
   + hand-preference
-  - measurements
+  + measurements
 + criteria
   + education
   + geographic-region
@@ -16,8 +16,8 @@
   + poverty
 - deaths
   + 1900
-  - 2000
-  - 2019
+  + 2000
+  + 2019
 + development
   + developmental-milestones
   + positive-parenting
@@ -26,10 +26,10 @@
 + estimated-population
   + 1900
   (- NEED MORE)
-- vital-signs
-  - blood-pressure
++ vital-signs
+  + blood-pressure
   + respiratory-rates
-  - resting-pulse-rate
+  + resting-pulse-rate
   + sleeping
 
 -----------------
