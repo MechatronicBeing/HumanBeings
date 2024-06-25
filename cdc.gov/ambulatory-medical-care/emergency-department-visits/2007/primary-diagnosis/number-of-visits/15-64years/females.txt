@@ -1,0 +1,14 @@
+| Primary diagnosis                                          | Number |
+| ---------------------------------------------------------- | ------ |
+| All female visits, age 15–64 years                         | 42559  |
+| Abdominal pain                                             | 2597   |
+| Complications of pregnancy, childbirth, and the puerperium | 1794   |
+| Chest pain                                                 | 1572   |
+| Contusion with intact skin surface                         | 1503   |
+| Spinal disorders                                           | 1202   |
+| Sprains and strains of neck and back                       | 1187   |
+| Acute upper respiratory infections, excluding pharyngitis  | 1160   |
+| Urinary tract infection, site not specified                | 1124   |
+| Cellulitis and abscess                                     | 992    |
+| Sprains and strains, excluding ankle and back              | 896    |
+| All other diagnoses                                        | 28532  |

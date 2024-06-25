@@ -1,0 +1,24 @@
+| Principal diagnosis group                                  | Standard error |
+| ---------------------------------------------------------- | -------------- |
+| All visits                                                 | 1033           |
+| Heart disease, excluding ischemic                          | 86             |
+| Chest pain                                                 | 128            |
+| Pneumonia                                                  | 61             |
+| Cerebrovascular disease                                    | 59             |
+| Ischemic heart disease                                     | 73             |
+| Psychoses, excluding major depressive disorder             | 57             |
+| Cellulitis and abscess                                     | 55             |
+| Malignant neoplasms                                        | 45             |
+| Fracture of the lower limb                                 | 36             |
+| Syncope and collapse                                       | 41             |
+| Diabetes mellitus.                                         | 39             |
+| Fractures, excluding lower limb                            | 37             |
+| Gastrointestinal hemorrhage.                               | 40             |
+| Anemia                                                     | 39             |
+| Urinary tract infection, site not specified                | 40             |
+| Noninfectious enteritis and colitis.                       | 37             |
+| Complications of pregnancy, childbirth, and the puerperium | 46             |
+| Abdominal pain                                             | 33             |
+| Disorder of gallbladder and biliary tract                  | 43             |
+| Asthma                                                     | 30             |
+| All other diagnoses                                        | 605            |

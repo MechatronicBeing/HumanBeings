@@ -1,0 +1,10 @@
+| Hospital discharge status       | Mean |
+| ------------------------------- | ---- |
+| All admissions                  | 5.3  |
+| Alive                           | 5.2  |
+| Home or residence               | 4.9  |
+| Transferred to another hospital | 7.1  |
+| Other                           | 8.1  |
+| Unknown or blank                | 4    |
+| Died                            | 8    |
+| Unknown or blank                | 5.3  |

@@ -1,0 +1,9 @@
+| Examinations and tests      | Percent |
+| --------------------------- | ------- |
+| Urinalysis                  | 22.5    |
+| Electrocardiogram           | 16.6    |
+| Cardiac monitor             | 8       |
+| Pregnancy test              | 4.8     |
+| Rapid flu or influenza test | 1.3     |
+| Wound culture               | 0.8     |
+| Other test or service       | 11.2    |

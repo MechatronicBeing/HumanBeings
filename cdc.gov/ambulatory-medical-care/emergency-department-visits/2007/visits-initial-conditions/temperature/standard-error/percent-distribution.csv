@@ -1,6 +1,0 @@
-Temperature,"Standard error of percent"
-"All visits",-
-"Febrile: >38.0 °C or >100.4 °F ",0.3
-"Normal: 35.1–38.0 °C or 95.1–100.4 °F",0.6
-"Hypothermic: <35.0 °C or <95.0 °F",0.1
-"Unknown or blank",0.6

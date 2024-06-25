@@ -1,0 +1,9 @@
+| Age                              | Percent distribution |
+| -------------------------------- | -------------------- |
+| All injury-related female visits | 46.8                 |
+| Under 15 years                   | 7.8                  |
+| 15–24 years                      | 7.9                  |
+| 25–44 years                      | 12.9                 |
+| 45–64 years                      | 10                   |
+| 65–74 years                      | 2.7                  |
+| 75 years and over                | 5.5                  |

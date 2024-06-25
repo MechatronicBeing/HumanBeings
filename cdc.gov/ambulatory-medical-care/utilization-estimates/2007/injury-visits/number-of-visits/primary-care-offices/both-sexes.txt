@@ -1,0 +1,9 @@
+| Age               | Number |
+| ----------------- | ------ |
+| All visits        | 45153  |
+| Under 15 years    | 9241   |
+| 15–24 years       | 5886   |
+| 25–44 years       | 10816  |
+| 45–64 years       | 10457  |
+| 65–74 years       | 4974   |
+| 75 years and over | 3778   |

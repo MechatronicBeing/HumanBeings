@@ -1,0 +1,24 @@
+| Drug name                     | Standard error |
+| ----------------------------- | -------------- |
+| All drug mentions             | 1.1            |
+| Ibuprofen                     | 0.2            |
+| Acetaminophen-hydrocodone     | 0.2            |
+| Acetaminophen                 | 0.2            |
+| Promethazine                  | 0.1            |
+| Ketorolac                     | 0              |
+| Morphine                      | 0              |
+| Ondansetron                   | 0              |
+| Hydromorphone                 | 0              |
+| Sodium chloride               | 0              |
+| Acetaminophen-oxycodone       | 0.1            |
+| Albuterol                     | 0.1            |
+| Azithromycin                  | 0.1            |
+| Amoxicillin                   | 0.1            |
+| Aspirin                       | 0              |
+| Ceftriaxone                   | 0              |
+| Cephalexin                    | 0.1            |
+| Sulfamethoxazole-trimethoprim | 0.1            |
+| Diphenhydramine               | 0              |
+| Lorazepam                     | 0              |
+| Levofloxacin                  | 0.1            |
+| All other                     | 0.7            |

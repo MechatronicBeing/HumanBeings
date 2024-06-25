@@ -1,0 +1,4 @@
+| Medical school affiliation | Standard error of rate |
+| -------------------------- | ---------------------- |
+| Yes                        | 1.7                    |
+| No or blank                | 1.5                    |

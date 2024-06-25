@@ -1,0 +1,9 @@
+| Age                            | Number of visits in thousands |
+| ------------------------------ | ----------------------------- |
+| All injury-related male visits | 20946                         |
+| Under 15 years                 | 4227                          |
+| 15–24 years                    | 4009                          |
+| 25–44 years                    | 6550                          |
+| 45–64 years                    | 4173                          |
+| 65–74 years                    | 900                           |
+| 75 years and over              | 1087                          |

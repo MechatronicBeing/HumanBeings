@@ -1,0 +1,12 @@
+| Time spent in the emergency department | Standard error |
+| -------------------------------------- | -------------- |
+| All visits                             | \-             |
+| Less than 1 hour                       | 0.6            |
+| 1 hour, but fewer than 2 hours         | 0.5            |
+| 2 hours, but fewer than 4 hours        | 0.6            |
+| 4 hours, but fewer than 6 hours        | 0.4            |
+| 6 hours, but fewer than 10 hours       | 0.4            |
+| 10 hours, but fewer than 14 hours      | 0.1            |
+| 14 hours, but fewer than 24 hours      | 0.1            |
+| 24 hours or more                       | 0.1            |
+| Blank                                  | 1.1            |

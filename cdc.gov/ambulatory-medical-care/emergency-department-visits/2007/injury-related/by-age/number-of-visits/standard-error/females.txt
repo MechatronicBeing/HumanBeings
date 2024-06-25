@@ -1,0 +1,9 @@
+| Age                              | Standard error in thousands |
+| -------------------------------- | --------------------------- |
+| All injury-related female visits | 996                         |
+| Under 15 years                   | 233                         |
+| 15–24 years                      | 200                         |
+| 25–44 years                      | 331                         |
+| 45–64 years                      | 252                         |
+| 65–74 years                      | 102                         |
+| 75 years and over                | 161                         |

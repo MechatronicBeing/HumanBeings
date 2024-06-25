@@ -1,0 +1,4 @@
+| Trauma center | Number of visits per 100 persons per year |
+| ------------- | ----------------------------------------- |
+| Yes           | 13.9                                      |
+| No or blank   | 25.5                                      |

@@ -1,0 +1,13 @@
+| Age                       | Number of visits in thousands |
+| ------------------------- | ----------------------------- |
+| All injury-related visits | 39395                         |
+| Under 15 years            | 7303                          |
+| Under 1 year              | 405                           |
+| 1–4 years                 | 2429                          |
+| 5–14 years                | 4469                          |
+| 15–24 years               | 7112                          |
+| 25–44 years               | 11633                         |
+| 45–64 years               | 8119                          |
+| 65 years and over         | 5227                          |
+| 65–74 years               | 1963                          |
+| 75 years and over         | 3265                          |

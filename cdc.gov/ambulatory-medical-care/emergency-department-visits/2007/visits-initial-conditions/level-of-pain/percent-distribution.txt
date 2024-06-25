@@ -1,0 +1,8 @@
+| Presenting level of pain | Percent |
+| ------------------------ | ------- |
+| All visits               | 100     |
+| None                     | 20.5    |
+| Mild                     | 12.3    |
+| Moderate                 | 23.3    |
+| Severe                   | 22.4    |
+| Unknown or blank         | 21.5    |

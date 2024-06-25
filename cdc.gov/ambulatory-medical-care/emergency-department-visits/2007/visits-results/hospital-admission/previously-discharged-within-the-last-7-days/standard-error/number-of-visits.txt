@@ -1,0 +1,5 @@
+| Patient discharged from any hospital within the last 7 days | Standard error |
+| ----------------------------------------------------------- | -------------- |
+| All admissions                                              | 1033           |
+| Yes                                                         | 102            |
+| No, unknown, or blank                                       | 977            |

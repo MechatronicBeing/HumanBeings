@@ -1,0 +1,9 @@
+| Age               | Number |
+| ----------------- | ------ |
+| All visits        | 9.2    |
+| Under 15 years    | \*     |
+| 15–24 years       | 4      |
+| 25–44 years       | 7.1    |
+| 45–64 years       | 11.9   |
+| 65–74 years       | 24.3   |
+| 75 years and over | 29     |

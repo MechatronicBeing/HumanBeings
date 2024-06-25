@@ -1,0 +1,9 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All age           | 3874           |
+| Under 15 years    | 924            |
+| 15–24 years       | 982            |
+| 25–44 years       | 1489           |
+| 45–64 years       | 1394           |
+| 65–74 years       | 619            |
+| 75 years and over | 524            |

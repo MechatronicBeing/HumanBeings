@@ -1,0 +1,10 @@
+| Urban-rural classification | Standard error of percent |
+| -------------------------- | ------------------------- |
+| All visits                 | \-                        |
+| Large central metro        | 2.2                       |
+| Large fringe metro         | 1.4                       |
+| Medium metro               | 2.7                       |
+| Small metro                | 1.2                       |
+| Nonmetropolitan            | 1.7                       |
+| Micropolitan               | 1.4                       |
+| Noncore (nonmetro)         | 0.9                       |

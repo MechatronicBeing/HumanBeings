@@ -1,0 +1,254 @@
+| Therapeutic drug category                          | Number |
+| -------------------------------------------------- | ------ |
+| All occurrences                                    | 113.1  |
+| Anti-infectives                                    | 7.6    |
+| Amebicides                                         | 0.2    |
+| Antifungals                                        | 0.2    |
+| Azole antifungals                                  | 0.2    |
+| Miscellaneous antifungals                          | 0      |
+| Antimalarial agents                                | 0.4    |
+| Antimalarial quinolines                            | 0.1    |
+| Miscellaneous antimalarials                        | 0.2    |
+| Antituberculosis agents                            | \*0.0  |
+| Nicotinic acid derivatives                         | \*0.0  |
+| Rifamycin derivatives                              | \*0.0  |
+| Antiviral agents                                   | 0.4    |
+| Protease inhibitors                                | \*0.0  |
+| NRTIs                                              | \*0.0  |
+| NNRTIs                                             | \*0.0  |
+| Adamantane antivirals                              | 0      |
+| Purine nucleosides                                 | 0.2    |
+| Neuraminidase inhibitors                           | 0      |
+| Antiviral combinations                             | \*0.0  |
+| Cephalosporins                                     | 1.1    |
+| First generation cephalosporins                    | 0.6    |
+| Second generation cephalosporins                   | 0.1    |
+| Third generation cephalosporins                    | 0.4    |
+| Fourth generation cephalosporins                   | 0      |
+| Leprostatics                                       | 0      |
+| Macrolide derivatives                              | 1.1    |
+| Macrolides                                         | 1.1    |
+| Miscellaneous antibiotics                          | 1      |
+| Penicillins                                        | 1.7    |
+| Penicillinase resistant penicillins                | \*0.0  |
+| Aminopenicillins                                   | 1      |
+| Beta-lactamase inhibitors                          | 0.5    |
+| Natural penicillins                                | 0.1    |
+| Quinolones                                         | 1.2    |
+| Sulfonamides                                       | 0.5    |
+| Tetracyclines                                      | 0.3    |
+| Urinary anti-infectives                            | 0.1    |
+| Aminoglycosides                                    | 0      |
+| Lincomycin derivatives                             | 0.2    |
+| Antineoplastics                                    | 1.1    |
+| Alkylating agents                                  | 0.1    |
+| Antibiotics/antineoplastics                        | 0      |
+| Antimetabolites                                    | 0.3    |
+| Hormones/antineoplastics                           | 0.5    |
+| Miscellaneous antineoplastics                      | 0.1    |
+| Mitotic inhibitors                                 | 0      |
+| Antineoplastic monoclonal antibodies               | 0.1    |
+| Tyrosine kinase inhibitors                         | 0      |
+| Biologicals                                        | 0.2    |
+| Colony stimulating factors                         | 0      |
+| Recombinant human erythropoietins                  | 0.1    |
+| Cardiovascular agents                              | 15.4   |
+| Angiotensin converting enzyme inhibitors           | 2.6    |
+| Antiadrenergic agents, peripherally acting         | 0.6    |
+| Antiadrenergic agents, centrally acting            | 0.2    |
+| Antianginal agents                                 | 0.4    |
+| Antiarrhythmic agents                              | 0.6    |
+| Beta-adrenergic blocking agents                    | 3.3    |
+| Cardioselective beta blockers                      | 2.5    |
+| Non-cardioselective beta blockers                  | 0.7    |
+| Calcium channel blocking agents                    | 1.5    |
+| Diuretics                                          | 2.7    |
+| Loop diuretics                                     | 1.3    |
+| Potassium-sparing diuretics                        | 0.3    |
+| Thiazide diuretics                                 | 1.2    |
+| Carbonic anhydrase inhibitors                      | 0      |
+| Inotropic agents                                   | 0.3    |
+| Miscellaneous cardiovascular agents                | 0      |
+| Vasodilators                                       | 0.4    |
+| Vasopressors                                       | 0.2    |
+| Antihypertensive combinations                      | 1.3    |
+| Angiotensin II inhibitors                          | 1.4    |
+| Agents for pulmonary hypertension                  | 0.1    |
+| Aldosterone receptor antagonists                   | 0.2    |
+| Central nervous system agents                      | 22.7   |
+| Analgesics                                         | 13.1   |
+| Miscellaneous analgesics                           | 1.7    |
+| Narcotic analgesics                                | 1.5    |
+| Nonsteroidal anti-inflammatory agents              | 3.6    |
+| Salicylates                                        | 2.4    |
+| Analgesic combinations                             | 0.2    |
+| Narcotic analgesic combinations                    | 2.8    |
+| Antimigraine agents                                | 0.3    |
+| Cox-2 inhibitors                                   | 0.5    |
+| Anticonvulsants                                    | 3      |
+| Hydantoin anticonvulsants                          | 0.1    |
+| Barbiturate anticonvulsants                        | 0      |
+| Benzodiazepine anticonvulsants                     | 1.3    |
+| Miscellaneous anticonvulsants                      | \*0.0  |
+| Dibenzazepine anticonvulsants                      | 0.1    |
+| Fatty acid derivative anticonvulsants              | 0.1    |
+| Gamma-aminobutyric acid analogs                    | 0.7    |
+| Triazine anticonvulsants                           | 0.2    |
+| Pyrrolidine anticonvulsants                        | 0      |
+| Carbonic anhydrase inhibitor anticonvulsants       | 0.2    |
+| Antiemetic/antivertigo agents                      | 2.4    |
+| 5HT3 receptor antagonists                          | 0.3    |
+| Phenothiazine antiemetics                          | 0.7    |
+| Anticholinergic antiemetics                        | 0.6    |
+| Miscellaneous antiemetics                          | 0.8    |
+| Anti-Parkinson agents                              | 0.7    |
+| Anticholinergic anti-Parkinson agents              | 0.4    |
+| Dopaminergic anti-Parkinson agents                 | 0.3    |
+| Anxiolytics, sedatives, and hypnotics              | 3.8    |
+| Barbiturates                                       | 0      |
+| Benzodiazepines                                    | 2.3    |
+| Miscellaneous anxiolytics, sedatives and hypnotics | 1.5    |
+| CNS stimulants                                     | 0.9    |
+| General anesthetics                                | \*0.1  |
+| Muscle relaxants                                   | 1.1    |
+| Neuromuscular blocking agents                      | \*0.0  |
+| Skeletal muscle relaxants                          | 1.1    |
+| Miscellaneous central nervous system agents        | 0.1    |
+| Adrenal cortical steroids                          | 2      |
+| Glucocorticoids                                    | 1.9    |
+| Miscellaneous hormones                             | 0.2    |
+| Sex hormones                                       | 1.6    |
+| Contraceptives                                     | 0.7    |
+| Androgens and anabolic steroids                    | 0.1    |
+| Estrogens                                          | 0.5    |
+| Gonadotropins                                      | \*0.0  |
+| Progestins                                         | 0.2    |
+| Sex hormone combinations                           | 0.1    |
+| Miscellaneous sex hormones                         | 0.1    |
+| 5-alpha-reductase inhibitors                       | 0.2    |
+| Thyroid drugs                                      | 1.5    |
+| Bisphosphonates                                    | 0.7    |
+| Incretin mimetics                                  | 0      |
+| Miscellaneous agents                               | 4.4    |
+| Antidotes                                          | 0      |
+| Chelating agents                                   | 0      |
+| Local injectable anesthetics                       | 0.6    |
+| Miscellaneous uncategorized agents                 | 1.8    |
+| Genitourinary tract agents                         | 0.7    |
+| Impotence agents                                   | 0.3    |
+| Urinary antispasmodics                             | 0.3    |
+| Urinary pH modifiers                               | 0      |
+| Miscellaneous genitourinary tract agents           | 0.1    |
+| Antirheumatics                                     | 0.5    |
+| Antipsoriatics                                     | 0.2    |
+| Smoking cessation agents                           | 0.7    |
+| Nutritional products                               | 5.4    |
+| Iron products                                      | 0.3    |
+| Minerals and electrolytes                          | 1.7    |
+| Oral nutritional supplements                       | 0      |
+| Vitamins                                           | 1.2    |
+| Vitamin and mineral combinations                   | 1.2    |
+| Respiratory agents                                 | 9.6    |
+| Antihistamines                                     | 2.9    |
+| Antitussives                                       | 0.3    |
+| Bronchodilators                                    | 3.1    |
+| Methylxanthines                                    | 0.1    |
+| Adrenergic bronchodilators                         | 1.9    |
+| Bronchodilator combinations                        | 0.8    |
+| Anticholinergic bronchodilators                    | 0.3    |
+| Decongestants                                      | 0.2    |
+| Expectorants                                       | 0.3    |
+| Miscellaneous respiratory agents                   | 0.4    |
+| Respiratory inhalant products                      | 0.4    |
+| Inhaled corticosteroids                            | 0.4    |
+| Antiasthmatic combinations                         | 0.1    |
+| Upper respiratory combinations                     | 1.1    |
+| Leukotriene modifiers                              | 0.7    |
+| Lung surfactants                                   | \*0.0  |
+| Topical agents                                     | 6.6    |
+| Anorectal preparations                             | 0      |
+| Antiseptics and germicides                         | 0.1    |
+| Dermatological agents                              | 2.8    |
+| Topical anti-infectives                            | 0.1    |
+| Topical steroids                                   | 1      |
+| Topical anesthetics                                | 0.1    |
+| Miscellaneous topical agents                       | 0.5    |
+| Topical steroids with antiinfectives               | 0.1    |
+| Topical acne agents                                | 0.4    |
+| Topical antipsoriatics                             | 0      |
+| Topical emollients                                 | 0.1    |
+| Topical antibiotics                                | 0.2    |
+| Topical antifungals                                | 0.3    |
+| Topical debriding agents                           | \*0.0  |
+| Mouth and throat products                          | 0.1    |
+| Ophthalmic preparations                            | 1.9    |
+| Ophthalmic anti-infectives                         | 0.1    |
+| Ophthalmic glaucoma agents                         | 0.7    |
+| Ophthalmic steroids                                | 0.2    |
+| Ophthalmic steroids with anti-infectives           | 0      |
+| Ophthalmic anti-inflammatory agents                | 0.1    |
+| Ophthalmic lubricants and irrigations              | 0      |
+| Miscellaneous ophthalmic agents                    | 0.2    |
+| Ophthalmic antihistamines and decongestants        | 0.2    |
+| Mydriatics                                         | \*0.2  |
+| Ophthalmic anesthetics                             | \*0.1  |
+| Ophthalmic diagnostic agents                       | \*0.1  |
+| Otic preparations                                  | 0.1    |
+| Miscellaneous otic agents                          | 0.1    |
+| Vaginal preparations                               | 0.3    |
+| Spermicides                                        | \*0.0  |
+| Vaginal anti-infectives                            | 0.3    |
+| Nasal preparations                                 | 1.6    |
+| Nasal steroids                                     | 1.5    |
+| Nasal antihistamines and decongestants             | 0.1    |
+| Alternative medicines                              | 0.7    |
+| Nutraceutical products                             | 0.5    |
+| Herbal products                                    | 0.2    |
+| Psychotherapeutic agents                           | 5.4    |
+| Antidepressants                                    | 4.5    |
+| Miscellaneous antidepressants                      | 0.6    |
+| SSRI antidepressants                               | 2.2    |
+| Tricyclic antidepressants                          | 0.4    |
+| Phenylpiperazine antidepressants                   | 0.4    |
+| Tetracyclic antidepressants                        | 0.1    |
+| SSNRI antidepressants                              | 0.7    |
+| Antipsychotics                                     | 0.9    |
+| Miscellaneous antipsychotic agents                 | 0.1    |
+| Phenothiazine antipsychotics                       | 0.1    |
+| Atypical antipsychotics                            | 0.7    |
+| Immunologic agents                                 | 4.2    |
+| Bacterial vaccines                                 | 0.8    |
+| Immune globulins                                   | 0      |
+| Toxoids                                            | 0.7    |
+| Viral vaccines                                     | 2.2    |
+| Miscellaneous biologicals                          | \*0.2  |
+| Immunosuppressive agents                           | 0.1    |
+| Interferons                                        | 0      |
+| Immunosuppressive monoclonal antibodies            | 0.1    |
+| Radiologic agents                                  | 0      |
+| Radiocontrast agents                               | 0      |
+| Non-ionic iodinated contrast media                 | \*0.0  |
+| Ionic iodinated contrast media                     | 0      |
+| Radiologic adjuncts                                | \*0.0  |
+| Cardiac stressing agents                           | \*0.0  |
+| Metabolic agents                                   | 8.8    |
+| Antihyperlipidemic agents                          | 5      |
+| HMG-CoA reductase inhibitors                       | 3.5    |
+| Miscellaneous antihyperlipidemic agents            | 0.2    |
+| Fibric acid derivatives                            | 0.3    |
+| Bile acid sequestrants                             | 0      |
+| Cholesterol absorption inhibitors                  | 0.4    |
+| Antihyperlipidemic combinations                    | 0.6    |
+| Antidiabetic agents                                | 3.5    |
+| Sulfonylureas                                      | 0.8    |
+| Non-sulfonylureas                                  | 1.1    |
+| Insulin                                            | 0.7    |
+| Thiazolidinediones                                 | 0.5    |
+| Meglitinides                                       | 0      |
+| Antidiabetic combinations                          | 0.2    |
+| Dipeptidyl peptidase 4 inhibitors                  | 0      |
+| Antigout agents                                    | 0.3    |
+| Antihyperuricemic agents                           | 0.2    |
+| Glucose elevating agents                           | \*0.0  |
+| Medical gases                                      | 0.1    |
+| Pharmaceutical aids                                | 0.3    |

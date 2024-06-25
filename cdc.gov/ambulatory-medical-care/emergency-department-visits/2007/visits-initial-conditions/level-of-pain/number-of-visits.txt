@@ -1,0 +1,8 @@
+| Presenting level of pain | Number |
+| ------------------------ | ------ |
+| All visits               | 116802 |
+| None                     | 23955  |
+| Mild                     | 14370  |
+| Moderate                 | 27187  |
+| Severe                   | 26196  |
+| Unknown or blank         | 25094  |

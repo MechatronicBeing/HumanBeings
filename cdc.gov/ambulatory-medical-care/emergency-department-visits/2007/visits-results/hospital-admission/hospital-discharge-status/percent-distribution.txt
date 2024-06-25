@@ -1,0 +1,10 @@
+| Hospital discharge status       | Percent |
+| ------------------------------- | ------- |
+| All admissions                  | 100     |
+| Alive                           | 83.6    |
+| Home or residence               | 76.9    |
+| Transferred to another hospital | 7.4     |
+| Other                           | 5.1     |
+| Unknown or blank                | 10.6    |
+| Died                            | 2.3     |
+| Unknown or blank                | 14.1    |

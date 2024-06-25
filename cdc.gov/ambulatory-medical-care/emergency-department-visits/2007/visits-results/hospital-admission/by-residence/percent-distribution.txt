@@ -1,0 +1,9 @@
+| Residence         | Percent |
+| ----------------- | ------- |
+| All admissions    | 100     |
+| Private residence | 82.5    |
+| Nursing home      | 7.7     |
+| Other institution | 1.4     |
+| Other residence   | 1.2     |
+| Homeless          | 0.4     |
+| Unknown or blank  | 6.8     |

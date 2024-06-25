@@ -1,0 +1,193 @@
+| Diagnosis group                                                                                    | Number |
+| -------------------------------------------------------------------------------------------------- | ------ |
+| All visits                                                                                         | 551129 |
+| Infectious and parasitic diseases                                                                  | 18232  |
+| Streptococcal sore throat                                                                          | 4003   |
+| Human immunodeficiency virus disease (HIV)                                                         | \*309  |
+| Viral warts                                                                                        | 1232   |
+| Unspecified viral and chlamydial infection                                                         | 4190   |
+| Dermatophytosis                                                                                    | 1518   |
+| Candidiasis                                                                                        | 1125   |
+| Other infectious and parasitic diseases                                                            | 5855   |
+| Neoplasms                                                                                          | 5401   |
+| Malignant neoplasms of colon and rectum                                                            | \*     |
+| Malignant neoplasm of skin                                                                         | \*     |
+| Malignant neoplasm of breast                                                                       | \*415  |
+| Malignant neoplasm of prostate                                                                     | \*     |
+| Malignant neoplasm of lymphatic and hematopoietic tissue                                           | \*     |
+| Other malignant neoplasms                                                                          | 912    |
+| Benign neoplasm of skin                                                                            | 600    |
+| Other benign neoplasm                                                                              | 2218   |
+| Neoplasm of uncertain behavior and unspecified nature                                              | \*     |
+| Endocrine, nutritional/metabolic diseases, immunity disorders                                      | 36427  |
+| Acquired hypothyroidism                                                                            | 2821   |
+| Other disorders of thyroid gland                                                                   | 912    |
+| Diabetes mellitus                                                                                  | 17757  |
+| Disorders of lipoid metabolism                                                                     | 8646   |
+| Obesity                                                                                            | 3179   |
+| Other endocrine, nutritional/metabolic diseases, immunity disorders                                | 3111   |
+| Diseases of the blood and blood-forming organs                                                     | 2995   |
+| Anemias                                                                                            | 2203   |
+| Other diseases of the blood and blood-forming organs                                               | 792    |
+| Mental disorders                                                                                   | 17931  |
+| Schizophrenic disorders                                                                            | \*     |
+| Major depressive disorder                                                                          | \*     |
+| Other psychoses                                                                                    | 1390   |
+| Anxiety states                                                                                     | 3143   |
+| Neurotic depression                                                                                | 1949   |
+| Alcohol dependence syndrome                                                                        | \*     |
+| Drug dependence and nondependent abuse of drugs                                                    | 515    |
+| Acute reaction to stress and adjustment reaction                                                   | 596    |
+| Depressive disorder, not elsewhere classified                                                      | 4764   |
+| Attention deficit disorder                                                                         | 3834   |
+| Other mental disorders                                                                             | 1034   |
+| Diseases of the nervous system and sense organs                                                    | 29644  |
+| Migraine                                                                                           | 2386   |
+| Other disorders of the central nervous system                                                      | 3478   |
+| Carpal tunnel syndrome                                                                             | 643    |
+| Other disorders of the peripheral nervous system                                                   | 1114   |
+| Retinal detachment and other retinal disorders                                                     | \*     |
+| Glaucoma                                                                                           | \*     |
+| Cataract                                                                                           | \*     |
+| Disorders of refraction and accommodation                                                          | \*     |
+| Conjunctivitis                                                                                     | 3462   |
+| Disorder of eyelids                                                                                | \*     |
+| Other disorders of the eye and adnexa                                                              | 896    |
+| Disorders of external ear                                                                          | 2593   |
+| Otitis media and eustachian tube disorders                                                         | 11748  |
+| Other disorders of the ear and mastoid process                                                     | 2579   |
+| Diseases of the circulatory system                                                                 | 46755  |
+| Angina pectoris                                                                                    | \*     |
+| Coronary atherosclerosis                                                                           | 2740   |
+| Other ischemic heart disease                                                                       | \*     |
+| Cardiac dysrhythmias                                                                               | 2644   |
+| Congestive heart failure                                                                           | 1328   |
+| Other heart disease                                                                                | 1652   |
+| Essential hypertension                                                                             | 33647  |
+| Cerebrovascular disease                                                                            | 1045   |
+| Diseases of the arteries, arterioles and capillaries                                               | 785    |
+| Hemorrhoids                                                                                        | 507    |
+| Other diseases of the circulatory system                                                           | 1780   |
+| Diseases of the respiratory system                                                                 | 82726  |
+| Acute sinusitis                                                                                    | 3324   |
+| Acute pharyngitis                                                                                  | 8934   |
+| Acute tonsillitis                                                                                  | 1553   |
+| Acute bronchitis and bronchiolitis                                                                 | 3330   |
+| Other acute respiratory infections                                                                 | 22469  |
+| Chronic sinusitis                                                                                  | 9939   |
+| Allergic rhinitis                                                                                  | 6059   |
+| Pneumonia                                                                                          | 2578   |
+| Chronic and unspecified bronchitis                                                                 | 8525   |
+| Asthma                                                                                             | 7876   |
+| Other chronic obstructive pulmonary disease and allied conditions                                  | 3397   |
+| Other diseases of the respiratory system                                                           | 4742   |
+| Diseases of the digestive system                                                                   | 18118  |
+| Diseases of the teeth and supporting structures                                                    | 1170   |
+| Gastritis and duodenitis                                                                           | 1375   |
+| Esophagitis                                                                                        | \*     |
+| Ulcer of stomach and small intestine                                                               | \*     |
+| Hernia of abdominal cavity                                                                         | 882    |
+| Noninfectious enteritis and colitis                                                                | 3007   |
+| Diverticula of intestine                                                                           | 734    |
+| Constipation                                                                                       | 1504   |
+| Irritable bowel syndrome                                                                           | \*     |
+| Anal and rectal diseases                                                                           | 708    |
+| Disorder of gallbladder and biliary tract                                                          | \*     |
+| Gastrointestinal hemorrhage                                                                        | \*     |
+| Other diseases of the digestive system                                                             | 7168   |
+| Diseases of the genitourinary system                                                               | 25128  |
+| Calculus of kidney and ureter                                                                      | \*     |
+| Cystitis and other disorders of the bladder                                                        | 853    |
+| Urinary tract infection, site not specified                                                        | 4577   |
+| Other diseases of the urinary system                                                               | 1466   |
+| Hyperplasia of prostate                                                                            | 857    |
+| Other disorders of male genital organs                                                             | 1347   |
+| Disorders of the breast                                                                            | 1816   |
+| Inflammatory disease of female pelvic organs                                                       | 2105   |
+| Noninflammatory disorders of the female genital organs                                             | 2626   |
+| Disorders of menstruation and abnormal bleeding                                                    | 3349   |
+| Menopausal and postmenopausal disorders                                                            | 1939   |
+| Other disorders of female genital tract                                                            | 3792   |
+| Complications of pregnancy, childbirth, and the puerperium                                         | 5164   |
+| Diseases of the skin and subcutaneous tissue                                                       | 18998  |
+| Cellulitis and abscess                                                                             | 3840   |
+| Other infection of the skin and subcutaneous tissue                                                | 1353   |
+| Contact dermatitis and other eczema                                                                | 5013   |
+| Psoriasis and similar disorders                                                                    | \*     |
+| Other inflammatory conditions of skin and subcutaneous tissue                                      | 2178   |
+| Corns, callosities, other hypertrophic and atrophic skin conditions                                | 595    |
+| Actinic and seborrheic keratosis                                                                   | \*     |
+| Acne                                                                                               | 843    |
+| Sebaceous cyst                                                                                     | 800    |
+| Urticaria                                                                                          | 539    |
+| Other disorders of the skin and subcutaneous tissue                                                | 3146   |
+| Diseases of the musculoskeletal system and connective tissue                                       | 35313  |
+| Rheumatoid arthritis                                                                               | 612    |
+| Osteoarthrosis and allied disorders                                                                | 3772   |
+| Other arthropathies and related disorders                                                          | 1629   |
+| Derangements and other unspecified disorders of joints                                             | 4969   |
+| Intervertebral disc disorders                                                                      | 1546   |
+| Lumbago                                                                                            | 3648   |
+| Other dorsopathies                                                                                 | 7202   |
+| Peripheral enthesopathies                                                                          | 2504   |
+| Synovitis and tenosynovitis                                                                        | 733    |
+| Myalgia and myositis, unspecified                                                                  | 1315   |
+| Other rheumatism,excluding back                                                                    | 4224   |
+| Disorders of bone and cartilage                                                                    | 2434   |
+| Other diseases of the musculoskeletal system and connective tissue                                 | 726    |
+| Congenital anomalies                                                                               | 692    |
+| Certain conditions originating in the perinatal period                                             | 974    |
+| Symptoms, signs, and ill-defined conditions                                                        | 40382  |
+| Syncope and collapse                                                                               | 658    |
+| Convulsions                                                                                        | 498    |
+| Dizziness and giddiness                                                                            | 1897   |
+| Pyrexia of unknown origin                                                                          | 1358   |
+| Symptoms involving skin and other integumentary tissue                                             | 4115   |
+| Headache                                                                                           | 2147   |
+| Epistaxis                                                                                          | \*     |
+| Abnormal heart sounds                                                                              | 536    |
+| Dyspnea and respiratory abnormalities                                                              | 1122   |
+| Cough                                                                                              | 2592   |
+| Chest pain                                                                                         | 2786   |
+| Symptoms involving the urinary system                                                              | 2406   |
+| Abdominal pain                                                                                     | 5010   |
+| Other symptoms, signs and ill-defined conditions                                                   | 14858  |
+| Injury and poisoning                                                                               | 21779  |
+| Fracture of radius and ulna                                                                        | \*     |
+| Fracture of hand and fingers                                                                       | \*     |
+| Fracture of lower limb                                                                             | \*     |
+| Other fractures                                                                                    | \*     |
+| Sprains and strains of wrist and hand                                                              | \*     |
+| Sprains and strains of knee and leg                                                                | 728    |
+| Sprains and strains of ankle                                                                       | 928    |
+| Sprains and strains of neck                                                                        | 684    |
+| Other sprains and strains of back                                                                  | 2222   |
+| Other sprains and strains                                                                          | 1907   |
+| Intracranial injury, excluding those with skull fracture                                           | \*     |
+| Open wound of head                                                                                 | \*     |
+| Open wound of hand and fingers                                                                     | 582    |
+| Other open wound                                                                                   | 1494   |
+| Superficial injuries of cornea                                                                     | \*     |
+| Other superficial injury                                                                           | 1915   |
+| Contusion with intact skin surface                                                                 | 2584   |
+| Other injuries                                                                                     | 3218   |
+| Poisonings                                                                                         | \*     |
+| Other and unspecified effects of external causes                                                   | 1626   |
+| Complications of surgical and medical care, not elsewhere classified                               | \*     |
+| Supplementary classification of factors influencing health status and contact with health services | 131567 |
+| Potential health hazards related to communicable diseases                                          | 3624   |
+| Potential health hazards related to personal and family history                                    | 4929   |
+| Routine infant or child health check                                                               | 39364  |
+| Normal pregnancy                                                                                   | 18168  |
+| Postpartum care and examination                                                                    | 2144   |
+| Encounter for contraceptive management                                                             | 2698   |
+| Other encounter related to reproduction                                                            | 2557   |
+| Lens replaced by pseudophakos                                                                      | –      |
+| Artificial opening status and other postsurgical states                                            | 1457   |
+| Attention to dressings and sutures                                                                 | 831    |
+| Follow-up examination                                                                              | 4500   |
+| General medical examination                                                                        | 12948  |
+| Observation and evaluation for suspected conditions not found                                      | 3356   |
+| Gynecological examination                                                                          | 14510  |
+| Other factors influencing health status and contact with health services                           | 20480  |
+| Blank and illegible                                                                                | 12903  |

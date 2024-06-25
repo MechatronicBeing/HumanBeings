@@ -1,0 +1,7 @@
+| Geographic region          | Standard error of percent |
+| -------------------------- | ------------------------- |
+| All injury-related visits2 | \-                        |
+| Northeast                  | 1.6                       |
+| Midwest                    | 1.9                       |
+| South                      | 2.7                       |
+| West                       | 2.6                       |

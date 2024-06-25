@@ -1,0 +1,8 @@
+| Patient residence | Standard error |
+| ----------------- | -------------- |
+| Private residence | 5937           |
+| Nursing home      | 175            |
+| Other institution | 126            |
+| Other residence   | 85             |
+| Homeless          | 72             |
+| Unknown or blank  | 613            |

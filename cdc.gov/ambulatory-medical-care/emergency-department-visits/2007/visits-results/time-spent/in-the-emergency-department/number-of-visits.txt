@@ -1,0 +1,12 @@
+| Time spent in the emergency department | Number |
+| -------------------------------------- | ------ |
+| All visits                             | 116802 |
+| Less than 1 hour                       | 13256  |
+| 1 hour, but fewer than 2 hours         | 26959  |
+| 2 hours, but fewer than 4 hours        | 38732  |
+| 4 hours, but fewer than 6 hours        | 16456  |
+| 6 hours, but fewer than 10 hours       | 9410   |
+| 10 hours, but fewer than 14 hours      | 1999   |
+| 14 hours, but fewer than 24 hours      | 1538   |
+| 24 hours or more                       | 606    |
+| Blank                                  | 7845   |

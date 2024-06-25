@@ -1,0 +1,9 @@
+| Age                              | Number of visits per 100 persons per year |
+| -------------------------------- | ----------------------------------------- |
+| All injury-related female visits | 12.2                                      |
+| Under 15 years                   | 10.4                                      |
+| 15–24 years                      | 15.1                                      |
+| 25–44 years                      | 12.3                                      |
+| 45–64 years                      | 10.1                                      |
+| 65–74 years                      | 10.3                                      |
+| 75 years and over                | 21                                        |

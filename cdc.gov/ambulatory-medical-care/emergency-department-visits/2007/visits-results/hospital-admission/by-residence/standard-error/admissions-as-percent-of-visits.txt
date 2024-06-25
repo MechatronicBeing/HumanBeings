@@ -1,0 +1,9 @@
+| Residence         | Standard error |
+| ----------------- | -------------- |
+| All admissions    | 0.9            |
+| Private residence | 0.8            |
+| Nursing home      | 4.8            |
+| Other institution | 3.3            |
+| Other residence   | 6.4            |
+| Homeless          | 3.2            |
+| Unknown or blank  | 2.6            |

@@ -1,0 +1,8 @@
+| Setting type                    | Number of visits in thousands |
+| ------------------------------- | ----------------------------- |
+| Combined settings               | 1027481                       |
+| Primary care offices            | 482327                        |
+| Surgical specialty offices      | 174172                        |
+| Medical specialty offices       | 198724                        |
+| Hospital outpatient departments | 73183                         |
+| Hospital emergency departments  | 99074                         |

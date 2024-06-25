@@ -1,0 +1,4 @@
+| Metropolitan status              | Number of visits per 100 persons per year |
+| -------------------------------- | ----------------------------------------- |
+| Metropolitan statistical area    | 39.8                                      |
+| Nonmetropolitan statistical area | 37.5                                      |

@@ -1,0 +1,7 @@
+| Percentage with bachelor’s degree or higher | Number of visits in thousands |
+| ------------------------------------------- | ----------------------------- |
+| All visits                                  | 1200017                       |
+| Quartile 1 (0–1283)                         | 276791                        |
+| Quartile 2 (1284–1966)                      | 268486                        |
+| Quartile 3 (1967–3168)                      | 275661                        |
+| Quartile 4 (3169 and over)                  | 292200                        |

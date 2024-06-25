@@ -1,0 +1,5 @@
+| Mode of arrival | Number |
+| --------------- | ------ |
+| All admissions  | 14641  |
+| Ambulance       | 5692   |
+| Other           | 8949   |

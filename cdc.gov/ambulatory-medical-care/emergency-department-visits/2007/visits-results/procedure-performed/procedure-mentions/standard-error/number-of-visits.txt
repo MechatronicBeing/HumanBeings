@@ -1,0 +1,6 @@
+| Procedure performed          | Standard error |
+| ---------------------------- | -------------- |
+| All visits                   | 6293           |
+| One or more procedure listed | 3219           |
+| None                         | 3475           |
+| Blank                        | 702            |

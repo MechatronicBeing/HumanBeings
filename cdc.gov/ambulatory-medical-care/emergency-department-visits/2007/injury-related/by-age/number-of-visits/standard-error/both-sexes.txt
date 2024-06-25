@@ -1,0 +1,13 @@
+| Age                       | Standard error in thousands |
+| ------------------------- | --------------------------- |
+| All injury-related visits | 2089                        |
+| Under 15 years            | 516                         |
+| Under 1 year              | 62                          |
+| 1–4 years                 | 198                         |
+| 5–14 years                | 324                         |
+| 15–24 years               | 466                         |
+| 25–44 years               | 691                         |
+| 45–64 years               | 457                         |
+| 65 years and over         | 328                         |
+| 65–74 years               | 148                         |
+| 75 years and over         | 213                         |

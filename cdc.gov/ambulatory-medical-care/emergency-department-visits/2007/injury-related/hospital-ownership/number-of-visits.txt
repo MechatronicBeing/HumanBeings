@@ -1,0 +1,6 @@
+| Hospital ownership         | Number of visits in thousands |
+| -------------------------- | ----------------------------- |
+| All injury-related visits2 | 39395                         |
+| Voluntary                  | 29333                         |
+| Proprietary                | 5206                          |
+| Government                 | 4856                          |

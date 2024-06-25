@@ -1,0 +1,9 @@
+| Age               | Number |
+| ----------------- | ------ |
+| All age           | 21311  |
+| Under 15 years    | 5225   |
+| 15–24 years       | 3339   |
+| 25–44 years       | 5049   |
+| 45–64 years       | 4291   |
+| 65–74 years       | 2185   |
+| 75 years and over | \*     |

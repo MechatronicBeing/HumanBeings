@@ -1,0 +1,5 @@
+| Patient discharged from any hospital within the last 7 days | Mean |
+| ----------------------------------------------------------- | ---- |
+| All admissions                                              | 5.3  |
+| Yes                                                         | 6.5  |
+| No, unknown, or blank                                       | 5.2  |

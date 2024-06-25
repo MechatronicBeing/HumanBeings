@@ -1,0 +1,14 @@
+| Primary diagnosis                                          | Standard error |
+| ---------------------------------------------------------- | -------------- |
+| All female visits, age 15–64 years                         | 0.6            |
+| Abdominal pain                                             | 0.2            |
+| Complications of pregnancy, childbirth, and the puerperium | 0.2            |
+| Chest pain                                                 | 0.2            |
+| Contusion with intact skin surface                         | 0.1            |
+| Spinal disorders                                           | 0.2            |
+| Sprains and strains of neck and back                       | 0.1            |
+| Acute upper respiratory infections, excluding pharyngitis  | 0.1            |
+| Urinary tract infection, site not specified                | 0.1            |
+| Cellulitis and abscess                                     | 0.1            |
+| Sprains and strains, excluding ankle and back              | 0.1            |
+| All other diagnoses                                        | 0.5            |

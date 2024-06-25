@@ -1,0 +1,15 @@
+| Procedure performed              | Standard error |
+| -------------------------------- | -------------- |
+| All visits                       | 6293           |
+| Intravenous fluids               | 2021           |
+| Splint or wrap                   | 466            |
+| Laceration repair                | 319            |
+| Nebulizer therapy                | 245            |
+| Bladder catheter                 | 279            |
+| Wound debridement                | 234            |
+| Incision and drainage            | 127            |
+| Cast                             | 69             |
+| Foreign body removal             | 51             |
+| Nasogastric tube gastric suction | 84             |
+| Endotracheal intubation          | 70             |
+| Other                            | 1371           |

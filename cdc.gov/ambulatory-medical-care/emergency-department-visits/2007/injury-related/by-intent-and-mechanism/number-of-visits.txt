@@ -1,0 +1,35 @@
+| Intent and mechanism                                             | Number of visits in thousands |
+| ---------------------------------------------------------------- | ----------------------------- |
+| All injury-related visits                                        | 39395                         |
+| Unintentional injuries                                           | 26036                         |
+| \- Falls                                                         | 8898                          |
+| \- Motor vehicle traffic                                         | 3836                          |
+| \- Struck against or struck accidentally by objects or persons   | 3044                          |
+| \- Overexertion and strenuous movements                          | 2116                          |
+| \- Cutting or piercing instruments or objects                    | 2089                          |
+| \- Natural and environmental factors                             | 1522                          |
+| \- Foreign body                                                  | 638                           |
+| \- Poisoning                                                     | 486                           |
+| \- Motor vehicle, nontraffic, and other                          | 451                           |
+| \- Fire, flames, hot substances/object, caustic/corrosive, steam | 416                           |
+| \- Caught accidentally in or between objects                     | 359                           |
+| \- Pedal cycle, nontraffic                                       | 330                           |
+| \- Machinery                                                     | 280                           |
+| \- Other transportation                                          | 209                           |
+| \- Other mechanism                                               | 1182                          |
+| \- Mechanism unspecified                                         | 179                           |
+| Intentional injuries                                             | 1998                          |
+| \- Assault                                                       | 1447                          |
+| \- Unarmed fight or brawl, striking by blunt or thrown object    | 784                           |
+| \- Cutting or piercing instrument                                | 76                            |
+| \- Other and unspecified mechanism                               | 587                           |
+| \- Self-inflicted                                                | 472                           |
+| \- Poisoning by solid or liquid substances, gases, and vapors    | 294                           |
+| \- Other and unspecified mechanism                               | 178                           |
+| \- Other causes of violence                                      | 79                            |
+| Injuries of undetermined intent                                  | 293                           |
+| Adverse effects of medical treatment                             | 1684                          |
+| \- Medical and surgical complications                            | 968                           |
+| \- Adverse drug effects                                          | 716                           |
+| Alcohol and drug use                                             | 1766                          |
+| Unknown                                                          | 7618                          |

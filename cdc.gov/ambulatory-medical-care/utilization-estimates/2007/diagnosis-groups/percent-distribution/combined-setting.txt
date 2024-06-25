@@ -1,0 +1,193 @@
+| Diagnosis group                                                                                    | Percent |
+| -------------------------------------------------------------------------------------------------- | ------- |
+| All visits                                                                                         | 100     |
+| Infectious and parasitic diseases                                                                  | 2.6     |
+| Streptococcal sore throat                                                                          | 0.4     |
+| Human immunodeficiency virus disease (HIV)                                                         | 0.1     |
+| Viral warts                                                                                        | 0.2     |
+| Unspecified viral and chlamydial infection                                                         | 0.5     |
+| Dermatophytosis                                                                                    | 0.2     |
+| Candidiasis                                                                                        | 0.1     |
+| Other infectious and parasitic diseases                                                            | 0.9     |
+| Neoplasms                                                                                          | 3.2     |
+| Malignant neoplasms of colon and rectum                                                            | 0.2     |
+| Malignant neoplasm of skin                                                                         | 0.4     |
+| Malignant neoplasm of breast                                                                       | 0.4     |
+| Malignant neoplasm of prostate                                                                     | 0.3     |
+| Malignant neoplasm of lymphatic and hematopoietic tissue                                           | 0.3     |
+| Other malignant neoplasms                                                                          | 0.7     |
+| Benign neoplasm of skin                                                                            | 0.3     |
+| Other benign neoplasm                                                                              | 0.4     |
+| Neoplasm of uncertain behavior and unspecified nature                                              | 0.2     |
+| Endocrine, nutritional/metabolic diseases, immunity disorders                                      | 4.9     |
+| Acquired hypothyroidism                                                                            | 0.3     |
+| Other disorders of thyroid gland                                                                   | 0.2     |
+| Diabetes mellitus                                                                                  | 2.4     |
+| Disorders of lipoid metabolism                                                                     | 0.9     |
+| Obesity                                                                                            | 0.5     |
+| Other endocrine, nutritional/metabolic diseases, immunity disorders                                | 0.6     |
+| Diseases of the blood and blood-forming organs                                                     | 0.6     |
+| Anemias                                                                                            | 0.5     |
+| Other diseases of the blood and blood-forming organs                                               | 0.2     |
+| Mental disorders                                                                                   | 5       |
+| Schizophrenic disorders                                                                            | 0.2     |
+| Major depressive disorder                                                                          | 0.7     |
+| Other psychoses                                                                                    | 0.8     |
+| Anxiety states                                                                                     | 0.6     |
+| Neurotic depression                                                                                | 0.4     |
+| Alcohol dependence syndrome                                                                        | 0       |
+| Drug dependence and nondependent abuse of drugs                                                    | 0.2     |
+| Acute reaction to stress and adjustment reaction                                                   | 0.3     |
+| Depressive disorder, not elsewhere classified                                                      | 0.7     |
+| Attention deficit disorder                                                                         | 0.6     |
+| Other mental disorders                                                                             | 0.4     |
+| Diseases of the nervous system and sense organs                                                    | 8.9     |
+| Migraine                                                                                           | 0.5     |
+| Other disorders of the central nervous system                                                      | 1.1     |
+| Carpal tunnel syndrome                                                                             | 0.2     |
+| Other disorders of the peripheral nervous system                                                   | 0.3     |
+| Retinal detachment and other retinal disorders                                                     | 0.4     |
+| Glaucoma                                                                                           | 0.9     |
+| Cataract                                                                                           | 0.9     |
+| Disorders of refraction and accommodation                                                          | 0.3     |
+| Conjunctivitis                                                                                     | 0.5     |
+| Disorder of eyelids                                                                                | 0.2     |
+| Other disorders of the eye and adnexa                                                              | 1.1     |
+| Disorders of external ear                                                                          | 0.4     |
+| Otitis media and eustachian tube disorders                                                         | 1.5     |
+| Other disorders of the ear and mastoid process                                                     | 0.6     |
+| Diseases of the circulatory system                                                                 | 7.5     |
+| Angina pectoris                                                                                    | 0.1     |
+| Coronary atherosclerosis                                                                           | 0.8     |
+| Other ischemic heart disease                                                                       | 0.2     |
+| Cardiac dysrhythmias                                                                               | 0.6     |
+| Congestive heart failure                                                                           | 0.3     |
+| Other heart disease                                                                                | 0.5     |
+| Essential hypertension                                                                             | 3.7     |
+| Cerebrovascular disease                                                                            | 0.3     |
+| Diseases of the arteries, arterioles and capillaries                                               | 0.3     |
+| Hemorrhoids                                                                                        | 0.2     |
+| Other diseases of the circulatory system                                                           | 0.5     |
+| Diseases of the respiratory system                                                                 | 10.9    |
+| Acute sinusitis                                                                                    | 0.4     |
+| Acute pharyngitis                                                                                  | 1       |
+| Acute tonsillitis                                                                                  | 0.2     |
+| Acute bronchitis and bronchiolitis                                                                 | 0.4     |
+| Other acute respiratory infections                                                                 | 2.4     |
+| Chronic sinusitis                                                                                  | 1.2     |
+| Allergic rhinitis                                                                                  | 1.1     |
+| Pneumonia                                                                                          | 0.4     |
+| Chronic and unspecified bronchitis                                                                 | 1       |
+| Asthma                                                                                             | 1.3     |
+| Other chronic obstructive pulmonary disease and allied conditions                                  | 0.5     |
+| Other diseases of the respiratory system                                                           | 1       |
+| Diseases of the digestive system                                                                   | 3.8     |
+| Diseases of the teeth and supporting structures                                                    | 0.3     |
+| Gastritis and duodenitis                                                                           | 0.2     |
+| Esophagitis                                                                                        | 0       |
+| Ulcer of stomach and small intestine                                                               | 0.1     |
+| Hernia of abdominal cavity                                                                         | 0.3     |
+| Noninfectious enteritis and colitis                                                                | 0.5     |
+| Diverticula of intestine                                                                           | 0.2     |
+| Constipation                                                                                       | 0.3     |
+| Irritable bowel syndrome                                                                           | 0.1     |
+| Anal and rectal diseases                                                                           | 0.2     |
+| Disorder of gallbladder and biliary tract                                                          | 0.2     |
+| Gastrointestinal hemorrhage                                                                        | 0.1     |
+| Other diseases of the digestive system                                                             | 1.3     |
+| Diseases of the genitourinary system                                                               | 4.1     |
+| Calculus of kidney and ureter                                                                      | 0.2     |
+| Cystitis and other disorders of the bladder                                                        | 0.2     |
+| Urinary tract infection, site not specified                                                        | 0.7     |
+| Other diseases of the urinary system                                                               | 0.6     |
+| Hyperplasia of prostate                                                                            | 0.3     |
+| Other disorders of male genital organs                                                             | 0.3     |
+| Disorders of the breast                                                                            | 0.3     |
+| Inflammatory disease of female pelvic organs                                                       | 0.2     |
+| Noninflammatory disorders of the female genital organs                                             | 0.3     |
+| Disorders of menstruation and abnormal bleeding                                                    | 0.4     |
+| Menopausal and postmenopausal disorders                                                            | 0.2     |
+| Other disorders of female genital tract                                                            | 0.5     |
+| Complications of pregnancy, childbirth, and the puerperium                                         | 0.7     |
+| Diseases of the skin and subcutaneous tissue                                                       | 4.5     |
+| Cellulitis and abscess                                                                             | 0.7     |
+| Other infection of the skin and subcutaneous tissue                                                | 0.2     |
+| Contact dermatitis and other eczema                                                                | 0.8     |
+| Psoriasis and similar disorders                                                                    | 0.2     |
+| Other inflammatory conditions of skin and subcutaneous tissue                                      | 0.5     |
+| Corns, callosities, other hypertrophic and atrophic skin conditions                                | 0.2     |
+| Actinic and seborrheic keratosis                                                                   | 0.5     |
+| Acne                                                                                               | 0.4     |
+| Sebaceous cyst                                                                                     | 0.2     |
+| Urticaria                                                                                          | 0.1     |
+| Other disorders of the skin and subcutaneous tissue                                                | 0.7     |
+| Diseases of the musculoskeletal system and connective tissue                                       | 7.9     |
+| Rheumatoid arthritis                                                                               | 0.2     |
+| Osteoarthrosis and allied disorders                                                                | 1.1     |
+| Other arthropathies and related disorders                                                          | 0.5     |
+| Derangements and other unspecified disorders of joints                                             | 1.2     |
+| Intervertebral disc disorders                                                                      | 0.5     |
+| Lumbago                                                                                            | 0.6     |
+| Other dorsopathies                                                                                 | 1.5     |
+| Peripheral enthesopathies                                                                          | 0.6     |
+| Synovitis and tenosynovitis                                                                        | 0.2     |
+| Myalgia and myositis, unspecified                                                                  | 0.2     |
+| Other rheumatism,excluding back                                                                    | 0.8     |
+| Disorders of bone and cartilage                                                                    | 0.4     |
+| Other diseases of the musculoskeletal system and connective tissue                                 | 0.2     |
+| Congenital anomalies                                                                               | 0.3     |
+| Certain conditions originating in the perinatal period                                             | 0.1     |
+| Symptoms, signs, and ill-defined conditions                                                        | 7.6     |
+| Syncope and collapse                                                                               | 0.2     |
+| Convulsions                                                                                        | 0.2     |
+| Dizziness and giddiness                                                                            | 0.3     |
+| Pyrexia of unknown origin                                                                          | 0.3     |
+| Symptoms involving skin and other integumentary tissue                                             | 0.6     |
+| Headache                                                                                           | 0.4     |
+| Epistaxis                                                                                          | 0.1     |
+| Abnormal heart sounds                                                                              | 0.2     |
+| Dyspnea and respiratory abnormalities                                                              | 0.3     |
+| Cough                                                                                              | 0.3     |
+| Chest pain                                                                                         | 0.7     |
+| Symptoms involving the urinary system                                                              | 0.4     |
+| Abdominal pain                                                                                     | 1.1     |
+| Other symptoms, signs and ill-defined conditions                                                   | 2.4     |
+| Injury and poisoning                                                                               | 6.9     |
+| Fracture of radius and ulna                                                                        | 0.2     |
+| Fracture of hand and fingers                                                                       | 0.3     |
+| Fracture of lower limb                                                                             | 0.4     |
+| Other fractures                                                                                    | 0.3     |
+| Sprains and strains of wrist and hand                                                              | 0.1     |
+| Sprains and strains of knee and leg                                                                | 0.2     |
+| Sprains and strains of ankle                                                                       | 0.3     |
+| Sprains and strains of neck                                                                        | 0.2     |
+| Other sprains and strains of back                                                                  | 0.5     |
+| Other sprains and strains                                                                          | 0.6     |
+| Intracranial injury, excluding those with skull fracture                                           | 0.1     |
+| Open wound of head                                                                                 | 0.3     |
+| Open wound of hand and fingers                                                                     | 0.3     |
+| Other open wound                                                                                   | 0.4     |
+| Superficial injuries of cornea                                                                     | 0.1     |
+| Other superficial injury                                                                           | 0.3     |
+| Contusion with intact skin surface                                                                 | 0.8     |
+| Other injuries                                                                                     | 0.9     |
+| Poisonings                                                                                         | 0.1     |
+| Other and unspecified effects of external causes                                                   | 0.4     |
+| Complications of surgical and medical care, not elsewhere classified                               | 0.2     |
+| Supplementary classification of factors influencing health status and contact with health services | 18.3    |
+| Potential health hazards related to communicable diseases                                          | 0.5     |
+| Potential health hazards related to personal and family history                                    | 1       |
+| Routine infant or child health check                                                               | 3.7     |
+| Normal pregnancy                                                                                   | 1.8     |
+| Postpartum care and examination                                                                    | 0.2     |
+| Encounter for contraceptive management                                                             | 0.3     |
+| Other encounter related to reproduction                                                            | 0.3     |
+| Lens replaced by pseudophakos                                                                      | 0.1     |
+| Artificial opening status and other postsurgical states                                            | 0.6     |
+| Attention to dressings and sutures                                                                 | 0.2     |
+| Follow-up examination                                                                              | 1.5     |
+| General medical examination                                                                        | 1.6     |
+| Observation and evaluation for suspected conditions not found                                      | 0.7     |
+| Gynecological examination                                                                          | 1.4     |
+| Other factors influencing health status and contact with health services                           | 4.5     |
+| Blank and illegible                                                                                | 2.2     |

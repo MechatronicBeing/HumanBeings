@@ -1,0 +1,5 @@
+| Ownership   | Standard error of percent |
+| ----------- | ------------------------- |
+| Voluntary   | 2.8                       |
+| Government  | 1.8                       |
+| Proprietary | 2.5                       |

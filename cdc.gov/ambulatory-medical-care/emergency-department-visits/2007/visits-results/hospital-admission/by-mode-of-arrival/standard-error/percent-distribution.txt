@@ -1,0 +1,5 @@
+| Mode of arrival | Standard error |
+| --------------- | -------------- |
+| All admissions  | \-             |
+| Ambulance       | 1.3            |
+| Other           | 1.3            |

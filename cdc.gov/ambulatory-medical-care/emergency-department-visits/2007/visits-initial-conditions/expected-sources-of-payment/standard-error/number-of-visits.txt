@@ -1,0 +1,13 @@
+| Expected sources of payment | Standard error |
+| --------------------------- | -------------- |
+| All visits                  | 6293           |
+| Private insurance           | 2864           |
+| Medicaid or SCHIP2          | 1780           |
+| Medicare                    | 1180           |
+| Medicare and Medicaid3      | 276            |
+| No insurance4               | 1317           |
+| Self-pay                    | 1285           |
+| No charge or charity        | 271            |
+| Workers' compensation       | 182            |
+| Other                       | 311            |
+| Unknown or blank            | 2109           |

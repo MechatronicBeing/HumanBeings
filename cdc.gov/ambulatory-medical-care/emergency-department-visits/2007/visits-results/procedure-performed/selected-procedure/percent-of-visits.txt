@@ -1,0 +1,14 @@
+| Procedure performed              | Percent |
+| -------------------------------- | ------- |
+| Intravenous fluids               | 26.6    |
+| Splint or wrap                   | 5.7     |
+| Laceration repair                | 4.4     |
+| Nebulizer therapy                | 2.6     |
+| Bladder catheter                 | 2.2     |
+| Wound debridement                | 1.7     |
+| Incision and drainage            | 1       |
+| Cast                             | 0.5     |
+| Foreign body removal             | 0.4     |
+| Nasogastric tube gastric suction | \*0.3   |
+| Endotracheal intubation          | \*0.2   |
+| Other                            | 8.3     |

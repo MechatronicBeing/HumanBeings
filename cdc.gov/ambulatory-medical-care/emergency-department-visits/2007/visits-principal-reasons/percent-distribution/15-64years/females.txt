@@ -1,0 +1,14 @@
+| Principal reason                                   | Percent |
+| -------------------------------------------------- | ------- |
+| All female visits, age 15–64 years                 | 55.3    |
+| Stomach pain, cramps, and spasms                   | 6       |
+| Chest pain and related symptoms                    | 3       |
+| Headache, pain in head                             | 2.3     |
+| Back symptoms                                      | 1.9     |
+| Problems of pregnancy and the post-partum period   | 1.7     |
+| Pain, site not referable to a specific body system | 1.6     |
+| Symptoms referable to throat                       | 1.2     |
+| Shortness of breath.                               | 1.2     |
+| Nausea                                             | 1.1     |
+| Uterine and vaginal bleeding                       | 1       |
+| All other reasons2                                 | 34.4    |

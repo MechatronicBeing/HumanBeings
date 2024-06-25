@@ -1,0 +1,5 @@
+| Patient arrived in emergency department after business hours2 | Standard error |
+| ------------------------------------------------------------- | -------------- |
+| Yes                                                           | 4160           |
+| No                                                            | 2111           |
+| Blank                                                         | 384            |

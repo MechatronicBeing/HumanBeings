@@ -1,0 +1,9 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All visits        | 2155           |
+| Under 15 years    | 527            |
+| 15–24 years       | 477            |
+| 25–44 years       | 707            |
+| 45–64 years       | 469            |
+| 65–74 years       | 150            |
+| 75 years and over | 217            |

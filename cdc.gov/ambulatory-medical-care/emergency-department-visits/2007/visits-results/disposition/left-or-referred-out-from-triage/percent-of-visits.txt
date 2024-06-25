@@ -1,0 +1,7 @@
+| Left or referred out from triage   | Percent |
+| ---------------------------------- | ------- |
+| Left before medical screening exam | 1.7     |
+| Left against medical advice        | 1.2     |
+| Left after medical screening exam  | 1.1     |
+| Other                              | 0.5     |
+| Blank                              | 1.2     |

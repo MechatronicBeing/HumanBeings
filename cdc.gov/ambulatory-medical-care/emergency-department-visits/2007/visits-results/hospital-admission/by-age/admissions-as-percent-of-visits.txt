@@ -1,0 +1,9 @@
+| Age               | Percent |
+| ----------------- | ------- |
+| All admissions    | 12.5    |
+| Under 15 years    | 3       |
+| 15–24 years       | 4.4     |
+| 25–44 years       | 8.3     |
+| 45–64 years       | 17      |
+| 65–74 years       | 27.8    |
+| 75 years and over | 40.3    |

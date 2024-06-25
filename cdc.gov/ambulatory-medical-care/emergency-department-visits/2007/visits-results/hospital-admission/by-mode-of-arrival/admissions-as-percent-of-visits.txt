@@ -1,0 +1,5 @@
+| Mode of arrival | Percent |
+| --------------- | ------- |
+| All admissions  | 12.5    |
+| Ambulance       | 31.5    |
+| Other           | 9.1     |

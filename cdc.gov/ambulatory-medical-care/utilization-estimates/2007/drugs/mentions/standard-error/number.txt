@@ -1,0 +1,8 @@
+| Ambulatory care setting         | Standard error |
+| ------------------------------- | -------------- |
+| All ambulatory care settings    | 122222         |
+| Primary care offices            | 80510          |
+| Medical specialty offices       | 56028          |
+| Surgical specialty offices      | 32369          |
+| Hospital outpatient departments | 30291          |
+| Hospital emergency departments  | 12348          |

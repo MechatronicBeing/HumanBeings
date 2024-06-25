@@ -1,0 +1,39 @@
+| Primary diagnosis group                                         | Primary care | Surgical | Medical | Hospital outpatient | Emergency |  |
+| --------------------------------------------------------------- | ------------ | -------- | ------- | ------------------- | --------- |  |
+| All visits                                                      | 1.4          | 1        | 1       | 0.8                 | 0.5       |  |
+| Essential hypertension                                          | 2.7          | \-       | 2.1     | 1.4                 | 0.2       |  |
+| Routine infant or child health check                            | 1.3          | \-       | \-      | 1.3                 | 0.1       |  |
+| Acute upper respiratory infections, excluding pharyngitis       | 1.8          | 0.4      | \-      | 0.9                 | 1.1       |  |
+| Arthropathies and related disorders                             | 4.3          | 5        | 6.1     | 1.5                 | 0.6       |  |
+| Spinal disorders                                                | 4            | 4.8      | 4.6     | 1.4                 | 1.1       |  |
+| Malignant neoplasms                                             | 2.9          | 2.6      | 4.2     | 2.6                 | 0.1       |  |
+| Diabetes mellitus                                               | 4.4          | 4.5      | 1.2     | 1.7                 | 0.3       |  |
+| Rheumatism, excluding back                                      | 4.3          | 3.8      | 3.8     | 1.1                 | 0.9       |  |
+| Specific procedures and aftercare                               | 4            | 3.9      | 2.9     | 1.3                 | 0.7       |  |
+| General medical examination                                     | 6.5          | \-       | 6.9     | 2.3                 | 0.3       |  |
+| Normal pregnancy                                                | 2.3          | \-       | 0.3     | 2.1                 | 0.3       |  |
+| Follow up examination                                           | 4.5          | 5.6      | 7.5     | 0.9                 | 0.3       |  |
+| Otitis media and eustachian tube disorders                      | 3.6          | 2.6      | \-      | 1.3                 | 1.2       |  |
+| Asthma                                                          | 6.2          | \-       | 7.7     | 2                   | 1.6       |  |
+| Heart disease, excluding ischemic                               | 4.4          | \-       | 5       | 3                   | 1.2       |  |
+| Gynecological examination                                       | 2.1          | \-       | \-      | 2                   | \-        |  |
+| Ischemic heart disease                                          | 3.4          | \-       | 4.2     | 2.6                 | 0.6       |  |
+| Allergic rhinitis                                               | 7.8          | 3.2      | 9.7     | 0.8                 | 0.3       |  |
+| Psychoses, excluding major depressive disorder                  | 2.5          | \-       | 4.2     | 2.6                 | 1         |  |
+| Chronic sinusitis                                               | 5.4          | 4.8      | \-      | 2.3                 | 0.8       |  |
+| Glaucoma                                                        | \-           | 0.7      | \-      | 0.6                 | \-        |  |
+| Benign neoplasms                                                | 3.5          | 4.7      | 4.9     | 1.7                 | \-        |  |
+| Abdominal pain                                                  | 4.2          | \-       | 4.4     | 1                   | 3.2       |  |
+| Acute pharyngitis                                               | 2.9          | \-       | \-      | 1.4                 | 1.5       |  |
+| Disorders of lipoid metabolism                                  | 3.7          | \-       | 3.3     | 1.3                 | \-        |  |
+| Sprains and strains, excluding ankle and back                   | 4.9          | 6.9      | \-      | 1.2                 | 2.9       |  |
+| Potential health hazards related to personal and family history | 4.3          | 2.7      | 3.1     | 1.8                 | 0.6       |  |
+| Chronic and unspecified bronchitis                              | 3.5          | \-       | \-      | 1                   | 1.7       |  |
+| Contact dermatitis and other eczema                             | 5            | \-       | 5.3     | 1.2                 | 0.9       |  |
+| Cataract                                                        | \-           | 1.7      | \-      | 0.8                 | \-        |  |
+| Depressive disorder, not elsewhere classified                   | 5.5          | \-       | 5.7     | 1.5                 | 0.9       |  |
+| Chest pain                                                      | 4.5          | \-       | 3.1     | 1.2                 | 3.7       |  |
+| Contusion with intact skin surface                              | 3.9          | 2.4      | 3.5     | 1.1                 | 3.7       |  |
+| Complications of pregnancy, childbirth, and the puerperium      | 5.8          | \-       | \-      | 4.2                 | 3.2       |  |
+| Urinary tract infection, site not specified                     | 4.2          | 1.4      | \-      | 1.1                 | 2.8       |  |
+| All other diagnoses                                             | 1.5          | 1.1      | 1       | 0.8                 | 0.7       |  |

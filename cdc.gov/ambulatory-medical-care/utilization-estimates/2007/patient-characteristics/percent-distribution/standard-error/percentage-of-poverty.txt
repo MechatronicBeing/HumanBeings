@@ -1,0 +1,7 @@
+| Percentage of poverty | Standard error of percent |
+| --------------------- | ------------------------- |
+| All visits            | \-                        |
+| Less than 5 percent   | 1.1                       |
+| 5.00–9.99 percent     | 1.1                       |
+| 10.00–19.99 percent   | 1.2                       |
+| 20 percent of more    | 1.1                       |

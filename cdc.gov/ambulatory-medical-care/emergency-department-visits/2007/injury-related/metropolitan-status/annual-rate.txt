@@ -1,0 +1,4 @@
+| Metropolitan status | Number of visits per 100 persons per year |
+| ------------------- | ----------------------------------------- |
+| MSA                 | 13.3                                      |
+| Non-MSA             | 13.2                                      |

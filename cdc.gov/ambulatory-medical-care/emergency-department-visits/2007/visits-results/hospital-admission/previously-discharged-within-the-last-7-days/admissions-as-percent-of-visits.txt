@@ -1,0 +1,5 @@
+| Patient discharged from any hospital within the last 7 days | Percent |
+| ----------------------------------------------------------- | ------- |
+| All admissions                                              | 12.5    |
+| Yes                                                         | 33.1    |
+| No, unknown, or blank                                       | 12      |

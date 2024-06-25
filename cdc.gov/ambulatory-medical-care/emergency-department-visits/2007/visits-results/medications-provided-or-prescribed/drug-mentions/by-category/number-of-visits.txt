@@ -1,0 +1,22 @@
+| Drug category                         | Number |
+| ------------------------------------- | ------ |
+| Analgesics3                           | 77545  |
+| Antiemetic/antivertigo agents         | 23234  |
+| Antihistamines                        | 12100  |
+| Anxiolytics, sedatives, and hypnotics | 9199   |
+| Cephalosporins                        | 8041   |
+| Minerals and electrolytes             | 7684   |
+| Bronchodilators                       | 7296   |
+| Penicillins                           | 7132   |
+| Adrenal cortical steroids             | 6267   |
+| Miscellaneous antibiotics             | 5899   |
+| Anticonvulsants                       | 5581   |
+| Quinolones                            | 5105   |
+| Miscellaneous respiratory agents      | 5047   |
+| Macrolide derivatives                 | 4231   |
+| Muscle relaxants                      | 4066   |
+| Antiplatelet agents                   | 3838   |
+| Dermatological agents                 | 3417   |
+| Antiparkinson agents                  | 3108   |
+| Sulfonamides                          | 3053   |
+| Toxoids                               | 2730   |

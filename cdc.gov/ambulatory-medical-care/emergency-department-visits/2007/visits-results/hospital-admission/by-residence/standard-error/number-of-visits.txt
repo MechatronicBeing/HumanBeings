@@ -1,0 +1,9 @@
+| Residence         | Standard error |
+| ----------------- | -------------- |
+| All admissions    | 1033           |
+| Private residence | 853            |
+| Nursing home      | 112            |
+| Other institution | 35             |
+| Other residence   | 38             |
+| Homeless          | 17             |
+| Unknown or blank  | 152            |

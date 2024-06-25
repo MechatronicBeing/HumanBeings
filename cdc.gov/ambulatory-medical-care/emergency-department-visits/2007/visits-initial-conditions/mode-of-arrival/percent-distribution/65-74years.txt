@@ -1,0 +1,6 @@
+| Mode of arrival | Percent |
+| --------------- | ------- |
+| Walk-in         | 63.9    |
+| Ambulance       | 26.5    |
+| Public service  | 1.6     |
+| Unknown         | 8       |

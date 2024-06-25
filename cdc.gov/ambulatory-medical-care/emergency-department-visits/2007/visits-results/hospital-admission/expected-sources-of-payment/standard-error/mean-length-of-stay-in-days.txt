@@ -1,0 +1,7 @@
+| Expected sources of payment | Standard error |
+| --------------------------- | -------------- |
+| All admissions              | 0.1            |
+| Private insurance           | 0.2            |
+| Uninsured                   | 0.3            |
+| Medicare                    | 0.1            |
+| Medicaid or SCHIP           | 0.2            |

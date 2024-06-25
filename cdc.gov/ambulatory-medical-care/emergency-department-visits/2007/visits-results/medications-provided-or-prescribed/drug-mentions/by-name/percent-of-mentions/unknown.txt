@@ -1,0 +1,24 @@
+| Drug name                     | Percent |
+| ----------------------------- | ------- |
+| All drug mentions             | 2.7     |
+| Ibuprofen                     | 0.2     |
+| Acetaminophen-hydrocodone     | 0.1     |
+| Acetaminophen                 | 0.2     |
+| Promethazine                  | 0.1     |
+| Ketorolac                     | 0.1     |
+| Morphine                      | 0.1     |
+| Ondansetron                   | 0       |
+| Hydromorphone                 | 0.1     |
+| Sodium chloride               | 0.1     |
+| Acetaminophen-oxycodone       | \*0.0   |
+| Albuterol                     | \*0.1   |
+| Azithromycin                  | \*0.0   |
+| Amoxicillin                   | \*0.0   |
+| Aspirin                       | 0.1     |
+| Ceftriaxone                   | \*0.0   |
+| Cephalexin                    | 0       |
+| Sulfamethoxazole-trimethoprim | \*0.0   |
+| Diphenhydramine               | 0       |
+| Lorazepam                     | \*0.0   |
+| Levofloxacin                  | \*0.0   |
+| All other                     | 1.4     |

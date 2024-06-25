@@ -1,0 +1,5 @@
+| Ownership   | Number of visits in thousands |
+| ----------- | ----------------------------- |
+| Voluntary   | 87511                         |
+| Government  | 13828                         |
+| Proprietary | 15463                         |

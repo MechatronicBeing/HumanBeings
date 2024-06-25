@@ -1,0 +1,5 @@
+| Patient discharged from any hospital within the last 7 days | Number |
+| ----------------------------------------------------------- | ------ |
+| All admissions                                              | 14641  |
+| Yes                                                         | 894    |
+| No, unknown, or blank                                       | 13747  |

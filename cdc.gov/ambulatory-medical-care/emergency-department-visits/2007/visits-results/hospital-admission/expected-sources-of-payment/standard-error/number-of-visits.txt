@@ -1,0 +1,7 @@
+| Expected sources of payment | Standard error |
+| --------------------------- | -------------- |
+| All admissions              | 1033           |
+| Private insurance           | 472            |
+| Uninsured                   | 271            |
+| Medicare                    | 496            |
+| Medicaid or SCHIP           | 238            |

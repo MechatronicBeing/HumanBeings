@@ -1,0 +1,5 @@
+| Triage category       | Percent |
+| --------------------- | ------- |
+| All admissions        | 100     |
+| Immediate or emergent | 34.3    |
+| Other                 | 65.7    |

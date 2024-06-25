@@ -1,0 +1,5 @@
+| Patient seen in this emergency department within the last 72 hours | Standard error |
+| ------------------------------------------------------------------ | -------------- |
+| All admissions                                                     | 1033           |
+| Yes                                                                | 76             |
+| No, unknown, or blank                                              | 995            |

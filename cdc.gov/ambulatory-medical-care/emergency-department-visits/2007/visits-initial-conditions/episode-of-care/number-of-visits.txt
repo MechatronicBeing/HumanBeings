@@ -1,0 +1,6 @@
+| Episode of care  | Number |
+| ---------------- | ------ |
+| All visits       | 116802 |
+| Initial visit    | 92065  |
+| Follow-up visit  | 8341   |
+| Unknown or blank | 16396  |

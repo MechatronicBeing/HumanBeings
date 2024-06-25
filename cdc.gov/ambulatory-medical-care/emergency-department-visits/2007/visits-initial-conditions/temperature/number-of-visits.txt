@@ -1,0 +1,7 @@
+| Temperature                           | Number |
+| ------------------------------------- | ------ |
+| All visits                            | 116802 |
+| Febrile: \>38.0 °C or \>100.4 °F      | 5629   |
+| Normal: 35.1–38.0 °C or 95.1–100.4 °F | 102622 |
+| Hypothermic: \<35.0 °C or \<95.0 °F   | 517    |
+| Unknown or blank                      | 8034   |

@@ -1,0 +1,4 @@
+| Metropolitan status              | Percent distribution |
+| -------------------------------- | -------------------- |
+| Metropolitan statistical area    | 84.8                 |
+| Nonmetropolitan statistical area | 15.2                 |

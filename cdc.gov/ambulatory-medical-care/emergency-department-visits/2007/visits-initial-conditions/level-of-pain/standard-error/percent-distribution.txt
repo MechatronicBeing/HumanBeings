@@ -1,0 +1,8 @@
+| Presenting level of pain | Standard error |
+| ------------------------ | -------------- |
+| All visits               | \-             |
+| None                     | 0.7            |
+| Mild                     | 0.5            |
+| Moderate                 | 0.8            |
+| Severe                   | 0.6            |
+| Unknown or blank         | 1.5            |

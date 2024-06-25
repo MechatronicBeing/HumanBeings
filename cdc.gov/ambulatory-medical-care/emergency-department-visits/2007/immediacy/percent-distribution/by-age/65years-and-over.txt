@@ -1,0 +1,8 @@
+| Immediacy in which the patient should be seen | Percent distribution |
+| --------------------------------------------- | -------------------- |
+| Immediate (less than 1 minute)                | 8.8                  |
+| Emergent (within 1–14 minutes)                | 15.7                 |
+| Urgent (within 15–60 minutes)                 | 41.5                 |
+| Semiurgent (within 61–120 minutes)            | 13.1                 |
+| Nonurgent (within 121 minutes–24 hours)       | 4.4                  |
+| Unknown or no triage                          | 16.5                 |

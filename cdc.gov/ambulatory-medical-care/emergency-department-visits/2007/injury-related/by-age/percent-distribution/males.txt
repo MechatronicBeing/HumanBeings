@@ -1,0 +1,9 @@
+| Age                            | Percent distribution |
+| ------------------------------ | -------------------- |
+| All injury-related male visits | 53.2                 |
+| Under 15 years                 | 10.7                 |
+| 15–24 years                    | 10.2                 |
+| 25–44 years                    | 16.6                 |
+| 45–64 years                    | 10.6                 |
+| 65–74 years                    | 2.3                  |
+| 75 years and over              | 2.8                  |

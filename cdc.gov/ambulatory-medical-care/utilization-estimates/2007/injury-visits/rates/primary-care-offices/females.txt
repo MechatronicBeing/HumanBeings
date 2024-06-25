@@ -1,0 +1,9 @@
+| Age               | Number |
+| ----------------- | ------ |
+| All age           | 15.8   |
+| Under 15 years    | 13.5   |
+| 15–24 years       | 12.4   |
+| 25–44 years       | 14     |
+| 45–64 years       | 15.8   |
+| 65–74 years       | 27     |
+| 75 years and over | 24.6   |

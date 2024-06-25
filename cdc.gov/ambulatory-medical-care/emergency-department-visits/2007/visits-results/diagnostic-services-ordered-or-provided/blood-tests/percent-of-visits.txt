@@ -1,0 +1,15 @@
+| Blood tests                                            | Percent |
+| ------------------------------------------------------ | ------- |
+| Complete blood count                                   | 35.4    |
+| Blood urea nitrogen or creatinine                      | 22.1    |
+| Glucose                                                | 19.6    |
+| Electrolytes                                           | 19.5    |
+| Cardiac enzymes                                        | 12.1    |
+| Liver function tests                                   | 7.9     |
+| Prothrombin time or international normalized ratio INR | 5.2     |
+| Blood culture                                          | 3.6     |
+| Toxicology screen                                      | 2.7     |
+| Arterial blood gases                                   | 2.4     |
+| Blood alcohol concentration                            | 1.6     |
+| Other blood test                                       | 18      |
+| Any blood test listed                                  | 39.8    |

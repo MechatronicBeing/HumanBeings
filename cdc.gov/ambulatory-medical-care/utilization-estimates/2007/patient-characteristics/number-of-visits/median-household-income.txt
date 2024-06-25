@@ -1,0 +1,7 @@
+| Median household income         | Number of visits in thousands |
+| ------------------------------- | ----------------------------- |
+| All visits                      | 1200017                       |
+| Quartile 1 ($0 to $32,793)      | 273597                        |
+| Quartile 2 ($32,794 to $40,626) | 260852                        |
+| Quartile 3 ($40,627 to $52,387) | 267658                        |
+| Quartile 4 ($52,388 and over)   | 311314                        |

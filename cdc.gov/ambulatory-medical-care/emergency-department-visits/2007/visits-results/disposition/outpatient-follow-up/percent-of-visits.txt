@@ -1,0 +1,6 @@
+| Outpatient follow-up                                       | Percent |
+| ---------------------------------------------------------- | ------- |
+| Return or refer to physician or clinic for follow-up       | 61.7    |
+| Return to emergency department as needed or by appointment | 35.4    |
+| Refer to social services                                   | 0.8     |
+| No follow-up planned                                       | 5.4     |

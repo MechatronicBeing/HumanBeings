@@ -1,0 +1,254 @@
+| Therapeutic drug category                          | Number  |
+| -------------------------------------------------- | ------- |
+| All occurrences                                    | 3040323 |
+| Anti-infectives                                    | 203797  |
+| Amebicides                                         | 4308    |
+| Antifungals                                        | 6625    |
+| Azole antifungals                                  | 6043    |
+| Miscellaneous antifungals                          | 443     |
+| Antimalarial agents                                | 10145   |
+| Antimalarial quinolines                            | 3876    |
+| Miscellaneous antimalarials                        | 6187    |
+| Antituberculosis agents                            | \*866   |
+| Nicotinic acid derivatives                         | \*362   |
+| Rifamycin derivatives                              | \*420   |
+| Antiviral agents                                   | 10100   |
+| Protease inhibitors                                | \*1279  |
+| NRTIs                                              | \*766   |
+| NNRTIs                                             | \*183   |
+| Adamantane antivirals                              | 557     |
+| Purine nucleosides                                 | 5128    |
+| Neuraminidase inhibitors                           | 648     |
+| Antiviral combinations                             | \*920   |
+| Cephalosporins                                     | 30232   |
+| First generation cephalosporins                    | 15071   |
+| Second generation cephalosporins                   | 3329    |
+| Third generation cephalosporins                    | 11672   |
+| Fourth generation cephalosporins                   | 77      |
+| Leprostatics                                       | 272     |
+| Macrolide derivatives                              | 30033   |
+| Macrolides                                         | 29967   |
+| Miscellaneous antibiotics                          | 25887   |
+| Penicillins                                        | 45658   |
+| Penicillinase resistant penicillins                | \*323   |
+| Aminopenicillins                                   | 27398   |
+| Beta-lactamase inhibitors                          | 14543   |
+| Natural penicillins                                | 3358    |
+| Quinolones                                         | 30921   |
+| Sulfonamides                                       | 13978   |
+| Tetracyclines                                      | 8902    |
+| Urinary anti-infectives                            | 3773    |
+| Aminoglycosides                                    | 969     |
+| Lincomycin derivatives                             | 4039    |
+| Antineoplastics                                    | 28655   |
+| Alkylating agents                                  | 1651    |
+| Antibiotics/antineoplastics                        | 396     |
+| Antimetabolites                                    | 7073    |
+| Hormones/antineoplastics                           | 12416   |
+| Miscellaneous antineoplastics                      | 3119    |
+| Mitotic inhibitors                                 | 1298    |
+| Antineoplastic monoclonal antibodies               | 2017    |
+| Tyrosine kinase inhibitors                         | 644     |
+| Biologicals                                        | 4242    |
+| Colony stimulating factors                         | 823     |
+| Recombinant human erythropoietins                  | 2705    |
+| Cardiovascular agents                              | 414246  |
+| Angiotensin converting enzyme inhibitors           | 68635   |
+| Antiadrenergic agents, peripherally acting         | 17238   |
+| Antiadrenergic agents, centrally acting            | 6373    |
+| Antianginal agents                                 | 10659   |
+| Antiarrhythmic agents                              | 16855   |
+| Beta-adrenergic blocking agents                    | 87765   |
+| Cardioselective beta blockers                      | 67720   |
+| Non-cardioselective beta blockers                  | 20045   |
+| Calcium channel blocking agents                    | 41164   |
+| Diuretics                                          | 73450   |
+| Loop diuretics                                     | 33848   |
+| Potassium-sparing diuretics                        | 7426    |
+| Thiazide diuretics                                 | 31387   |
+| Carbonic anhydrase inhibitors                      | 584     |
+| Inotropic agents                                   | 9373    |
+| Miscellaneous cardiovascular agents                | 804     |
+| Vasodilators                                       | 11627   |
+| Vasopressors                                       | 4572    |
+| Antihypertensive combinations                      | 35560   |
+| Angiotensin II inhibitors                          | 36385   |
+| Agents for pulmonary hypertension                  | 3504    |
+| Aldosterone receptor antagonists                   | 5498    |
+| Central nervous system agents                      | 609893  |
+| Analgesics                                         | 353057  |
+| Miscellaneous analgesics                           | 46574   |
+| Narcotic analgesics                                | 40240   |
+| Nonsteroidal anti-inflammatory agents              | 98039   |
+| Salicylates                                        | 65446   |
+| Analgesic combinations                             | 6659    |
+| Narcotic analgesic combinations                    | 76396   |
+| Antimigraine agents                                | 7553    |
+| Cox-2 inhibitors                                   | 12149   |
+| Anticonvulsants                                    | 80130   |
+| Hydantoin anticonvulsants                          | 3655    |
+| Barbiturate anticonvulsants                        | 1289    |
+| Benzodiazepine anticonvulsants                     | 35536   |
+| Miscellaneous anticonvulsants                      | \*568   |
+| Dibenzazepine anticonvulsants                      | 3287    |
+| Fatty acid derivative anticonvulsants              | 3854    |
+| Gamma-aminobutyric acid analogs                    | 18667   |
+| Triazine anticonvulsants                           | 5069    |
+| Pyrrolidine anticonvulsants                        | 1225    |
+| Carbonic anhydrase inhibitor anticonvulsants       | 5593    |
+| Antiemetic/antivertigo agents                      | 65698   |
+| 5HT3 receptor antagonists                          | 9138    |
+| Phenothiazine antiemetics                          | 17964   |
+| Anticholinergic antiemetics                        | 16015   |
+| Miscellaneous antiemetics                          | 22578   |
+| Anti-Parkinson agents                              | 18692   |
+| Anticholinergic anti-Parkinson agents              | 11852   |
+| Dopaminergic anti-Parkinson agents                 | 6814    |
+| Anxiolytics, sedatives, and hypnotics              | 103031  |
+| Barbiturates                                       | 844     |
+| Benzodiazepines                                    | 62707   |
+| Miscellaneous anxiolytics, sedatives and hypnotics | 39375   |
+| CNS stimulants                                     | 23057   |
+| General anesthetics                                | \*2314  |
+| Muscle relaxants                                   | 30161   |
+| Neuromuscular blocking agents                      | \*273   |
+| Skeletal muscle relaxants                          | 29720   |
+| Miscellaneous central nervous system agents        | 1933    |
+| Adrenal cortical steroids                          | 54386   |
+| Glucocorticoids                                    | 51543   |
+| Miscellaneous hormones                             | 5401    |
+| Sex hormones                                       | 44225   |
+| Contraceptives                                     | 18958   |
+| Androgens and anabolic steroids                    | 1883    |
+| Estrogens                                          | 13585   |
+| Gonadotropins                                      | \*165   |
+| Progestins                                         | 6301    |
+| Sex hormone combinations                           | 3919    |
+| Miscellaneous sex hormones                         | 1472    |
+| 5-alpha-reductase inhibitors                       | 4457    |
+| Thyroid drugs                                      | 39440   |
+| Bisphosphonates                                    | 18333   |
+| Incretin mimetics                                  | 1263    |
+| Miscellaneous agents                               | 118440  |
+| Antidotes                                          | 1107    |
+| Chelating agents                                   | 558     |
+| Local injectable anesthetics                       | 17402   |
+| Miscellaneous uncategorized agents                 | 48665   |
+| Genitourinary tract agents                         | 19015   |
+| Impotence agents                                   | 6964    |
+| Urinary antispasmodics                             | 9232    |
+| Urinary pH modifiers                               | 634     |
+| Miscellaneous genitourinary tract agents           | 2186    |
+| Antirheumatics                                     | 12730   |
+| Antipsoriatics                                     | 4944    |
+| Smoking cessation agents                           | 17757   |
+| Nutritional products                               | 143923  |
+| Iron products                                      | 9334    |
+| Minerals and electrolytes                          | 46550   |
+| Oral nutritional supplements                       | 620     |
+| Vitamins                                           | 31921   |
+| Vitamin and mineral combinations                   | 31826   |
+| Respiratory agents                                 | 257262  |
+| Antihistamines                                     | 77432   |
+| Antitussives                                       | 8384    |
+| Bronchodilators                                    | 83083   |
+| Methylxanthines                                    | 1625    |
+| Adrenergic bronchodilators                         | 50745   |
+| Bronchodilator combinations                        | 22590   |
+| Anticholinergic bronchodilators                    | 8123    |
+| Decongestants                                      | 6054    |
+| Expectorants                                       | 8555    |
+| Miscellaneous respiratory agents                   | 10608   |
+| Respiratory inhalant products                      | 11558   |
+| Inhaled corticosteroids                            | 11241   |
+| Antiasthmatic combinations                         | 2984    |
+| Upper respiratory combinations                     | 29132   |
+| Leukotriene modifiers                              | 19356   |
+| Lung surfactants                                   | \*115   |
+| Topical agents                                     | 178462  |
+| Anorectal preparations                             | 1056    |
+| Antiseptics and germicides                         | 2811    |
+| Dermatological agents                              | 75101   |
+| Topical anti-infectives                            | 2481    |
+| Topical steroids                                   | 27393   |
+| Topical anesthetics                                | 1964    |
+| Miscellaneous topical agents                       | 13420   |
+| Topical steroids with antiinfectives               | 2537    |
+| Topical acne agents                                | 9915    |
+| Topical antipsoriatics                             | 1225    |
+| Topical emollients                                 | 3695    |
+| Topical antibiotics                                | 5098    |
+| Topical antifungals                                | 7860    |
+| Topical debriding agents                           | \*103   |
+| Mouth and throat products                          | 1404    |
+| Ophthalmic preparations                            | 50271   |
+| Ophthalmic anti-infectives                         | 3678    |
+| Ophthalmic glaucoma agents                         | 18551   |
+| Ophthalmic steroids                                | 5655    |
+| Ophthalmic steroids with anti-infectives           | 1144    |
+| Ophthalmic anti-inflammatory agents                | 2005    |
+| Ophthalmic lubricants and irrigations              | 936     |
+| Miscellaneous ophthalmic agents                    | 5151    |
+| Ophthalmic antihistamines and decongestants        | 4190    |
+| Mydriatics                                         | \*4276  |
+| Ophthalmic anesthetics                             | \*1903  |
+| Ophthalmic diagnostic agents                       | \*2242  |
+| Otic preparations                                  | 3621    |
+| Miscellaneous otic agents                          | 3474    |
+| Vaginal preparations                               | 7522    |
+| Spermicides                                        | \*182   |
+| Vaginal anti-infectives                            | 7329    |
+| Nasal preparations                                 | 43545   |
+| Nasal steroids                                     | 39059   |
+| Nasal antihistamines and decongestants             | 4006    |
+| Alternative medicines                              | 19720   |
+| Nutraceutical products                             | 14579   |
+| Herbal products                                    | 4765    |
+| Psychotherapeutic agents                           | 146056  |
+| Antidepressants                                    | 120578  |
+| Miscellaneous antidepressants                      | 17171   |
+| SSRI antidepressants                               | 60240   |
+| Tricyclic antidepressants                          | 11518   |
+| Phenylpiperazine antidepressants                   | 9474    |
+| Tetracyclic antidepressants                        | 2595    |
+| SSNRI antidepressants                              | 19399   |
+| Antipsychotics                                     | 25477   |
+| Miscellaneous antipsychotic agents                 | 3390    |
+| Phenothiazine antipsychotics                       | 2860    |
+| Atypical antipsychotics                            | 18882   |
+| Immunologic agents                                 | 113295  |
+| Bacterial vaccines                                 | 21155   |
+| Immune globulins                                   | 794     |
+| Toxoids                                            | 20006   |
+| Viral vaccines                                     | 59319   |
+| Miscellaneous biologicals                          | \*6049  |
+| Immunosuppressive agents                           | 2363    |
+| Interferons                                        | 509     |
+| Immunosuppressive monoclonal antibodies            | 2284    |
+| Radiologic agents                                  | 979     |
+| Radiocontrast agents                               | 437     |
+| Non-ionic iodinated contrast media                 | \*70    |
+| Ionic iodinated contrast media                     | 206     |
+| Radiologic adjuncts                                | \*454   |
+| Cardiac stressing agents                           | \*454   |
+| Metabolic agents                                   | 235856  |
+| Antihyperlipidemic agents                          | 134452  |
+| HMG-CoA reductase inhibitors                       | 95408   |
+| Miscellaneous antihyperlipidemic agents            | 5125    |
+| Fibric acid derivatives                            | 8983    |
+| Bile acid sequestrants                             | 626     |
+| Cholesterol absorption inhibitors                  | 9434    |
+| Antihyperlipidemic combinations                    | 14877   |
+| Antidiabetic agents                                | 92853   |
+| Sulfonylureas                                      | 21356   |
+| Non-sulfonylureas                                  | 30091   |
+| Insulin                                            | 19805   |
+| Thiazolidinediones                                 | 13818   |
+| Meglitinides                                       | 1024    |
+| Antidiabetic combinations                          | 5027    |
+| Dipeptidyl peptidase 4 inhibitors                  | 1236    |
+| Antigout agents                                    | 8171    |
+| Antihyperuricemic agents                           | 6325    |
+| Glucose elevating agents                           | \*199   |
+| Medical gases                                      | 1468    |
+| Pharmaceutical aids                                | 6945    |

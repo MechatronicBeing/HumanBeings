@@ -1,0 +1,5 @@
+| Patient arrived in emergency department after business hours2 | Number |
+| ------------------------------------------------------------- | ------ |
+| Yes                                                           | 75565  |
+| No                                                            | 39796  |
+| Blank                                                         | 1441   |

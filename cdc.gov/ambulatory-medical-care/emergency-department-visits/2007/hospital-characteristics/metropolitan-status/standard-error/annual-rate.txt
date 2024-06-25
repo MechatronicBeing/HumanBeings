@@ -1,0 +1,4 @@
+| Metropolitan status              | Standard error of rate |
+| -------------------------------- | ---------------------- |
+| Metropolitan statistical area    | 2.6                    |
+| Nonmetropolitan statistical area | 4.5                    |

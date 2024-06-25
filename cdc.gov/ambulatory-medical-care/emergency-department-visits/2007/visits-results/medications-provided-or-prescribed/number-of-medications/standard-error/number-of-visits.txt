@@ -1,0 +1,12 @@
+| Number of medications provided or prescribed | Standard error |
+| -------------------------------------------- | -------------- |
+| All visits                                   | 6293           |
+| No mention of medication                     | 1742           |
+| 1                                            | 1752           |
+| 2                                            | 1410           |
+| 3                                            | 975            |
+| 4                                            | 547            |
+| 5                                            | 348            |
+| 6                                            | 190            |
+| 7                                            | 116            |
+| 8                                            | 186            |

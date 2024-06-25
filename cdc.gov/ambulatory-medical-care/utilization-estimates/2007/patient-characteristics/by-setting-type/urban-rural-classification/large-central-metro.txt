@@ -1,0 +1,8 @@
+| Setting type                    | Percent distribution |
+| ------------------------------- | -------------------- |
+| Combined settings               | 100                  |
+| Primary care offices            | 52.1                 |
+| Surgical specialty offices      | 14.4                 |
+| Medical specialty offices       | 15.7                 |
+| Hospital outpatient departments | 7.3                  |
+| Hospital emergency departments  | 10.5                 |

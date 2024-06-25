@@ -1,0 +1,5 @@
+| Mode of arrival | Mean |
+| --------------- | ---- |
+| All admissions  | 5.3  |
+| Ambulance       | 6    |
+| Other           | 4.9  |

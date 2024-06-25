@@ -1,0 +1,6 @@
+| Mode of arrival | Standard error |
+| --------------- | -------------- |
+| Walk-in         | 1.5            |
+| Ambulance       | 1.4            |
+| Public service  | 0.4            |
+| Unknown         | 0.9            |

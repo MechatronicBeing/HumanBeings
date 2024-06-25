@@ -1,0 +1,8 @@
+| Patient residence | Percent |
+| ----------------- | ------- |
+| Private residence | 91.1    |
+| Nursing home      | 2       |
+| Other institution | 0.9     |
+| Other residence   | 0.5     |
+| Homeless          | 0.5     |
+| Unknown or blank  | 5       |

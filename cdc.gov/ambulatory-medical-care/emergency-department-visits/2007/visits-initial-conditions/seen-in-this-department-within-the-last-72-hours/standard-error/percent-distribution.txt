@@ -1,0 +1,6 @@
+| Patient discharged from any hospital within the last 7 days | Standard error |
+| ----------------------------------------------------------- | -------------- |
+| All visits                                                  | \-             |
+| Yes                                                         | 0.2            |
+| No                                                          | 2.3            |
+| Unknown or blank                                            | 2.3            |

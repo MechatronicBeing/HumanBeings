@@ -1,0 +1,5 @@
+| Patient seen in this emergency department within the last 72 hours | Percent |
+| ------------------------------------------------------------------ | ------- |
+| All admissions                                                     | 12.5    |
+| Yes                                                                | 14.3    |
+| No, unknown, or blank                                              | 12.5    |

@@ -1,0 +1,4 @@
+| Trauma center | Standard error in thousands |
+| ------------- | --------------------------- |
+| Yes           | 4566                        |
+| No or blank   | 5577                        |

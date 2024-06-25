@@ -1,0 +1,12 @@
+| Time spent waiting to see a physician | Percent |
+| ------------------------------------- | ------- |
+| All visits                            | 100     |
+| Fewer than 15 minutes                 | 17.8    |
+| 15–59 minutes                         | 35.7    |
+| 1 hour, but fewer than 2 hours        | 14.3    |
+| 2 hours, but fewer than 3 hours       | 5       |
+| 3 hours, but fewer than 4 hours       | 1.9     |
+| 4 hours, but fewer than 6 hours       | 1.4     |
+| 6 hours or more                       | 0.8     |
+| Not seen by a physician               | 8.8     |
+| Blank                                 | 14.4    |

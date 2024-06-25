@@ -1,0 +1,9 @@
+| Age               | Percent distribution |
+| ----------------- | -------------------- |
+| All female visits | 54.1                 |
+| Under 15 years    | 8.6                  |
+| 15–24 years       | 9.5                  |
+| 25–44 years       | 16                   |
+| 45–64 years       | 10.9                 |
+| 65–74 years       | 3.2                  |
+| 75 years and over | 5.8                  |

@@ -1,0 +1,14 @@
+| Primary diagnosis                      | Standard error |
+| -------------------------------------- | -------------- |
+| All male visits, age 65 years and over | 0.8            |
+| Heart disease, excluding ischemic      | 0.3            |
+| Chest pain                             | 0.2            |
+| Pneumonia                              | 0.2            |
+| Cellulitis and abscess                 | 0.2            |
+| Open wound, excluding head             | 0.2            |
+| Abdominal pain                         | 0.2            |
+| Cerebrovascular disease                | 0.2            |
+| Syncope and collapse                   | 0.2            |
+| Contusion with intact skin surface     | 0.2            |
+| Symptoms involving the urinary system  | 0.2            |
+| All other diagnoses                    | 0.8            |

@@ -1,0 +1,14 @@
+| Principal reason                                   | Standard error |
+| -------------------------------------------------- | -------------- |
+| All male visits, age 15–64 years                   | 0.6            |
+| Chest pain and related symptoms                    | 0.2            |
+| Stomach pain, cramps, and spasms                   | 0.1            |
+| Back symptoms                                      | 0.1            |
+| Pain, site not referable to a specific body system | 0.1            |
+| Headache, pain in head                             | 0.1            |
+| Lacerations and cuts—upper extremity               | 0.1            |
+| Shortness of breath.                               | 0.1            |
+| Symptoms referable to throat                       | 0.1            |
+| Low back symptoms                                  | 0.1            |
+| Leg symptoms                                       | 0.1            |
+| All other reasons2                                 | 0.5            |

@@ -1,0 +1,10 @@
+| Urban-rural classification | Number of visits in thousands |
+| -------------------------- | ----------------------------- |
+| All visits                 | 1200017                       |
+| Large central metro        | 305695                        |
+| Large fringe metro         | 254086                        |
+| Medium metro               | 284802                        |
+| Small metro                | 99767                         |
+| Nonmetropolitan            | 196784                        |
+| Micropolitan               | 111627                        |
+| Noncore (nonmetro)         | 85158                         |

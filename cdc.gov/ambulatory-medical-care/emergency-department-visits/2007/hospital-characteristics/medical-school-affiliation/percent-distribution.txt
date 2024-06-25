@@ -1,0 +1,4 @@
+| Medical school affiliation | Percent distribution |
+| -------------------------- | -------------------- |
+| Yes                        | 53.3                 |
+| No or blank                | 46.7                 |

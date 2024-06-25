@@ -1,0 +1,7 @@
+| Expected sources of payment | Percent |
+| --------------------------- | ------- |
+| All admissions              | 12.5    |
+| Private insurance           | 13      |
+| Uninsured                   | 7.6     |
+| Medicare                    | 31.4    |
+| Medicaid or SCHIP           | 9.9     |

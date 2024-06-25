@@ -1,0 +1,9 @@
+| Age               | Standard error |
+| ----------------- | -------------- |
+| All admissions    | \-             |
+| Under 15 years    | 0.7            |
+| 15–24 years       | 0.5            |
+| 25–44 years       | 0.9            |
+| 45–64 years       | 0.8            |
+| 65–74 years       | 0.6            |
+| 75 years and over | 1              |

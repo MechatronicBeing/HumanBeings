@@ -1,0 +1,8 @@
+| Ambulatory care setting         | Percent |
+| ------------------------------- | ------- |
+| All ambulatory care settings    | 100     |
+| Primary care offices            | 48.4    |
+| Medical specialty offices       | 23.3    |
+| Surgical specialty offices      | 12      |
+| Hospital outpatient departments | 8.4     |
+| Hospital emergency departments  | 7.9     |

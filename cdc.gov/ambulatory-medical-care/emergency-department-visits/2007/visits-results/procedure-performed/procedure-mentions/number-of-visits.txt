@@ -1,0 +1,6 @@
+| Procedure performed          | Number |
+| ---------------------------- | ------ |
+| All visits                   | 116802 |
+| One or more procedure listed | 53090  |
+| None                         | 57911  |
+| Blank                        | 5801   |

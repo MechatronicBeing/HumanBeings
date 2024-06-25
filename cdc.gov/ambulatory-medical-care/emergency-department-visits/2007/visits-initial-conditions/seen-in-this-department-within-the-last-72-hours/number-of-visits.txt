@@ -1,0 +1,6 @@
+| Patient seen in this emergency department within the last 72 hours | Number |
+| ------------------------------------------------------------------ | ------ |
+| All visits                                                         | 116802 |
+| Yes                                                                | 4463   |
+| No                                                                 | 86681  |
+| Unknown or blank                                                   | 25658  |

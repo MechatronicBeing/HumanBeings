@@ -1,0 +1,14 @@
+| Primary diagnosis                                         | Standard error |
+| --------------------------------------------------------- | -------------- |
+| All male visits, age under 15 years                       | 1047           |
+| Acute upper respiratory infections, excluding pharyngitis | 174            |
+| Otitis media and Eustachian tube disorders                | 120            |
+| Open wound of head                                        | 71             |
+| Contusion with intact skin surface                        | 61             |
+| Pyrexia of unknown origin                                 | 62             |
+| Open wound, excluding head                                | 63             |
+| Asthma                                                    | 62             |
+| Fractures, excluding lower limb                           | 47             |
+| Unspecified viral and Chlamydia infection                 | 48             |
+| Acute pharyngitis                                         | 38             |
+| All other diagnoses                                       | 618            |

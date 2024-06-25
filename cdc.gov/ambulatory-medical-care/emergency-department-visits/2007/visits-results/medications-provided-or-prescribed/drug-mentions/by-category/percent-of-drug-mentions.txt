@@ -1,0 +1,22 @@
+| Drug category                         | Percent |
+| ------------------------------------- | ------- |
+| Analgesics3                           | 36.3    |
+| Antiemetic/antivertigo agents         | 10.9    |
+| Antihistamines                        | 5.7     |
+| Anxiolytics, sedatives, and hypnotics | 4.3     |
+| Cephalosporins                        | 3.8     |
+| Minerals and electrolytes             | 3.6     |
+| Bronchodilators                       | 3.4     |
+| Penicillins                           | 3.3     |
+| Adrenal cortical steroids             | 2.9     |
+| Miscellaneous antibiotics             | 2.8     |
+| Anticonvulsants                       | 2.6     |
+| Quinolones                            | 2.4     |
+| Miscellaneous respiratory agents      | 2.4     |
+| Macrolide derivatives                 | 2       |
+| Muscle relaxants                      | 1.9     |
+| Antiplatelet agents                   | 1.8     |
+| Dermatological agents                 | 1.6     |
+| Antiparkinson agents                  | 1.5     |
+| Sulfonamides                          | 1.4     |
+| Toxoids                               | 1.3     |

@@ -1,0 +1,13 @@
+| Age                       | Standard error of percent |
+| ------------------------- | ------------------------- |
+| All injury-related visits | \-                        |
+| Under 15 years            | 0.9                       |
+| Under 1 year              | 0.1                       |
+| 1–4 years                 | 0.4                       |
+| 5–14 years                | 0.5                       |
+| 15–24 years               | 0.5                       |
+| 25–44 years               | 0.7                       |
+| 45–64 years               | 0.6                       |
+| 65 years and over         | 0.6                       |
+| 65–74 years               | 0.3                       |
+| 75 years and over         | 0.4                       |

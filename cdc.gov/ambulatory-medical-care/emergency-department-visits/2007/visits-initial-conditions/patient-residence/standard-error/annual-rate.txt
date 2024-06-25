@@ -1,0 +1,7 @@
+| Patient residence | Standard error of rate |
+| ----------------- | ---------------------- |
+| Private residence | 2                      |
+| Nursing home      | 11.7                   |
+| Other institution | 5                      |
+| Other residence   | 0                      |
+| Homeless          | 9.6                    |

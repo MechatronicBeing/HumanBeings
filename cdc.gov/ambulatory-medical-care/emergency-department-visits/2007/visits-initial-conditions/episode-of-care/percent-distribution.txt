@@ -1,0 +1,6 @@
+| Episode of care  | Percent |
+| ---------------- | ------- |
+| All visits       | 100     |
+| Initial visit    | 78.8    |
+| Follow-up visit  | 7.1     |
+| Unknown or blank | 14      |

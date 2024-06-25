@@ -1,0 +1,7 @@
+| Expected sources of payment | Number |
+| --------------------------- | ------ |
+| All admissions              | 14641  |
+| Private insurance           | 5914   |
+| Uninsured                   | 1650   |
+| Medicare                    | 6327   |
+| Medicaid or SCHIP           | 2915   |

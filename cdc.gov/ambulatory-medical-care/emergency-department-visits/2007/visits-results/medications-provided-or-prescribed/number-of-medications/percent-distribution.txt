@@ -1,0 +1,11 @@
+| Number of medications provided or prescribed | Percent |
+| -------------------------------------------- | ------- |
+| No mention of medication                     | 23.7    |
+| 1                                            | 26.2    |
+| 2                                            | 22      |
+| 3                                            | 13.5    |
+| 4                                            | 7.1     |
+| 5                                            | 3.8     |
+| 6                                            | 1.8     |
+| 7                                            | 0.9     |
+| 8                                            | 0.9     |

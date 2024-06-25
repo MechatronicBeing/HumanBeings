@@ -1,0 +1,7 @@
+| Outpatient follow-up                                       | Number |
+| ---------------------------------------------------------- | ------ |
+| All visits                                                 | 116802 |
+| Return or refer to physician or clinic for follow-up       | 72108  |
+| Return to emergency department as needed or by appointment | 41332  |
+| Refer to social services                                   | 925    |
+| No follow-up planned                                       | 6311   |

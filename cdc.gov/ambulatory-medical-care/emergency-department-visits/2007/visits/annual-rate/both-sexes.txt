@@ -1,0 +1,13 @@
+| Age               | Number of visits per 100 persons per year |
+| ----------------- | ----------------------------------------- |
+| All age           | 39.4                                      |
+| Under 15 years    | 36.7                                      |
+| Under 1 year      | 88.5                                      |
+| 1–4 years         | 50.7                                      |
+| 5–14 years        | 25.4                                      |
+| 15–24 years       | 45.7                                      |
+| 25–44 years       | 41                                        |
+| 45–64 years       | 32.2                                      |
+| 65 years and over | 48.4                                      |
+| 65–74 years       | 36.2                                      |
+| 75 years and over | 62                                        |

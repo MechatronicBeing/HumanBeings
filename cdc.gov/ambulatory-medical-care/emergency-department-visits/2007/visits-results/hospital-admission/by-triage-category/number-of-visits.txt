@@ -1,0 +1,5 @@
+| Triage category       | Number |
+| --------------------- | ------ |
+| All admissions        | 14641  |
+| Immediate or emergent | 5017   |
+| Other                 | 9624   |

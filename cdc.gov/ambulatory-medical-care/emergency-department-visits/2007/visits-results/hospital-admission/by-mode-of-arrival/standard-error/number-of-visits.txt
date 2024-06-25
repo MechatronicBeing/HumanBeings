@@ -1,0 +1,5 @@
+| Mode of arrival | Standard error |
+| --------------- | -------------- |
+| All admissions  | 1033           |
+| Ambulance       | 461            |
+| Other           | 646            |

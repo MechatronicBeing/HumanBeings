@@ -1,0 +1,5 @@
+| Triage category       | Standard error |
+| --------------------- | -------------- |
+| All admissions        | 1033           |
+| Immediate or emergent | 440            |
+| Other                 | 732            |

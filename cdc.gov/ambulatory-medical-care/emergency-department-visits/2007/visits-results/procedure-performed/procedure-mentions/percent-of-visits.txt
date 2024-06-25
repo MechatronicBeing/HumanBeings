@@ -1,0 +1,5 @@
+| Procedure performed          | Percent |
+| ---------------------------- | ------- |
+| One or more procedure listed | 45.5    |
+| None                         | 49.6    |
+| Blank                        | 5       |

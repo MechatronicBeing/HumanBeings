@@ -1,0 +1,5 @@
+| Triage category        | Standard error |
+| ---------------------- | -------------- |
+| All admissions         | 0.1            |
+| Immediate or emergent5 | 0.3            |
+| Other                  | 0.1            |

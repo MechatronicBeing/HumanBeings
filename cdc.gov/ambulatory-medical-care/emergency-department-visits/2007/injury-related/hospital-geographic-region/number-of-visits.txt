@@ -1,0 +1,7 @@
+| Geographic region          | Number of visits in thousands |
+| -------------------------- | ----------------------------- |
+| All injury-related visits2 | 39395                         |
+| Northeast                  | 7248                          |
+| Midwest                    | 8627                          |
+| South                      | 15541                         |
+| West                       | 7980                          |

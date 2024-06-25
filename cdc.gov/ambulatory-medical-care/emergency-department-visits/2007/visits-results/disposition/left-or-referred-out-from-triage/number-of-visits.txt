@@ -1,0 +1,8 @@
+| Left or referred out from triage   | Number |
+| ---------------------------------- | ------ |
+| All visits                         | 116802 |
+| Left before medical screening exam | 1928   |
+| Left against medical advice        | 1381   |
+| Left after medical screening exam  | 1289   |
+| Other                              | 639    |
+| Blank                              | 1396   |

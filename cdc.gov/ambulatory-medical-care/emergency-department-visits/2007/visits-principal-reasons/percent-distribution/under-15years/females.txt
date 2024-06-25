@@ -1,0 +1,14 @@
+| Principal reason                                        | Percent |
+| ------------------------------------------------------- | ------- |
+| All female visits under 15 years                        | 45.2    |
+| Fever                                                   | 7.3     |
+| Vomiting                                                | 3.1     |
+| Cough                                                   | 2.8     |
+| Stomach pain, cramps, and spasms                        | 2       |
+| Skin rash                                               | 1.6     |
+| Symptoms referable to throat                            | 1.6     |
+| Earache or ear infection                                | 1.5     |
+| Injury, other and unspecified type—head, neck, and face | 1.1     |
+| Headache, pain in head                                  | 0.9     |
+| Facial area                                             | 0.9     |
+| All other reasons                                       | 22.4    |

@@ -1,0 +1,5 @@
+| Hospital ownership | Number of visits per 100 persons per year |
+| ------------------ | ----------------------------------------- |
+| Voluntary          | 9.9                                       |
+| Proprietary        | 1.8                                       |
+| Government         | 1.6                                       |

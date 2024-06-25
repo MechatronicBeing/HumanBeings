@@ -1,0 +1,16 @@
+| Blood tests                                            | Standard error |
+| ------------------------------------------------------ | -------------- |
+| All visits                                             | 6293           |
+| Complete blood count                                   | 2442           |
+| Blood urea nitrogen or creatinine                      | 1968           |
+| Glucose                                                | 1734           |
+| Electrolytes                                           | 1913           |
+| Cardiac enzymes                                        | 1203           |
+| Liver function tests                                   | 895            |
+| Prothrombin time or international normalized ratio INR | 576            |
+| Blood culture                                          | 349            |
+| Toxicology screen                                      | 321            |
+| Arterial blood gases                                   | 374            |
+| Blood alcohol concentration                            | 203            |
+| Other blood test                                       | 1433           |
+| Any blood test listed                                  | 2700           |

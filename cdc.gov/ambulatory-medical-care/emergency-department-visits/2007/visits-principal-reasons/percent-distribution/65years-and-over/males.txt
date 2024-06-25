@@ -1,0 +1,14 @@
+| Principal reason                         | Percent |
+| ---------------------------------------- | ------- |
+| All male visits, age 65 years and over   | 39.9    |
+| Chest pain and related symptoms          | 3.3     |
+| Shortness of breath.                     | 2.5     |
+| Stomach pain, cramps, and spasms         | 2.2     |
+| General weakness                         | 1.5     |
+| Vertigo—dizziness.                       | 1.2     |
+| Other urinary dysfunctions.              | 0.9     |
+| Accident, not otherwise specified        | 0.8     |
+| Labored or difficult breathing (dyspnea) | 0.8     |
+| Lacerations and cuts—upper extremity     | 0.8     |
+| Abnormal pulsations and palpitations     | 0.7     |
+| All other reasons2                       | 25      |

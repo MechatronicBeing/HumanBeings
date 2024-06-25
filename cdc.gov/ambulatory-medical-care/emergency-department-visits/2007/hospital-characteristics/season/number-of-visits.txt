@@ -1,0 +1,6 @@
+| Season | Number of visits in thousands |
+| ------ | ----------------------------- |
+| Winter | 34667                         |
+| Spring | 30939                         |
+| Summer | 28674                         |
+| Fall   | 22522                         |

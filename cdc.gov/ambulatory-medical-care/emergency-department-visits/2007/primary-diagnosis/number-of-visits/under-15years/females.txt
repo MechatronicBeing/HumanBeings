@@ -1,0 +1,14 @@
+| Primary diagnosis                                         | Number |
+| --------------------------------------------------------- | ------ |
+| All female visits, age under 15 years                     | 10072  |
+| Acute upper respiratory infections, excluding pharyngitis | 929    |
+| Otitis media and Eustachian tube disorders                | 614    |
+| Unspecified viral and Chlamydia infection                 | 503    |
+| Contusion with intact skin surface                        | 451    |
+| Pyrexia of unknown origin                                 | 433    |
+| Open wound of head                                        | 370    |
+| Acute pharyngitis                                         | 357    |
+| Abdominal pain                                            | 307    |
+| Noninfectious enteritis and colitis                       | 264    |
+| Fractures, excluding lower limb                           | 204    |
+| All other diagnoses                                       | 5640   |

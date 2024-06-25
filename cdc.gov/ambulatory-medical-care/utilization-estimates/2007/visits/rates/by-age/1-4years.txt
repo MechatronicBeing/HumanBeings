@@ -1,0 +1,8 @@
+| Setting type                    | Number of visits per 100 persons |
+| ------------------------------- | -------------------------------- |
+| Combined settings               | 420.4                            |
+| Primary care offices            | 305.8                            |
+| Surgical specialty offices      | 22.4                             |
+| Medical specialty offices       | 13.1                             |
+| Hospital outpatient departments | 28.5                             |
+| Hospital emergency departments  | 50.7                             |

@@ -1,0 +1,6 @@
+| Geographic region | Number of visits per 100 persons per year |
+| ----------------- | ----------------------------------------- |
+| Northeast         | 38                                        |
+| Midwest           | 38.4                                      |
+| South             | 45                                        |
+| West              | 32.7                                      |

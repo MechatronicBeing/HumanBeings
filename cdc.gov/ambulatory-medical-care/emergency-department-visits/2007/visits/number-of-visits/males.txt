@@ -1,0 +1,9 @@
+| Age               | Number of visits in thousands |
+| ----------------- | ----------------------------- |
+| All male visits   | 53632                         |
+| Under 15 years    | 12236                         |
+| 15–24 years       | 7899                          |
+| 25–44 years       | 14786                         |
+| 45–64 years       | 11715                         |
+| 65–74 years       | 3185                          |
+| 75 years and over | 3811                          |

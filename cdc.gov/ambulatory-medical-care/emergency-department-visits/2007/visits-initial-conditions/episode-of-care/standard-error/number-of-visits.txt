@@ -1,0 +1,6 @@
+| Episode of care  | Standard error |
+| ---------------- | -------------- |
+| All visits       | 6293           |
+| Initial visit    | 4965           |
+| Follow-up visit  | 701            |
+| Unknown or blank | 1722           |

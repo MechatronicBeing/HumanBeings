@@ -1,0 +1,23 @@
+| Therapeutic drug category                | Number  |
+| ---------------------------------------- | ------- |
+| All occurrences                          | 3032619 |
+| Analgesics                               | 353057  |
+| Antihyperlipidemic agents                | 134452  |
+| Antidepressants                          | 120578  |
+| Anxiolytics, sedatives, and hypnotics    | 103031  |
+| Antidiabetic agents                      | 92853   |
+| Beta-adrenergic blocking agents          | 87765   |
+| Bronchodilators                          | 83083   |
+| Antiplatelet agents                      | 82537   |
+| Anticonvulsants                          | 80130   |
+| Antihistamines                           | 77432   |
+| Dermatological agents                    | 75101   |
+| Diuretics                                | 73450   |
+| Proton pump inhibitors                   | 73392   |
+| Angiotensin converting enzyme inhibitors | 68635   |
+| Antiemetic/antivertigo agents            | 65698   |
+| Viral vaccines                           | 59319   |
+| Adrenal cortical steroids                | 54386   |
+| Ophthalmic preparations                  | 50271   |
+| Minerals and electrolytes                | 46550   |
+| Penicillins                              | 45658   |

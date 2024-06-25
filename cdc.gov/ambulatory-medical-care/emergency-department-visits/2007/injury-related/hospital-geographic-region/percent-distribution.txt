@@ -1,0 +1,7 @@
+| Geographic region          | Percent distribution |
+| -------------------------- | -------------------- |
+| All injury-related visits2 | 100                  |
+| Northeast                  | 18.4                 |
+| Midwest                    | 21.9                 |
+| South                      | 39.4                 |
+| West                       | 20.3                 |

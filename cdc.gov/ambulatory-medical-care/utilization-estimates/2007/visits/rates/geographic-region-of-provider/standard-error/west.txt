@@ -1,0 +1,8 @@
+| Setting type                    | Standard error of rate |
+| ------------------------------- | ---------------------- |
+| Combined settings               | 24.1                   |
+| Primary care offices            | 15.3                   |
+| Surgical specialty offices      | 9.1                    |
+| Medical specialty offices       | 7                      |
+| Hospital outpatient departments | 3.6                    |
+| Hospital emergency departments  | 4.7                    |

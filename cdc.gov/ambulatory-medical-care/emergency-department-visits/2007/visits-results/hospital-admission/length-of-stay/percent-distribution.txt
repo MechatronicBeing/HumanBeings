@@ -1,0 +1,10 @@
+| Length of stay    | Percent |
+| ----------------- | ------- |
+| All admissions    | 100     |
+| 1–2 days          | 19.4    |
+| 3–4 days          | 30.3    |
+| 5–6 days          | 15.4    |
+| 7–8 days          | 9.5     |
+| 9–10 days         | 4.3     |
+| More than 10 days | 7.1     |
+| Unknown or blank  | 14      |

@@ -1,0 +1,14 @@
+| Primary diagnosis                                | Number |
+| ------------------------------------------------ | ------ |
+| All male visits, age 15–64 years                 | 34400  |
+| Open wound, excluding head                       | 1816   |
+| Contusion with intact skin surface               | 1425   |
+| Chest pain                                       | 1421   |
+| Cellulitis and abscess                           | 1118   |
+| Spinal disorders                                 | 1112   |
+| Sprains and strains, excluding ankle and back    | 1026   |
+| Abdominal pain                                   | 1009   |
+| Sprains and strains of neck and back             | 948    |
+| Fractures, excluding lower limb                  | 911    |
+| Drug dependence and nondependence abuse of drugs | 690    |
+| All other diagnoses                              | 22924  |

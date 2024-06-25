@@ -1,0 +1,4 @@
+| Trauma center | Percent distribution |
+| ------------- | -------------------- |
+| Yes           | 35.3                 |
+| No or blank   | 64.7                 |
