@@ -1,0 +1,7 @@
+| Setting type        | Percent |
+| ------------------- | ------- |
+| Primary care        | 20.9    |
+| Surgical            | 29.3    |
+| Medical             | 22.1    |
+| Hospital outpatient | 7.3     |
+| Emergency           | 20.4    |
